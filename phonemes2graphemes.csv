@@ -1,5 +1,5 @@
 phonème,position,graphème,occurences,pourcentage,exemple_1,exemple_2,exemple_3
-m,isolé,m',0,0.0,,,
+m,isolé,m’,0,0.0,,,
 m,début,hm,1,0.0,hmong,,
 m,début,m,48874,0.99,ma,maars,maastrichtois
 m,milieu,m,153923,0.91,abactériémique,abaissemens,abaissement
@@ -91,7 +91,7 @@ p,fin,ppent,115,0.04,achoppent,agrippent,agrouppent
 p,fin,ppes,130,0.05,achoppes,agrippes,agrouppes
 p,fin,pps,1,0.0,trapps,,
 p,fin,ps,104,0.04,acaps,amaps,autostops
-d,isolé,d',0,0.0,,,
+d,isolé,d’,0,0.0,,,
 d,début,d,131698,0.99,da,dab,daba
 d,début,dh,3,0.0,dhampire,dhampires,dhoti
 d,début,j,41,0.0,jeep,jeeps,jelbab
@@ -114,7 +114,7 @@ d,fin,dds,1,0.0,judds,,
 d,fin,dh,5,0.0,balbodh,edh,jodh
 d,fin,dhs,1,0.0,jodhs,,
 d,fin,ds,141,0.01,abends,abids,abjads
-t,isolé,t',0,0.0,,,
+t,isolé,t’,0,0.0,,,
 t,début,c,409,0.0,chabba,chabbas,chacha
 t,début,t,46597,0.98,ta,taafien,tab
 t,début,th,151,0.0,thaana,thenardite,thenardites
@@ -149,7 +149,7 @@ t,fin,tte,1994,0.03,abatte,abbatte,ablerette
 t,fin,ttent,617,0.01,abattent,abbattent,accottent
 t,fin,ttes,1747,0.03,abattes,abbattes,ablerettes
 t,fin,tts,29,0.0,attowatts,boycotts,centiwatts
-n,isolé,n',0,0.0,,,
+n,isolé,n’,0,0.0,,,
 n,début,n,13791,1.0,na,naassène,naassènes
 n,milieu,g,67,0.0,avignonnaise,bignola,bignolai
 n,milieu,hn,1717,0.0,antitechniciste,antitechnicistes,arachnicide
@@ -217,7 +217,7 @@ n,fin,ns,329,0.01,abdomens,aboukorns,acumens
 ɡ,fin,gue,814,0.38,abnègue,accidentologue,acribologue
 ɡ,fin,guent,267,0.12,abnèguent,aiguent,airbaguent
 ɡ,fin,gues,728,0.34,abnègues,accidentologues,acribologues
-k,isolé,qu',0,0.0,,,
+k,isolé,qu’,0,0.0,,,
 k,début,c,76512,0.89,caatingas,cab,caba
 k,début,ch,1536,0.01,chaonorrhagie,chaonorrhagies,chaulmoogrique
 k,début,k,4207,0.04,ka,kab,kabak
@@ -277,7 +277,7 @@ k,fin,qs,7,0.0,araqs,bozoqs,conaqs
 k,fin,que,6056,0.45,aaronique,abactériémique,abandonnique
 k,fin,quent,648,0.04,abdiquent,abloquent,abouquent
 k,fin,ques,4590,0.34,aaroniques,abandonniques,abaques
-ʒ,isolé,j',0,0.0,,,
+ʒ,isolé,j’,0,0.0,,,
 ʒ,début,g,6109,0.5,gecko,geckonidé,geckos
 ʒ,début,ge,15,0.0,geacousies,geai,geais
 ʒ,début,j,5968,0.49,jabadao,jabadaos,jabet
@@ -354,8 +354,9 @@ z,fin,zz,5,0.0,badbuzz,buzz,jazz
 z,fin,zze,2,0.0,buzze,jazze,
 z,fin,zzent,2,0.0,buzzent,jazzent,
 z,fin,zzes,2,0.0,buzzes,jazzes,
-s,isolé,s',0,0.0,,,
-s,isolé,ç',0,0.0,,,
+s,isolé,c’,0,0.0,,,
+s,isolé,s’,0,0.0,,,
+s,isolé,ç’,0,0.0,,,
 s,début,c,8450,0.11,caecal,caecale,caecales
 s,début,ç,16,0.0,ça,çalois,çaloise
 s,début,s,65015,0.87,sa,sabadilline,sabadillines
@@ -437,7 +438,7 @@ s,fin,z,38,0.0,adichatz,attohertz,barometz
 ʁ,fin,ghe,1,0.0,tifinaghe,,
 ʁ,fin,ghes,1,0.0,tifinaghes,,
 ʁ,fin,ghs,1,0.0,tifinaghs,,
-l,isolé,l',0,0.0,,,
+l,isolé,l’,0,0.0,,,
 l,début,l,19954,0.99,la,labarum,labarums
 l,début,ll,4,0.0,llanero,llaneros,llanéro
 l,milieu,e,90,0.0,googleable,googleables,googlelisa
@@ -461,6 +462,7 @@ l,fin,ll,63,0.0,amphimull,appenzell,atoll
 l,fin,lls,40,0.0,amphimulls,atolls,attolls
 l,fin,ls,1294,0.05,ababils,abandogiciels,abdals
 j,isolé,y,1,1.0,y,,
+j,isolé,y’,0,0.0,,,
 j,début,hi,302,0.13,hia,hiai,hiaient
 j,début,hy,148,0.06,hyacinthacée,hyacinthacées,hyacinthe
 j,début,i,398,0.17,iaido,iakoute,iakoutes
