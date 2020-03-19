@@ -4,3 +4,4 @@
 * 2020-03-14 : ajout traitement noms propres et sigles.
 * 2020-03-14 : génération d'un fichier CSV avec les correspondances non trouvées.
 * 2020-03-18 : ajout traitement des mots composés.
+* 2020-03-19 : ajout traitement des locutions.
