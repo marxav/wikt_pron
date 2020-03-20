@@ -1,12 +1,12 @@
 phonème,graphème,occurences,pourcentage,exemple_1,exemple_2,exemple_3
 m,m’,67,0.0,com’,com’com,diam’
 m,hm,830,0.0,achmite,achmites,achmophobie
-m,m,253305,0.8,aalclim,aalklim,abactériémique
-m,me,7889,0.02,aaronisme,abime,abime
-m,mm,16266,0.05,abondamment,accommoda,accommodable
+m,m,253310,0.8,aalclim,aalklim,abactériémique
+m,me,7891,0.02,aaronisme,abime,abime
+m,mm,16270,0.05,abondamment,accommoda,accommodable
 m,mme,1081,0.0,adénogramme,akkadogramme,algorigramme
 m,ment,586,0.0,abiment,abyment,abîment
-m,mes,33254,0.1,aaronismes,abadâmes,abaissâmes
+m,mes,33255,0.1,aaronismes,abadâmes,abaissâmes
 m,mment,72,0.0,anagramment,assomment,autoconsomment
 m,mmes,477,0.0,adénogrammes,akkadogrammes,algorigrammes
 m,mms,2,0.0,stamms,stemms,
@@ -22,7 +22,7 @@ v,vs,9,0.0,annivs,cacatovs,couvs
 v,we,7,0.0,autointerviewe,interviewe,lerwe
 v,went,4,0.0,autointerviewent,interviewent,réinterviewent
 v,wes,6,0.0,autointerviewes,interviewes,lerwes
-f,f,143831,0.7,abdicatif,abductif,abessif
+f,f,143836,0.7,abdicatif,abductif,abessif
 f,ph,32916,0.16,abcédographie,abcédographies,ablutophobie
 f,fe,332,0.0,agnafe,agrafe,agrafe
 f,ff,22400,0.11,abomiffreuse,abomiffreuses,abomiffreux
@@ -41,7 +41,7 @@ f,phs,6,0.0,alephs,diaphs,josephs
 f,v,33,0.0,cheveu,cheveux,kalachnikov
 f,ve,13,0.0,abrogative,aperceptive,conclusive
 f,vs,4,0.0,kalachnikovs,kalashnikovs,makarovs
-b,b,234837,0.98,ab,ab-,aba
+b,b,234843,0.98,ab,ab-,aba
 b,bh,1,0.0,club-house,,
 b,gb,29,0.0,blingbling,blingbling,blingblings
 b,be,1548,0.0,absorbe,accube,acerbe
@@ -53,7 +53,7 @@ b,bbes,16,0.0,astibbes,clubbes,dabbes
 b,bent,197,0.0,absorbent,acerbent,adoubent
 b,bes,853,0.0,absorbes,acerbes,acerbes
 b,bs,114,0.0,achebs,alacabs,ardebs
-p,p,305885,0.93,abampère,abampères,abdominoplastie
+p,p,305925,0.93,abampère,abampères,abdominoplastie
 p,b,1693,0.0,absalonien,absalonienne,absaloniennes
 p,pe,3282,0.0,accipe,acclampe,accroupetonna
 p,pp,15320,0.04,achoppa,achoppai,achoppaient
@@ -65,7 +65,7 @@ p,ppent,125,0.0,achoppent,agrippent,agrouppent
 p,ppes,187,0.0,achoppes,agrippes,agrouppes
 p,pps,1,0.0,trapps,,
 d,d’,3787,0.0,aujourd’hui,aujourd’hui,cejourd’hui
-d,d,366690,0.94,abada,abadai,abadaient
+d,d,366700,0.94,abada,abadai,abadaient
 d,dh,55,0.0,adhæra,adhærai,adhæraient
 d,j,42,0.0,darjeeling,jeep,jeeps
 d,dd,1367,0.0,adda,addai,addaient
@@ -82,7 +82,7 @@ d,dhs,1,0.0,jodhs,,
 d,ds,199,0.0,abends,abids,abjads
 t,t’,53,0.0,appart’,cafèt’,cafét’
 t,c,1597,0.0,acciaccatura,achinais,achinais
-t,t,623255,0.85,aastaises,abacost,abactérien
+t,t,623302,0.85,aastaises,abacost,abactérien
 t,th,2574,0.0,absinthai,absinthaient,absinthant
 t,cht,261,0.0,déschtroumpfa,déschtroumpfai,déschtroumpfaient
 t,chts,2,0.0,yachts,yachtsman,
@@ -94,7 +94,7 @@ t,tt,29025,0.03,abattable,abattables,abattage
 t,tte,3698,0.0,abatte,abatte,abattemens
 t,dt,36,0.0,arendtien,darmstadtates,darmstadtium
 t,tent,2915,0.0,abotent,aboutent,abratent
-t,tes,40976,0.05,aakérites,abacates,abacistes
+t,tes,40977,0.05,aakérites,abacates,abacistes
 t,thent,5,0.0,absinthent,azimuthent,bismuthent
 t,thes,202,0.0,absinthes,absinthes,absinthes
 t,ths,40,0.0,aneths,archiluths,baths
@@ -103,7 +103,7 @@ t,ttent,671,0.0,abattent,abbattent,accottent
 t,ttes,2608,0.0,abattes,abbattes,ablerettes
 t,tts,34,0.0,attowatts,boycotts,centiwatts
 n,n’,164,0.0,n’,n’dama,n’damas
-n,n,252132,0.71,aalénien,aalénienne,aaléniennes
+n,n,252146,0.71,aalénien,aalénienne,aaléniennes
 n,g,90,0.0,avignonnaise,bignola,bignolai
 n,hn,1907,0.0,antitechniciste,antitechnicistes,arachnicide
 n,mn,434,0.0,autocondamna,autocondamnai,autocondamnaient
@@ -136,7 +136,7 @@ n,ns,425,0.0,abdomens,aboukorns,acumens
 ɲ,gnes,653,0.02,aborgnes,acagnes,accagnes
 ɲ,igne,163,0.0,aplaigne,araigne,araigne
 ɲ,nys,1,0.0,yidinys,,
-ŋ,n,400,0.31,barangay,bengalî,bengalî
+ŋ,n,401,0.31,barangay,bengalî,bengalî
 ŋ,ng,640,0.49,aboung,abung,agribashing
 ŋ,g,36,0.02,biltong,bong,dangdut
 ŋ,ngs,208,0.16,antifoulings,aquabikings,aquaplanings
@@ -153,9 +153,9 @@ n,ns,425,0.0,abdomens,aboukorns,acumens
 ɡ,guent,278,0.0,abnèguent,aiguent,airbaguent
 ɡ,gues,1036,0.0,abnègues,accidentologues,acribologues
 k,qu’,180,0.0,jusqu’,jusqu’alors,jusqu’auboutiste
-k,c,322835,0.73,aalclim,aalclims,abaca
+k,c,322843,0.73,aalclim,aalclims,abaca
 k,ch,4900,0.01,abelmeluch,abelmosch,acheiropoïète
-k,k,19786,0.04,aakérite,aakérites,aalklim
+k,k,19827,0.04,aakérite,aakérites,aalklim
 k,kh,101,0.0,akh,akhas,ankh
 k,q,15757,0.03,abloqui,abloquir,abloquira
 k,qu,39028,0.08,abdiqua,abdiquai,abdiquaient
@@ -170,7 +170,7 @@ k,cque,303,0.0,abbecque,abecque,abecquement
 k,g,29,0.0,algonquiens,bergopzom,bergopzoms
 k,kk,156,0.0,akkadien,akkadien,akkadienne
 k,kw,44,0.0,atikamekw,atikamekw,atikamekwisa
-k,que,12892,0.02,aaronique,abactériémique,abandonnique
+k,que,12893,0.02,aaronique,abactériémique,abandonnique
 k,che,10,0.0,acritarche,acéphalobrache,acéphalobrache
 k,ches,10,0.0,acritarches,acéphalobraches,acéphalobraches
 k,chs,26,0.0,abelmeluchs,abelmoschs,adrézarachs
@@ -190,7 +190,7 @@ k,khes,6,0.0,kazakhes,sikhes,sikhes
 k,kke,4,0.0,retrekke,slikke,trekke
 k,kkent,2,0.0,retrekkent,trekkent,
 k,kkes,3,0.0,retrekkes,slikkes,trekkes
-k,ks,255,0.0,abroks,afterworks,amoks
+k,ks,256,0.0,abroks,afterworks,amoks
 k,kws,3,0.0,atikamekws,Atikamekws,Attikamekws
 k,qs,20,0.0,araqs,bozoqs,conaqs
 k,quent,705,0.0,abdiquent,abloquent,abouquent
@@ -207,7 +207,7 @@ k,ques,7417,0.01,aaroniques,abandonniques,abandonniques
 ʒ,jent,5,0.0,armèjent,biroulèjent,francimandèjent
 ʒ,jes,10,0.0,ajes,armèjes,babajes
 ʒ,js,4,0.0,beujs,bordjs,trajs
-ʃ,ch,81343,0.82,abachi,abachis,abbèchera
+ʃ,ch,81384,0.82,abachi,abachis,abbèchera
 ʃ,ch’,57,0.0,ch’,ch’kâra,ch’kâras
 ʃ,che,5676,0.05,abadèche,abbèche,abouche
 ʃ,s,3044,0.03,abishira,abishégam,aftershava
@@ -232,15 +232,15 @@ k,ques,7417,0.01,aaroniques,abandonniques,abandonniques
 ʃ,shs,30,0.0,amishs,antislashs,backslashs
 z,j,3,0.0,ajustabilités,jaleïka,jaleïkas
 z,z,17535,0.04,abaza,abkhazité,abkhazités
-z,s,341526,0.85,abasie,abasies,abasourdi
-z,se,17129,0.04,aaronaise,abainvilloise,abaisseuse
+z,s,341563,0.85,abasie,abasies,abasourdi
+z,se,17130,0.04,aaronaise,abainvilloise,abaisseuse
 z,si,20,0.0,agribusiness,agrobusiness,business
 z,x,324,0.0,deuxaine,deuxio,deuxième
 z,zh,7,0.0,breizhous,freizh,pezh
 z,ze,510,0.0,abkhaze,abkhaze,acanthize
 z,zz,383,0.0,abruzzais,abruzzais,abruzzaise
-z,sent,7283,0.01,abduisent,abeilardisent,abidjanisent
-z,ses,14658,0.03,aaronaises,aastaises,abainvilloises
+z,sent,7284,0.01,abduisent,abeilardisent,abidjanisent
+z,ses,14659,0.03,aaronaises,aastaises,abainvilloises
 z,zent,39,0.0,autobronzent,benzent,bronzent
 z,zes,182,0.0,abkhazes,acanthizes,achkenazes
 z,zs,2,0.0,gonzs,Kirghizs,
@@ -252,16 +252,16 @@ s,s’,2968,0.0,s’abader,s’abaisser,s’abaisser
 s,ç’,1,0.0,ç’,,
 s,c,81125,0.12,abaciste,abacistes,abandogiciel
 s,ç,10319,0.01,accoinçon,accoinçons,acquiesçant
-s,s,286172,0.45,aaronisme,aaronismes,aasax
+s,s,286180,0.45,aaronisme,aaronismes,aasax
 s,sc,5171,0.0,abscise,abscises,abscision
-s,th,128,0.0,chrestomathie,chrestomathies,classpath
+s,th,132,0.0,chrestomathie,chrestomathies,classpath
 s,x,460,0.0,antisoixantehuitard,antisoixantehuitards,auxerrois
 s,cc,50,0.0,accensa,accensai,accensaient
 s,ce,6209,0.0,abayance,aberrance,abjuratrice
 s,sç,109,0.0,acquiesça,acquiesçable,acquiesçables
 s,se,1810,0.0,abaisse,abaisse,abaissemens
-s,ss,116588,0.18,abadassiez,abadassions,abaissassiez
-s,sse,32026,0.05,abadasse,abaissasse,abalasse
+s,ss,116590,0.18,abadassiez,abadassions,abaissassiez
+s,sse,32027,0.05,abadasse,abaissasse,abalasse
 s,sth,97,0.0,antiasthmatique,antiasthmatique,antiasthmatiques
 s,t,27791,0.04,abaliénation,abaliénations,abannation
 s,z,446,0.0,adichatz,attohertz,aztèques
@@ -272,16 +272,16 @@ s,scent,5,0.0,concupiscent,fascent,immiscent
 s,sces,8,0.0,concupisces,drosces,fasces
 s,sent,347,0.0,abaissent,absconsent,accensent
 s,ses,1069,0.0,abaisses,abaisses,abbesses
-s,ssent,28931,0.04,abadassent,abaissassent,abalassent
-s,sses,29332,0.04,abadasses,abaissasses,abalasses
+s,ssent,28932,0.04,abadassent,abaissassent,abalassent
+s,sses,29333,0.04,abadasses,abaissasses,abalasses
 s,ths,2,0.0,classpaths,smithsonites,
 s,tz,12,0.0,anetziens,trénitz,Anetz
-ʁ,r,1378440,0.92,aakérite,aakérites,aari
+ʁ,r,1378507,0.92,aakérite,aakérites,aari
 ʁ,rh,137,0.0,amblyrhynque,amblyrhynques,arhats
 ʁ,rr,22372,0.01,aberra,aberrai,aberraient
 ʁ,r’,2236,0.0,entr’-,entr’abat,entr’abattaient
 ʁ,rc,39,0.0,antarctique,antarctiques,arcticisation
-ʁ,re,22083,0.01,abampère,abandonnataire,abandonware
+ʁ,re,22084,0.01,abampère,abandonnataire,abandonware
 ʁ,rre,1238,0.0,abarrejadis,aberre,abhorre
 ʁ,rrh,122,0.0,adiarrhée,adiarrhées,aménorrhée
 ʁ,rrhe,18,0.0,anticatarrhe,anticatarrhe,arrhe
@@ -290,7 +290,7 @@ s,tz,12,0.0,anetziens,trénitz,Anetz
 ʁ,rcs,7,0.0,clercs,marcs,porcs
 ʁ,rd,1791,0.0,abeillard,abeillard,abord
 ʁ,rds,837,0.0,abeillards,abords,académisards
-ʁ,rent,30148,0.02,abadèrent,abaissèrent,abaliénèrent
+ʁ,rent,30149,0.02,abadèrent,abaissèrent,abaliénèrent
 ʁ,res,11506,0.0,abampères,abandonnataires,abandonwares
 ʁ,rf,41,0.0,cerf,hircocerf,nerf
 ʁ,rfs,44,0.0,cerfs,nerfs,serfs
@@ -309,7 +309,7 @@ s,tz,12,0.0,anetziens,trénitz,Anetz
 ʁ,ghes,1,0.0,tifinaghes,,
 ʁ,ghs,2,0.0,tifinaghs,tifinaghs,
 l,l’,1436,0.0,babil’s,coquel’œil,coquel’œil
-l,l,448050,0.86,aalclim,aalclim,aalclims
+l,l,448058,0.86,aalclim,aalclim,aalclims
 l,ll,32107,0.06,abainvillois,abainvilloise,abainvilloises
 l,e,210,0.0,battle,bundle,crumble
 l,gl,545,0.0,agglo,agglo,agglomère
@@ -326,9 +326,9 @@ l,lls,65,0.0,amphimulls,atolls,attolls
 l,ls,2097,0.0,ababils,abandogiciels,abdals
 j,y,11336,0.02,abaya,abaya,abayai
 j,y’,9,0.0,y’,y’a,circulez y’a rien à voir
-j,hi,1593,0.0,abrachiocéphale,abrachiocéphale,abrachiocéphales
+j,hi,1594,0.0,abrachiocéphale,abrachiocéphale,abrachiocéphales
 j,hy,277,0.0,bathyal,bathyale,brachyodonte
-j,i,318391,0.81,aalénien,aalénienne,aaléniennes
+j,i,318397,0.81,aalénien,aalénienne,aaléniennes
 j,ï,1125,0.0,abaïa,abaïai,abaïaient
 j,j,369,0.0,adjalètes,adjoukrou,ajoureuse
 j,yi,281,0.0,abayiez,abayions,abreyiez
@@ -368,8 +368,8 @@ j,ys,22,0.0,atays,attays,boys
 w,ho,185,0.0,agathois,aguanishois,aguanishoise
 w,hou,72,0.0,cacahouète,cacahouètes,cahouètes
 w,ou,9055,0.14,ababouiné,ababouinée,ababouinées
-w,w,5475,0.08,abakwariga,abandonware,abandonwares
-w,o,43982,0.7,abainvillois,abainvilloise,abainvilloises
+w,w,5526,0.08,abakwariga,abandonware,abandonwares
+w,o,43983,0.7,abainvillois,abainvilloise,abainvilloises
 w,hu,37,0.0,cacahuète,cacahuètes,chihuahua
 w,oo,86,0.0,reshampooina,reshampooinai,reshampooinaient
 w,oy,25,0.0,anvoye,broyemens,broyement
@@ -382,9 +382,9 @@ i,hi,8705,0.0,abishira,absinthine,absinthines
 i,hie,163,0.0,abrachie,acanthie,acroposthie
 i,hient,1,0.0,hient,,
 i,hies,106,0.0,abrachies,acanthies,acroposthies
-i,y,36419,0.03,abioglyphe,abioglyphes,abutyrotomofilogène
+i,y,36420,0.03,abioglyphe,abioglyphes,abutyrotomofilogène
 i,hy,8723,0.0,acrothymion,acrothymions,acétaldéhyde
-i,i,792858,0.86,aakérite,aakérites,aalclim
+i,i,792903,0.86,aakérite,aakérites,aalclim
 i,î,4092,0.0,abalourdîmes,abalourdîtes,abanuîmes
 i,e,570,0.0,abbaye,bebop,because
 i,ea,1065,0.0,alsea,beach,beacha
@@ -409,7 +409,7 @@ i,ict,1,0.0,amict,,
 i,icts,1,0.0,amicts,,
 i,ïe,16,0.0,amuïe,amuïe,dyschroïe
 i,ient,1228,0.0,abrient,abrévient,abérient
-i,ies,7961,0.0,abadies,abalourdies,abanuies
+i,ies,7962,0.0,abadies,abalourdies,abanuies
 i,ïes,15,0.0,amuïes,amuïes,azalaïes
 i,ii,40,0.0,ascidiiforme,ascidiiformes,briissois
 i,il,103,0.0,baril,chartil,courtil
@@ -424,9 +424,9 @@ i,ye,26,0.0,barye,fuye,harpye
 i,yes,16,0.0,abbayes,baryes,harpyes
 i,yie,5,0.0,cécidomyie,orgyie,stégomyie
 i,yies,2,0.0,cécidomyies,orgyies,
-i,ys,232,0.0,afterpartys,aisys,almastys
+i,ys,233,0.0,afterpartys,aisys,almastys
 i,yt,1,0.0,Clerfayt,,
-e,ai,58243,0.06,abadai,abaderai,abaierai
+e,ai,58245,0.06,abadai,abaderai,abaierai
 e,eh,51,0.0,behaviourisme,behaviourismes,brehaigne
 e,et,1414,0.0,admettable,admettables,aiguillettier
 e,hé,11319,0.01,abishégam,absinthé,absinthé
@@ -435,17 +435,17 @@ e,ae,110,0.0,aedelforsites,aedicule,aedicules
 e,aî,206,0.0,autoenchaîner,autoentraîner,autotraîner
 e,æ,679,0.0,adhæra,adhærai,adhæraient
 e,ay,225,0.0,abbaye,abraysien,abraysienne
-e,e,16111,0.01,abelia,abelias,abellen
-e,é,503251,0.57,aakérite,aakérites,aalénien
+e,e,16113,0.01,abelia,abelias,abellen
+e,é,503252,0.57,aakérite,aakérites,aalénien
 e,ey,161,0.0,alleyracois,aveyronnais,aveyronnaises
 e,ha,5,0.0,hayer,milkshake,Shakespeare
 e,he,199,0.0,anchitherium,anchitheriums,anthenois
 e,œ,583,0.0,acœlomate,acœlomate,acœlomates
 e,oe,99,0.0,acoelomé,acoelomés,caloenas
-e,a,552,0.0,abayer,abbayes,accrapoutir
+e,a,554,0.0,abayer,abbayes,accrapoutir
 e,ê,1239,0.0,abêtit,apprêter,apprêté
 e,ë,27,0.0,aërométrie,aërométries,canoë
-e,ée,29390,0.03,ababouinée,abadée,abaissée
+e,ée,29391,0.03,ababouinée,abadée,abaissée
 e,ei,197,0.0,aveinière,baleinier,baleinier
 e,aes,2,0.0,reggaes,reggaes,
 e,ais,47,0.0,bandolais,chicoutais,courais
@@ -459,22 +459,22 @@ e,ee,53,0.0,beethovenien,beethovénien,beethovéniennes
 e,ër,1,0.0,arguër,,
 e,ets,104,0.0,agouets,alphadécédets,amelets
 e,éent,48,0.0,agréent,autocréent,bléent
-e,ées,28313,0.03,ababouinées,abadées,abaissées
+e,ées,28314,0.03,ababouinées,abadées,abaissées
 e,ef,47,0.0,bief,clef,teffs
 e,efs,41,0.0,clefs,clefs Allen,clefs USB
-e,er,39248,0.04,abader,abaisser,abaisser
+e,er,39249,0.04,abader,abaisser,abaisser
 e,ers,2779,0.0,abeillers,abeillers,abeilliers
 e,es,1527,0.0,altérabilites,animes,arares
-e,és,30690,0.03,ababouinés,abadés,abaissés
+e,és,30691,0.03,ababouinés,abadés,abaissés
 e,ës,2,0.0,canoës,xylaloës,
 e,ex,9,0.0,Bex,Cernex,Challex
-e,ez,143612,0.16,abadassiez,abaderez,abaderiez
+e,ez,143617,0.16,abadassiez,abaderez,abaderiez
 e,her,45,0.0,absinther,arrher,azimuther
 ɛ,aie,1328,0.0,abaie,abaiera,abaierai
-ɛ,aient,58112,0.11,abadaient,abaderaient,abaient
+ɛ,aient,58114,0.11,abadaient,abaderaient,abaient
 ɛ,aies,269,0.0,abaies,abricoteraies,abstraies
-ɛ,ais,62310,0.12,aaronais,abadais,abaderais
-ɛ,ait,58558,0.11,abadait,abaderait,abaierait
+ɛ,ais,62312,0.12,aaronais,abadais,abaderais
+ɛ,ait,58560,0.11,abadait,abaderait,abaierait
 ɛ,ayent,2,0.0,ayent,dépotayent,
 ɛ,es,12335,0.02,abbesse,abbesses,abessif
 ɛ,est,284,0.0,c’est,divest,est
@@ -483,14 +483,14 @@ e,her,45,0.0,absinther,arrher,azimuther
 ɛ,hais,38,0.0,absinthais,arrhais,azimuthais
 ɛ,hait,44,0.0,absinthait,arrhait,azimuthait
 ɛ,haye,5,0.0,Onhaye,Bois-de-Haye,La Haye
-ɛ,a,6911,0.01,abandonware,abandonwares,abaya
+ɛ,a,6913,0.01,abandonware,abandonwares,abaya
 ɛ,ae,20,0.0,aerarium,baeckeofe,chaebol
 ɛ,æ,94,0.0,adhære,adhærent,adhærera
 ɛ,ai,28893,0.05,aaronaise,aaronaises,aastaises
 ɛ,aî,2608,0.0,acconnaître,affaîta,affaîtage
-ɛ,e,177212,0.35,aalénienne,aaléniennes,abamectin
+ɛ,e,177213,0.35,aalénienne,aaléniennes,abamectin
 ɛ,é,9535,0.01,abaliénera,abaliénerai,abaliéneraient
-ɛ,è,58634,0.11,abadèche,abadèches,abadèrent
+ɛ,è,58635,0.11,abadèche,abadèches,abadèrent
 ɛ,ê,7701,0.01,abêti,abêti,abêtie
 ɛ,ha,350,0.0,aftershava,aftershavai,aftershavaient
 ɛ,hay,8,0.0,hayve,hayves,onhaytois
@@ -503,7 +503,7 @@ e,her,45,0.0,absinther,arrher,azimuther
 ɛ,aye,50,0.0,archegaye,balayemens,balayement
 ɛ,ey,489,0.0,alleycat,antidreyfusard,antidreyfusard
 ɛ,ë,437,0.0,aloës,boënnaises,boëssa
-ɛ,ea,322,0.0,beefsteak,beefsteaks,boghead
+ɛ,ea,326,0.0,beefsteak,beefsteaks,boghead
 ɛ,ee,359,0.0,beethovenisa,beethovenisai,beethovenisaient
 ɛ,ei,2095,0.0,abeilardisa,abeilardisai,abeilardisaient
 ɛ,hai,190,0.0,achaine,achaines,bréhaignes
@@ -548,7 +548,7 @@ e,her,45,0.0,absinther,arrher,azimuther
 ɛ̃,im,6984,0.07,aguimpa,aguimpai,aguimpaient
 ɛ̃,in,53583,0.61,abamectin,abrasin,absintha
 ɛ̃,e,146,0.0,abergementier,abergementiers,abergementière
-ɛ̃,en,8066,0.09,aalénien,abactérien,abbevillien
+ɛ̃,en,8067,0.09,aalénien,abactérien,abbevillien
 ɛ̃,ing,194,0.0,basting,coing,fulguropoing
 ɛ̃,ïn,241,0.0,caïnça,caïnças,coïncida
 ɛ̃,în,114,0.0,abstînmes,abstîntes,appartînmes
@@ -595,13 +595,14 @@ e,her,45,0.0,absinther,arrher,azimuther
 œ,i,172,0.0,birdie,birdies,callgirl
 œ,io,46,0.0,fashion,fashionisa,fashionisai
 œ,l,198,0.0,battle,battles,bundle
+œ,o,65,0.0,bacon,bacons,chorfa
 œ,ogl,0,0.0,,,
 œ,oe,50,0.0,arroeilla,arroeillai,arroeillaient
 œ,u,3788,0.12,aboyeur,aboyeur,aboyeurs
 œ,ue,441,0.01,accueil,accueillables,accueillaient
 œ,euent,1,0.0,aveuent,,
 ə,ai,392,0.0,autosatisfaisaient,autosatisfaisais,autosatisfaisait
-ə,e,567752,0.99,abadera,abaderai,abaderaient
+ə,e,567764,0.99,abadera,abaderai,abaderaient
 ə,on,16,0.0,croquemonsieur,croquemonsieurs,monsieur
 ø,euh,25,0.0,beuh,beuh,beuhers
 ø,eux,2247,0.11,abloqueux,abomiffreux,abomiffreux
@@ -644,7 +645,7 @@ y,huent,3,0.0,forhuent,rehuent,huent
 y,hues,4,0.0,cohues,forhues,rehues
 y,eû,4,0.0,eûmes,eûtes,vergeûre
 y,hu,3709,0.01,abathudois,abathudoise,abathudoises
-y,u,186735,0.93,abacule,abarticulaire,abarticulaires
+y,u,186737,0.93,abacule,abarticulaire,abarticulaires
 y,ü,165,0.0,argüa,argüai,argüaient
 y,eü,13,0.0,bringeüre,chargeüre,chargeüres
 y,us,1288,0.0,abattus,abattus,abbattus
@@ -737,7 +738,7 @@ o,hau,674,0.0,antihausse,blockhaus,bouhaureau
 o,heau,44,0.0,déheauma,déheaumai,déheaumaient
 o,hô,143,0.0,hôla,hôlai,hôlaient
 o,hoa,1,0.0,hoax,,
-o,o,123787,0.6,abacos,abacost,abandogiciel
+o,o,123790,0.6,abacos,abacost,abandogiciel
 o,a,163,0.0,balltrap,baseball,baseballeur
 o,aû,5,0.0,afaûtri,afaûtris,jaûne
 o,aw,106,0.0,coleslaw,coleslaw,crawl
@@ -779,7 +780,7 @@ o,ows,9,0.0,bungalows,chamallows,flows
 o,oz,9,0.0,Aviernoz,Contrevoz,Cormoz
 ɔ,au,22268,0.04,acausal,acausale,acausales
 ɔ,ho,9201,0.01,abhorra,abhorrable,abhorrables
-ɔ,o,435118,0.92,aaronais,aaronaise,aaronaises
+ɔ,o,435121,0.92,aaronais,aaronaise,aaronaises
 ɔ,a,299,0.0,baseball,basketball,batcha
 ɔ,ao,52,0.0,extraordinaire,extraordinaire,extraordinarisa
 ɔ,aw,11,0.0,lawrencite,lawrencium,respawne
@@ -799,7 +800,7 @@ o,oz,9,0.0,Aviernoz,Contrevoz,Cormoz
 ɔ,ots,93,0.0,abricots,arbrots,arcots
 ɔ̃,hon,652,0.0,achondroplase,achondroplase,achondroplases
 ɔ̃,on,70487,0.26,abaknon,abaknon,abaliénation
-ɔ̃,ont,30363,0.11,abaderont,abaieront,abaisseront
+ɔ̃,ont,30364,0.11,abaderont,abaieront,abaisseront
 ɔ̃,hom,42,0.0,dirhombicosidodécaèdre,dirhombicosidodécaèdres,dirhombidodécaèdre
 ɔ̃,om,15502,0.05,accombant,accombante,accombantes
 ɔ̃,um,70,0.0,circumméridien,circumméridienne,circumméridiennes
@@ -820,7 +821,7 @@ o,oz,9,0.0,Aviernoz,Contrevoz,Cormoz
 ɔ̃,onds,163,0.0,absconds,affonds,antirebonds
 ɔ̃,ong,86,0.0,barlong,cachalong,cacholong
 ɔ̃,ongs,29,0.0,barlongs,cacholongs,dugongs
-ɔ̃,ons,151286,0.56,abadassions,abaderions,abaderons
+ɔ̃,ons,151291,0.56,abadassions,abaderions,abaderons
 ɔ̃,onts,77,0.0,affronts,amonts,autoponts
 ɑ̃,an,79210,0.28,abancourtois,abancourtoise,abancourtoises
 ɑ̃,ans,1734,0.0,abondans,aboussans,accablans
@@ -845,7 +846,7 @@ o,oz,9,0.0,Aviernoz,Contrevoz,Cormoz
 ɑ̃,and,694,0.0,allemand,allemand,anglonormand
 ɑ̃,ands,211,0.0,allemands,allemands,anglonormands
 ɑ̃,angs,26,0.0,farsangs,pursangs,rangs
-ɑ̃,ant,31888,0.11,abadant,abaissant,abalant
+ɑ̃,ant,31889,0.11,abadant,abaissant,abalant
 ɑ̃,ants,2775,0.0,abasourdissants,abatants,abattants
 ɑ̃,aon,32,0.0,craon,faon,laonnois
 ɑ̃,aons,12,0.0,craons,faons,paons
@@ -860,7 +861,7 @@ o,oz,9,0.0,Aviernoz,Contrevoz,Cormoz
 ɑ̃,ent,6670,0.02,abaissement,abandonnement,abandonnément
 ɑ̃,ents,3220,0.01,abaissements,abandonnements,abasourdissements
 ɑ̃,hans,17,0.0,afghans,ahans,astrakhans
-ɑ,a,6910,0.52,a,abas,abiaugeasse
+ɑ,a,6911,0.52,a,abas,abiaugeasse
 ɑ,â,5276,0.39,abâtardi,abâtardie,abâtardies
 ɑ,hâ,137,0.01,déhâler,hâbla,hâblai
 ɑ,as,327,0.02,abras,alenas,ananas
@@ -876,14 +877,14 @@ o,oz,9,0.0,Aviernoz,Contrevoz,Cormoz
 ɑ,âts,14,0.0,bâts,entrebâts,ghâts
 ɑ,aw,18,0.0,bucksaw,chainsaw,chawl
 ɑ,az,6,0.0,lapiaz,raz,La Clusaz
-a,a,936174,0.82,a,a,a
+a,a,936228,0.82,a,a,a
 a,à,5477,0.0,bàs,celà,delà
 a,ah,375,0.0,abdullah,ah,ahriman
-a,as,58403,0.05,aas,abacas,abadas
-a,aa,245,0.0,aakérite,aakérites,aalénien
-a,ha,11725,0.01,abeilhanais,abeilhanaise,abeilhanaises
+a,as,58405,0.05,aas,abacas,abadas
+a,aa,243,0.0,aakérite,aakérites,aalénien
+a,ha,11726,0.01,abeilhanais,abeilhanaise,abeilhanaises
 a,hâ,168,0.0,absinthâmes,absinthâtes,arrhâmes
-a,â,58053,0.05,abadâmes,abadâtes,abaissâmes
+a,â,58055,0.05,abadâmes,abadâtes,abaissâmes
 a,ã,10,0.0,baião,brandãosite,brandãosites
 a,ae,30,0.0,baeckeoffe,baes,baesine
 a,ao,128,0.0,faonna,faonnai,faonnaient
@@ -907,7 +908,7 @@ a,ahs,41,0.0,abdullahs,argilahs,ayatollahs
 a,ap,16,0.0,drap,flexographies,sparadrap
 a,aps,9,0.0,draps,sparadraps,draps de sac
 a,ars,5,0.0,gars,gars,gars sûr
-a,ât,26430,0.02,abadât,abaissât,abaliénât
+a,ât,26431,0.02,abadât,abaissât,abaliénât
 a,ats,824,0.0,abats,abats,abbatiats
 a,âts,6,0.0,appâts,dégâts,mâts
 a,ax,4,0.0,Oyonnax,Oyonnax,La Xhavée
@@ -917,7 +918,7 @@ a,ient,197,0.0,aboient,aloient,apitoient
 a,ies,264,0.0,aboies,aloies,apitoies
 a,igt,34,0.0,doigt,au doigt et à l’œil,au doigt mouillé
 a,igts,48,0.0,doigts,aux doigts de rose,avoir de l’or au bout des doigts
-a,is,3545,0.0,abainvillois,abancourtois,abathudois
+a,is,3546,0.0,abainvillois,abancourtois,abathudois
 a,it,337,0.0,accroit,adroit,antoit
 a,ît,27,0.0,accroît,accroît,benoît
 a,its,124,0.0,adroits,antoits,benoits
