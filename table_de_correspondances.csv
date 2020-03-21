@@ -151,6 +151,7 @@ t,fin,ttes
 t,fin,tts
 n,isolé,n’
 n,début,n
+n,début,kn
 n,milieu,g
 n,milieu,hn
 n,milieu,mn
@@ -475,6 +476,7 @@ j,début,yi
 j,milieu,e
 j,milieu,g
 j,milieu,i
+j,milieu,ii
 j,milieu,ï
 j,milieu,ïi
 j,milieu,ill
@@ -621,6 +623,7 @@ e,début,ey
 e,début,ha
 e,début,he
 e,début,hé
+e,début,hæ
 e,début,œ
 e,début,oe
 e,milieu,a
@@ -697,6 +700,7 @@ e,fin,her
 ɛ,début,ha
 ɛ,début,hay
 ɛ,début,he
+ɛ,début,hea
 ɛ,début,hé
 ɛ,début,hê
 ɛ,début,œ
@@ -718,11 +722,13 @@ e,fin,her
 ɛ,milieu,ea
 ɛ,milieu,ee
 ɛ,milieu,ei
+ɛ,milieu,eï
 ɛ,milieu,es
 ɛ,milieu,hai
 ɛ,milieu,he
 ɛ,milieu,hè
 ɛ,milieu,i
+ɛ,milieu,ie
 ɛ,milieu,ue
 ɛ,milieu,œ
 ɛ,fin,ai
@@ -964,6 +970,7 @@ u,isolé,où
 u,isolé,ouh
 u,début,aou
 u,début,aoû
+u,début,hoo
 u,début,hou
 u,début,hu
 u,début,ou
@@ -1105,7 +1112,9 @@ o,fin,ow
 o,fin,ows
 o,fin,oz
 ɔ,début,au
+ɔ,début,hau
 ɔ,début,ho
+ɔ,début,hô
 ɔ,début,o
 ɔ,milieu,a
 ɔ,milieu,ao
@@ -1249,6 +1258,7 @@ a,début,hâ
 a,milieu,a
 a,milieu,â
 a,milieu,ã
+a,milieu,ä
 a,milieu,aa
 a,milieu,ae
 a,milieu,ah
@@ -1304,9 +1314,12 @@ a,fin,ix
 a,fin,ois
 a,fin,yes
 aj,début,hei
+aj,début,high
+aj,début,hy
 aj,milieu,hei
 aj,milieu,hi
 aj,milieu,i
+aj,milieu,igh
 aj,milieu,y
 dʒ,début,j
 dʒ,milieu,g
@@ -1315,12 +1328,14 @@ ij,milieu,y
 ks,début,x
 ks,milieu,x
 ks,milieu,xc
+ks,milieu,xs
 ks,fin,x
 ks,fin,xe
 ks,fin,xes
 ks,fin,xent
 ɡz,début,x
 ɡz,milieu,x
+ɡz,milieu,xh
 ɔɛ,milieu,œ
 tʃ,début,ch
 tʃ,début,x
