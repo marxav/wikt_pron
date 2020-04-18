@@ -6364,7 +6364,6 @@ Quinsacoise,kɛ̃.sa.kwaz&lt;!-- kwɛ̃.sa.kwaz ? --&gt;,nom,err_lower_case,Q_as
 Quétigny,ke.ti.ŋi,nom propre,err_lower_case,Q_as_first_letter
 R&B,aʁ.ɛnd.bi,nom,err_lower_case,R_as_first_letter
 R&D,ɛʁ.e.de,nom,err_lower_case,R_as_first_letter
-R0R,ɛʁ ze.ʁo ɛʁ,nom,err_lower_case,R_as_first_letter
 Racan,ʁa.kɑ,nom propre,err_lower_case,R_as_first_letter
 Racan,ʁa.kɑ,nom de famille,err_lower_case,R_as_first_letter
 Raedersheim,ʁɛ.dəʁs.(h)ajm,nom propre,err_lower_case,R_as_first_letter
@@ -6712,8 +6711,6 @@ Zœbersdorf,tsø.bəʁs.dɔʁf,nom propre,err_lower_case,Z_as_first_letter
 Δ,dɛl.ta,nom_clé=d,err_lower_case,Δ_as_first_letter
 & cetera,ɛt se.te.ʁa,adverbe,err_lower_case,&_as_first_letter
 & cétéra,ɛt se.te.ʁa,adverbe,err_lower_case,&_as_first_letter
-0-day,ze.ʁo dɛj,nom,err_lower_case,0_as_first_letter
-0-days,ze.ʁo dɛjz,nom_flexion,err_lower_case,0_as_first_letter
 A Bola,a ˈbo.la,nom propre,err_lower_case,A_as_first_letter
 A Cañiza,kaˈɲisa,nom propre,err_lower_case,A_as_first_letter
 A Cañiza,kaˈɲiθa,nom propre,err_lower_case,A_as_first_letter
@@ -7134,16 +7131,7 @@ WEI,ˈwaj ou ˈwɛj,nom,err_lower_case,W_as_first_letter
 &,e,conjonction,err_lower_case,&_as_first_letter
 +,plys,adverbe,err_lower_case,+_as_first_letter
 ",",viʁ.ɡyl,symbole_num=2,err_lower_case,",_as_first_letter"
-0,ze.ʁo,nom,err_lower_case,0_as_first_letter
 01,ze.ʁo ɛ̃,nom propre,err_lower_case,0_as_first_letter
-02,ze.ʁo dø,nom propre,err_lower_case,0_as_first_letter
-03,ze.ʁo.tʁwa,nom propre,err_lower_case,0_as_first_letter
-04,ze.ʁo katʁ,nom propre,err_lower_case,0_as_first_letter
-05,ze.ʁo sɛ̃k,nom propre,err_lower_case,0_as_first_letter
-06,ze.ʁo sis,nom propre,err_lower_case,0_as_first_letter
-06,ze.ʁo sis,nom,err_lower_case,0_as_first_letter
-07,ze.ʁo.sɛt,nom propre,err_lower_case,0_as_first_letter
-08,ze.ʁo.ɥit,nom propre,err_lower_case,0_as_first_letter
 09,ze.ʁo nøf,nom propre,err_lower_case,0_as_first_letter
 1000BaseT,mil.baz.te,nom,err_lower_case,1_as_first_letter
 105,sɑ̃.sɛ̃k,nom,err_lower_case,1_as_first_letter
@@ -7181,7 +7169,6 @@ WEI,ˈwaj ou ˈwɛj,nom,err_lower_case,W_as_first_letter
 42,ka.ʁɑ̃t.dø,nom,err_lower_case,4_as_first_letter
 421,kat.sɑ̃.vɛ̃.t‿e.œ̃,nom,err_lower_case,4_as_first_letter
 43,ka.ʁɑ̃.tə.tʁwa,nom,err_lower_case,4_as_first_letter
-450,kat(ʁ) sɛ̃k zeʁo,nom,err_lower_case,4_as_first_letter
 46,ka.ʁɑ̃t.sis,nom,err_lower_case,4_as_first_letter
 4×4,katʁ.katʁ,adjectif,err_lower_case,4_as_first_letter
 4×4,katʁ.katʁ,nom,err_lower_case,4_as_first_letter
