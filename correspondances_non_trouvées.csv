@@ -1,15 +1,15 @@
 Mot,Prononciation,Type,Warn_code,Warn_label
 &c,ɛt‿se.te.ʁa,adverbe,err_lower_case,&_as_first_letter
-(2s),dø ɛs,nom,err_lower_case,(_as_first_letter
 (2s),dø.zjɛm sɛk.sjɔ̃,nom,err_lower_case,(_as_first_letter
+(2s),dø ɛs,nom,err_lower_case,(_as_first_letter
 1º,pʁi.mo,adverbe,err_lower_case,1_as_first_letter
 2m1,də.mɛ̃,adverbe,err_lower_case,2_as_first_letter
 68ard,swa.sɑ̃.t‿ɥi.taʁ,nom,err_lower_case,6_as_first_letter
 68ard,swa.sɑ̃.t‿ɥi.taʁ,adjectif,err_lower_case,6_as_first_letter
 68arde,swa.sɑ̃.t‿ɥi.taʁd,adjectif_flexion,err_lower_case,6_as_first_letter
 68arde,swa.sɑ̃.t‿ɥi.taʁd,nom,err_lower_case,6_as_first_letter
-68ardes,swa.sɑ̃.t‿ɥi.taʁd,adjectif_flexion,err_lower_case,6_as_first_letter
 68ardes,swa.sɑ̃.t‿ɥi.taʁd,nom_flexion,err_lower_case,6_as_first_letter
+68ardes,swa.sɑ̃.t‿ɥi.taʁd,adjectif_flexion,err_lower_case,6_as_first_letter
 68ards,swa.sɑ̃.t‿ɥi.taʁ,nom_flexion,err_lower_case,6_as_first_letter
 68ards,swa.sɑ̃.t‿ɥi.taʁ,adjectif_flexion,err_lower_case,6_as_first_letter
 70ème,swa.sɑ̃t di.zjɛm,adjectif,err_lower_case,7_as_first_letter
@@ -18,10 +18,10 @@ aabam,aːbam,nom,err_phonemes,ː
 aal,aːl,nom,err_phonemes,ː
 aalandais,oː.lɑ̃.dɛ,adjectif,err_phonemes,ː
 aalandais,aː.lɑ̃.dɛ,adjectif,err_phonemes,ː
-aalandaise,oːlɑ̃.dɛz,adjectif_flexion,err_phonemes,ː
 aalandaise,aːlɑ̃.dɛz,adjectif_flexion,err_phonemes,ː
-aalandaises,aːlɑ̃.dɛz,adjectif_flexion,err_phonemes,ː
+aalandaise,oːlɑ̃.dɛz,adjectif_flexion,err_phonemes,ː
 aalandaises,oːlɑ̃.dɛz,adjectif_flexion,err_phonemes,ː
+aalandaises,aːlɑ̃.dɛz,adjectif_flexion,err_phonemes,ː
 aantgich,aːn.tʒik,nom,err_phonemes,ː
 aantgichs,aːn.tʒik,nom_flexion,err_phonemes,ː
 aarite,aːʁit,nom,err_phonemes,ː
@@ -39,8 +39,8 @@ aboiteau,a.bwe.to,nom,-,-
 abrahamiques,a.bʁa.ʔa.mik,adjectif_flexion,err_phonemes,ʔ
 accortesse,a.kɔʁ.tiz,nom,-,-
 ace,eɪs,nom,err_phonemes,ɪ
-acehnais,a.tʃe.nɛ,adjectif,-,-
 acehnais,a.tʃe.nɛ,nom,-,-
+acehnais,a.tʃe.nɛ,adjectif,-,-
 achenheimois,a.xən.(h)aj.mwa,adjectif,err_phonemes,x
 achenheimoise,a.xən.(h)aj.mwaz,adjectif_flexion,err_phonemes,x
 achenheimoises,a.xən.(h)aj.mwaz,adjectif_flexion,err_phonemes,x
@@ -57,6 +57,8 @@ affourragement,a.fu.ʁa.jmɑ̃,nom,-,-
 affourragements,a.fu.ʁa.jmɑ̃,nom_flexion,-,-
 affrication,a.fri.ka.sjɔ̃,nom,err_phonemes,r
 agathachristien,a.ɡa.ta.kris.tjɛ̃,adjectif,err_phonemes,r
+agaviforme,a.ga.vi.fɔʁm,adjectif,err_phonemes,g
+agaviformes,a.ga.vi.fɔʁm,adjectif_flexion,err_phonemes,g
 agnus,a.ŋus,nom,-,-
 agrég’,a.ɡʁeɡ,nom,-,-
 ah,aː,onomatopée,err_phonemes,ː
@@ -106,6 +108,8 @@ amstaffs,am.staf,nom_flexion,-,-
 amygdaliformes,a.miɡ.dal.li.fɔʁm,adjectif_flexion,-,-
 amân,a.mɑ̃,nom,-,-
 amâns,a.mɑ̃,nom_flexion,-,-
+américanisante,a.me.ʁi.ka.ni.zɑ̃,adjectif_flexion,-,-
+américanisantes,a.me.ʁi.ka.ni.zɑ̃,adjectif_flexion,-,-
 anaclétique,a.na.klek.tik,adjectif,-,-
 anaclétiques,a.na.klek.tik,adjectif_flexion,-,-
 anacéphaléose,a.na.se.fa.loz,nom,-,-
@@ -144,16 +148,16 @@ annulleroit,a.ny.lə.ʁɛ,verbe_flexion,-,-
 annulloient,a.ny.lɛ,verbe_flexion,-,-
 annullois,a.ny.lɛ,verbe_flexion,-,-
 annulloit,a.ny.lɛ,verbe_flexion,-,-
-anodyns,a.nɔ.dɛ̃,nom_flexion,-,-
 anodyns,a.nɔ.dɛ̃,adjectif_flexion,-,-
+anodyns,a.nɔ.dɛ̃,nom_flexion,-,-
 anspect,ɑ̃.spɛk,nom,-,-
 anspects,ɑ̃.spɛk,nom_flexion,-,-
 antiaromatiques,a.ʁo.ma.tik,adjectif_flexion,-,-
 antibois,ɑ̃.ti.bwɑ,nom,-,-
 anticivilisations,si.vi.li.za.sjɔ̃,nom_flexion,-,-
 antidictatoriaux,ɑ̃.ti.dɛ̃k.ta.tɔ.ʁjo,adjectif_flexion,-,-
-antidyssentérique,ɑ̃.ti.di.sɑ̃.tʁik,adjectif,-,-
 antidyssentérique,ɑ̃.ti.di.sɑ̃.tʁik,nom,-,-
+antidyssentérique,ɑ̃.ti.di.sɑ̃.tʁik,adjectif,-,-
 antijuivisme,ɑ̃.ti.ʒɥ.vism,nom,-,-
 antijuivismes,ɑ̃.ti.ʒɥ.vism,nom_flexion,-,-
 antilégomènes,ɑ̃.ti.lɔ.ɡu.mɛn,nom,-,-
@@ -185,8 +189,8 @@ aphthartodocète,a.fta.ʁtɔ.dʁ.sɛt,adjectif,-,-
 apocyns,a.pɔ.sɛ̃,nom_flexion,-,-
 aposématique,a.pɔ.ze.ma.k,adjectif,-,-
 aposématiques,a.pɔ.ze.ma.kfʁ,adjectif_flexion,-,-
-apotélésmatique,a.pɔs.te.le.ma.tik,adjectif,-,-
 apotélésmatique,a.pɔs.te.le.ma.tik,nom,-,-
+apotélésmatique,a.pɔs.te.le.ma.tik,adjectif,-,-
 apozème,a.po.zɛːm,nom,err_phonemes,ː
 appareillemens,a.pa.ʁɛʎ.mɑ̃,nom_flexion,err_phonemes,ʎ
 apparîement,a.pa.ʁi.mɑ̃,nom,-,-
@@ -215,8 +219,8 @@ arsaguais,aʁ.sa.kɛ,adjectif,-,-
 ascensoristes,a.sɔ̃.so.ʁist,nom_flexion,-,-
 ascéennes,s.se.ɛn,adjectif_flexion,-,-
 aspersoir,as.pɛʁ.swaːʁ,nom,err_phonemes,ː
-astinage,as.tsi.naʒ,nom,-,-
 astinage,as.tsi.naʊʒ,nom,err_phonemes,ʊ
+astinage,as.tsi.naʒ,nom,-,-
 astiner,as.tsi.ne,verbe,-,-
 astineux,as.ts.nø,nom,-,-
 astrocytaire,as.tʁɔ.si.tɛːʁ,adjectif,err_phonemes,ː
@@ -228,6 +232,7 @@ athenæes,a.te.ne,nom_flexion,-,-
 athétosique,aʁ.te.to.zik,adjectif,-,-
 athétosiques,aʁ.te.to.zik,adjectif_flexion,-,-
 auditoire,o.di.twaːʁ,nom,err_phonemes,ː
+auguet,o.ɡɛ̃,nom,-,-
 aussitost,o.si.to,adverbe,-,-
 auteures,o.tœ.ʁə,nom_flexion,-,-
 autocoache,o.to.kɔtʃ,verbe_flexion,-,-
@@ -265,16 +270,16 @@ bagelerie,be.ɡœl.ri,nom,err_phonemes,r
 bageleries,be.ɡœl.ri,nom_flexion,err_phonemes,r
 bah,baː,interjection,err_phonemes,ː
 baharia,ba.(h)a.ʁja,nom,err_phonemes,h
-bahaï,ba.hɑ.i,adjectif,err_phonemes,h
 bahaï,ba.hɑ.i,nom,err_phonemes,h
+bahaï,ba.hɑ.i,adjectif,err_phonemes,h
 bahaïe,ba.hɑ.i,adjectif_flexion,err_phonemes,h
 bahaïe,ba.hɑ.i,nom,err_phonemes,h
-bahaïes,ba.hɑ.i,nom_flexion,err_phonemes,h
 bahaïes,ba.hɑ.i,adjectif_flexion,err_phonemes,h
+bahaïes,ba.hɑ.i,nom_flexion,err_phonemes,h
 bahaïsme,ba.hɑ.ism,nom,err_phonemes,h
 bahaïsmes,ba.ʰa.ism,nom_flexion,err_phonemes,ʰ
-bahá’í,ba.hɑ.i,nom,err_phonemes,h
 bahá’í,ba.hɑ.i,adjectif,err_phonemes,h
+bahá’í,ba.hɑ.i,nom,err_phonemes,h
 bahá’íe,ba.hɑ.i,adjectif_flexion,err_phonemes,h
 bahá’íe,ba.hɑ.i,nom_flexion,err_phonemes,h
 bahá’íes,ba.hɑ.i,adjectif_flexion,err_phonemes,h
@@ -290,8 +295,8 @@ barakîs,ba.ʁa.ki,nom_flexion,-,-
 barbecues,baʁ.bə.kju,nom_flexion,-,-
 barbirostre,baʁ.bi.rɔstʁ,adjectif,err_phonemes,r
 barbirostres,baʁ.bi.rɔstʁ,adjectif_flexion,err_phonemes,r
-barbâre,baʁ.bɑːʁ,nom,err_phonemes,ː
 barbâre,baʁ.bɑːʁ,adjectif,err_phonemes,ː
+barbâre,baʁ.bɑːʁ,nom,err_phonemes,ː
 barbéient,baʁ.bɛj,verbe_flexion,-,-
 barbéies,baʁ.bɛj,verbe_flexion,-,-
 bardache,baʁ.daːʃ,nom,err_phonemes,ː
@@ -312,8 +317,8 @@ beaucairien,bo.kɛ.ʁʁjɛ̃,adjectif,-,-
 beauseigne,bœ.sɛɲ,interjection,-,-
 becquebois,bɛk.bwɑ,nom,-,-
 becquez,be.k,verbe_flexion,-,-
-behā’ī,be.hɑ.i,adjectif,err_phonemes,h
 behā’ī,be.hɑ.i,nom,err_phonemes,h
+behā’ī,be.hɑ.i,adjectif,err_phonemes,h
 behā’īs,ba.hɑ.i,nom_flexion,err_phonemes,h
 belgeoisants,t,nom_flexion,-,-
 belgissimes,bɛl.ʒi.si.sim,adjectif_flexion,-,-
@@ -333,7 +338,7 @@ beubars,bə.baʁ,nom_flexion,-,-
 beuchelle,bə.ʃɛl,nom,-,-
 beuchelles,bə.ʃɛl,nom_flexion,-,-
 beuvien,bə.vjɛ̃,adjectif,-,-
-bexarotène,be.gsa.ʁɔ.tɛn,nom,err_phonemes,g
+bexarotène,be.ɡsa.ʁɔ.tɛn,nom,-,-
 beya,be.ya,nom,-,-
 beûrre,bœːʁ,nom,err_phonemes,ː
 bibitif,bi.bi.ti,adjectif,-,-
@@ -364,6 +369,7 @@ binationalités,bi.na.sjɔ̃.na.li.te,nom_flexion,-,-
 binne,bɪn,nom,err_phonemes,ɪ
 bioagresseur,bjo.a.ɡʁɛ.sœʁ de kyl.tyʁ,nom,-,-
 bioagresseurs,bjo.a.ɡʁɛ.sœʁ de kyl.tyʁ,nom_flexion,-,-
+bioindication,bjo.ɜ̃.di.ka.sjɔ̃,nom,err_phonemes,ɜ̃
 bipentaphonique,bi.pœ̃.ta.fo.nik,adjectif,-,-
 bisaïeux,bi.za.jœl,nom_flexion,-,-
 bischoffs,biʃ.ɔf,nom_flexion,-,-
@@ -372,8 +378,8 @@ bispatulée,bi.psa.ty.le,adjectif_flexion,-,-
 bispatulées,bi.psa.ty.le,adjectif_flexion,-,-
 bispatulés,bi.psa.ty.le,adjectif_flexion,-,-
 bisseuses,bi.sœʁ,nom_flexion,-,-
-bjr,bɔ̃.ʒuʁ,nom,-,-
 bjr,bɔ̃.ʒuʁ,interjection,-,-
+bjr,bɔ̃.ʒuʁ,nom,-,-
 blade,blɛjd,nom_num=2,-,-
 blaesheimois,blɛs.(h)aj.mwa,adjectif,err_phonemes,h
 blaesheimoise,blɛs.(h)aj.mwaz,adjectif_flexion,err_phonemes,h
@@ -413,8 +419,8 @@ blót,blo,nom,err_letters,ó
 bocager,bɔ.ka.ʒɛ,adjectif,-,-
 bocagers,bɔ.ka.ʒɛ,adjectif_flexion,-,-
 boentje,buntʃ,nom,-,-
-boers,buːʁ,nom_flexion,err_phonemes,ː
 boers,buːʁ,adjectif_flexion,err_phonemes,ː
+boers,buːʁ,nom_flexion,err_phonemes,ː
 boeuf,bœf,variante typographique,-,-
 bogosité,bɔ.ɡɔ̃.zi.te,nom,-,-
 bogosités,bɔ.ɡɔ̃.zi.te,nom_flexion,-,-
@@ -427,8 +433,8 @@ bokmål,buk.mɔl,nom,err_letters,å
 bolchévique,bɔl.ʃə.vik,adjectif,-,-
 bolchéviste,bɔl.ʃə.vist,adjectif,-,-
 bolchéviste,bɔl.ʃə.vist,nom,-,-
-bolchévistes,bɔl.ʃə.vist,nom_flexion,-,-
 bolchévistes,bɔl.ʃə.vist,adjectif_flexion,-,-
+bolchévistes,bɔl.ʃə.vist,nom_flexion,-,-
 bon,ba.ta.jɔ̃,nom_num=4,-,-
 bonding,bɔ̃(n).diŋ,nom,-,-
 bondings,bɔ̃(n).diŋ,nom_flexion,-,-
@@ -521,8 +527,8 @@ boot,buːt,nom_num=1,err_phonemes,ː
 bootloader,but.low.dœʁ,nom,-,-
 boots,buːt,nom_flexion|num=1,err_phonemes,ː
 booélien,bu.le.jɛ̃,adjectif,-,-
-boscottes,bɔ.sko,adjectif_flexion,-,-
 boscottes,bɔ.sko,nom_flexion,-,-
+boscottes,bɔ.sko,adjectif_flexion,-,-
 botellón,bɔ.te.ˈjɔn,nom,err_letters,ó
 botticellien,bɔ.ti.tʃɛ.ljɛ̃,adjectif,-,-
 botticellienne,bɔ.ti.tʃɛ.ljɛn,nom,-,-
@@ -595,15 +601,15 @@ brunschvicgien,bʁœ̃s.vi.kjɛ̃,adjectif,-,-
 brunschvicgienne,bʁœ̃s.vi.kjɛn,adjectif_flexion,-,-
 brunschvicgiennes,bʁœ̃s.vi.kjɛn,adjectif_flexion,-,-
 brunschvicgiennes,bʁœ̃s.vi.kjɛn,nom_flexion,-,-
-brunschvicgiens,bʁœ̃s.vi.kjɛ̃,adjectif_flexion,-,-
 brunschvicgiens,bʁœ̃s.vi.kjɛ̃,nom_flexion,-,-
+brunschvicgiens,bʁœ̃s.vi.kjɛ̃,adjectif_flexion,-,-
 bruxomanie,bʁi.kɔ.ma.ni,nom,-,-
 brythonique,bʁi.tɔ̃.nik,adjectif,-,-
 brythoniques,bʁi.tɔ̃.nik,adjectif_flexion,-,-
 bryton,bʁy.tɔ̃,nom,-,-
+bréhaigne,bʁe.ɛnj,adjectif,-,-
 bréhaigne,bʁe.ɛnj,adverbe,-,-
 bréhaigne,bʁe.ɛnj,nom,-,-
-bréhaigne,bʁe.ɛnj,adjectif,-,-
 bréhaignes,bʁe.ɛnj,nom_flexion,-,-
 bréhaignes,bʁe.ɛnj,adjectif_flexion,-,-
 bsr,bɔ̃.swaʁ,interjection,-,-
@@ -618,21 +624,20 @@ bâtonne,bɔ.tɔn,verbe_flexion,-,-
 bâul,bol,adjectif,-,-
 bâuls,bol,adjectif_flexion,-,-
 bâ’,ba,nom,-,-
-bégaudes,be.god,nom_flexion,err_phonemes,g
-béhaï,be.hɑ.i,nom,err_phonemes,h
 béhaï,be.hɑ.i,adjectif,err_phonemes,h
-béhaïe,be.hɑ.i,nom,err_phonemes,h
+béhaï,be.hɑ.i,nom,err_phonemes,h
 béhaïe,be.hɑ.i,adjectif_flexion,err_phonemes,h
+béhaïe,be.hɑ.i,nom,err_phonemes,h
 béhaïes,be.hɑ.i,nom_flexion,err_phonemes,h
 béhaïes,be.hɑ.i,adjectif_flexion,err_phonemes,h
-béhaïs,be.hɑ.i,adjectif_flexion,err_phonemes,h
 béhaïs,be.hɑ.i,nom_flexion,err_phonemes,h
+béhaïs,be.hɑ.i,adjectif_flexion,err_phonemes,h
 béhors,be.ʔɔʁ,nom,err_phonemes,ʔ
 béhourdis,be.ʔuʁ.di,nom,err_phonemes,ʔ
 bésɨro,be.si.ʁo,nom,err_letters,ɨ
 bêtes,bɛt(ə),adjectif_flexion,-,-
-bābī,bɑ.bi,adjectif,err_letters,ī
 bābī,bɑ.bi,nom,err_letters,ī
+bābī,bɑ.bi,adjectif,err_letters,ī
 bābīs,bɑ.bi,nom_flexion,err_letters,ī
 bœotien,be.ɔ.sjɛ,adjectif,-,-
 c,sɛ,verbe_flexion,-,-
@@ -703,8 +708,8 @@ carriôler,ka.jʁo.le,verbe,-,-
 cataphases,ka.ta.faʒ,nom_flexion,-,-
 cateler,ka.tə.te,verbe,-,-
 catholiciser,ʁə.ka.to.li.si.ze,verbe,-,-
-catéchétiques,ka.te.ʃik,nom_flexion,-,-
 catéchétiques,ka.te.ʃik,adjectif_flexion,-,-
+catéchétiques,ka.te.ʃik,nom_flexion,-,-
 caténine,ka.tas.te.nin,nom,-,-
 caténines,ka.tas.te.nin,nom_flexion,-,-
 caudillos,ka.o.di.jo,nom_flexion,-,-
@@ -770,12 +775,10 @@ chikungunyent,ʃi.kun.ɡuɲ,verbe_flexion,-,-
 chikungunyes,ʃi.kun.ɡuɲ,verbe_flexion,-,-
 chimane,t͡ʃi.ma.ne,nom,-,-
 chimane,t͡ʃi.ma.ne,adjectif,-,-
-chinotto,kiˈnɔt.to,nom,-,-
-chinotto,kiˈno.to,nom,-,-
 chinottos,kiˈno.to,nom_flexion,-,-
-chipaya,ʃi.pa.ya,adjectif,-,-
-chipaya,t͡ʃi.pa.ya,nom,-,-
 chipaya,ʃi.pa.ya,nom,-,-
+chipaya,t͡ʃi.pa.ya,nom,-,-
+chipaya,ʃi.pa.ya,adjectif,-,-
 chipewyan,tʃi.pe.wan,nom,-,-
 chiptune,tʃip.tjun,nom,-,-
 chiqueuses,ʃi.kœʁ,nom_flexion,-,-
@@ -815,8 +818,8 @@ christophobies,kʁiʁs.tɔ.fɔ.bi,nom_flexion,-,-
 chtekr,ʃtekr,nom,err_phonemes,r
 chácobo,ʃa.ko.bo,nom,err_letters,á
 chácobo,ʃa.ko.bo,adjectif,err_letters,á
-châble,ʃɑːbl,nom_num=2,err_phonemes,ː
 châble,ʃɑːbl,nom_num=1,err_phonemes,ː
+châble,ʃɑːbl,nom_num=2,err_phonemes,ː
 chérokîe,ʃe.ʁɔ.ki,adjectif_flexion,-,-
 chérokîes,ʃe.ʁɔ.ki,adjectif_flexion,-,-
 chérokîs,ʃe.ʁɔ.ki,adjectif_flexion,-,-
@@ -828,8 +831,8 @@ chóptse,tʃɔp.tse,nom,err_letters,ó
 ch’ol,tʃɔl,nom,-,-
 ciabata,tʃa.ba.ta,nom,-,-
 ciabatas,tʃa.ba.ta,nom_flexion,-,-
-ciabatta,tʃja.ba.ta,nom,-,-
 ciabatta,tʃa.ba.ta,nom,-,-
+ciabatta,tʃja.ba.ta,nom,-,-
 ciao,tʃa.o,interjection,-,-
 ciao,tʃaw,interjection,-,-
 cibak,tʃi.bak,nom,-,-
@@ -862,8 +865,8 @@ cludjaire,kly.jɛʁ,nom,-,-
 cludjaires,kly.jɛʁ,nom_flexion,-,-
 coache,kotʃ,verbe_flexion,-,-
 coachent,kotʃ,verbe_flexion,-,-
-coaches,kɔtʃ,nom_flexion,-,-
 coaches,kotʃ,verbe_flexion,-,-
+coaches,kɔtʃ,nom_flexion,-,-
 coachs,kɔtʃ,nom_flexion,-,-
 cobalteux,kɔ.bal.tik,adjectif,-,-
 cobalthérapie,kɔ.balt.te.ʁa.pi,nom,-,-
@@ -897,8 +900,8 @@ coloniales,ko.loˈnjal,adjectif_flexion,-,-
 columbium,kɔ.lɛ̃.bjɔm,nom,-,-
 colón,kɔ.lɔn,nom,err_letters,ó
 combava,kɔ̃.ba.wa,nom,-,-
-combiennièmes,kɔ̃.bjɛ̃.tjɛm,adjectif interrogatif_flexion,-,-
 combiennièmes,kɔ̃.bjɛ̃.tjɛm,pronom interrogatif_flexion,-,-
+combiennièmes,kɔ̃.bjɛ̃.tjɛm,adjectif interrogatif_flexion,-,-
 combinateur,kɔ.bi.na.tœʁ,nom,-,-
 combinateurs,kɔ.bi.na.tœʁ,nom_flexion,-,-
 combishorts,kɔ.bi.ʃɔʁt,nom_flexion,-,-
@@ -909,8 +912,8 @@ compagnie,kɔ̃.pa.ni,nom,-,-
 compagnies,kɔ̃.pa.ni,nom_flexion,-,-
 complantier,kɔ.plɑ̃.tje,nom,-,-
 complantiers,kɔ.plɑ̃.tje,nom_flexion,-,-
-compradore,kɔ̃(m).pʁa.dɔʁ,adjectif,-,-
 compradore,kɔ̃(m).pʁa.dɔʁ,nom,-,-
+compradore,kɔ̃(m).pʁa.dɔʁ,adjectif,-,-
 comprenantes,kɔ̃.pʁə.nɑ̃tt,adjectif_flexion,-,-
 comprimeur,kɔ.pʁi.mœʁ,nom,-,-
 comprimeurs,kɔ.pʁi.mœʁ,nom_flexion,-,-
@@ -919,8 +922,8 @@ computer,kɔ̃.pju.tœʁ,nom,-,-
 computers,kɔ̃.pju.tœʁ,nom_flexion,-,-
 compétitrice,kɔ̃.pe.ti.tʁi,adjectif_flexion,-,-
 comédogène,kɔ.me.dɔ.ʒən,nom,-,-
-conard,kɔ̃.naʁ,nom_num=1,-,-
 conard,kɔ̃.naʁ,nom_num=2,-,-
+conard,kɔ̃.naʁ,nom_num=1,-,-
 conaud,kɔ̃.no,nom,-,-
 conauds,kɔ̃.no,nom_flexion,-,-
 concamération,kɔ.ka.me.ʁa.sjɔ̃,nom,-,-
@@ -969,8 +972,8 @@ couchsurfings,koːtʃ.sœʁ.fiŋ,nom_flexion,err_phonemes,ː
 counehet,ku.nɛ,adjectif,-,-
 counehets,ku.nɛ,adjectif_flexion,-,-
 couv’,kuv,nom,-,-
-coëfe,kwaf,nom,-,-
 coëfe,kwaf,verbe_flexion,-,-
+coëfe,kwaf,nom,-,-
 coëffe,kwaf,nom,-,-
 coëffe,kwaf,verbe_flexion,-,-
 coësre,kwɛʁ,nom,-,-
@@ -978,8 +981,8 @@ coësres,kwɛʁ,nom_flexion,-,-
 cramponné,ku.li.se,adjectif,-,-
 crannogs,kʁa.nɔʒ,nom_flexion,-,-
 craquia,kʀa.kjɑ,nom,err_phonemes,ʀ
-craquias,kʀakjɑ,nom,err_phonemes,ʀ
 craquias,kʀakjɑ,nom_flexion,err_phonemes,ʀ
+craquias,kʀakjɑ,nom,err_phonemes,ʀ
 crevable,kʁə.vabl̥,adjectif,err_phonemes,̥
 crevables,kʁə.vabl̥,adjectif_flexion,err_phonemes,̥
 criaillemens,kʁi.aʎ.mɑ̃,nom_flexion,err_phonemes,ʎ
@@ -1067,15 +1070,15 @@ dehonien,də.hɔ.njɛ̃,nom,err_phonemes,h
 dehonienne,də.hɔ.njɛn,adjectif_flexion,err_phonemes,h
 dehoniennes,də.hɔ.njɛn,adjectif_flexion,err_phonemes,h
 dehoniens,də.hɔ.njɛ̃,nom_flexion,err_phonemes,h
-dena’ina,de.na.i.na,adjectif,-,-
 dena’ina,de.na.i.na,nom,-,-
+dena’ina,de.na.i.na,adjectif,-,-
 destroyers,dɛs.tʁwɑ.je,nom_flexion,-,-
 deutérostomiens,døs.te.ʁo.to.mjɛ̃,nom,-,-
-devanagari,de.və.ˈnɑː.ɡə.ʁiː,nom,err_phonemes,ː
 devanagari,de.və.ˈnɑː.ɡə.ʁiː,adjectif,err_phonemes,ː
+devanagari,de.və.ˈnɑː.ɡə.ʁiː,nom,err_phonemes,ː
 devanâgarîs,de.va.na.ɡa.ʁi,nom_flexion,-,-
-devanāgarī,de.va.na.ɡa.ʁi,adjectif,err_letters,ī
 devanāgarī,de.va.na.ɡa.ʁi,nom,err_letters,ī
+devanāgarī,de.va.na.ɡa.ʁi,adjectif,err_letters,ī
 devanāgarīs,de.va.na.ɡa.ʁi,nom_flexion,err_letters,ī
 devroit,də.vʁwɛ,verbe_flexion,-,-
 dhad,ðˤad,nom,err_phonemes,ð
@@ -1118,8 +1121,8 @@ djembé,d͡ʒɛm.be,nom,-,-
 djembés,d͡ʒɛm.be,nom_flexion,-,-
 djeune,d͡ʒœn,nom,-,-
 djeunes,d͡ʒœns,nom_flexion,-,-
-djihadistes,dʒi.(h)a.dist,adjectif_flexion,err_phonemes,h
 djihadistes,dʒi.(h)a.dist,nom_flexion,err_phonemes,h
+djihadistes,dʒi.(h)a.dist,adjectif_flexion,err_phonemes,h
 djihads,dʒi.ʔad,nom_flexion,err_phonemes,ʔ
 dodécatémorie,dɔ.de.ka.te.mɔ.ri,nom,err_phonemes,r
 dohoi,dɔ.hɔj,adjectif,err_phonemes,h
@@ -1135,10 +1138,10 @@ dongles,dɔŋ.ɡəl,nom_flexion,-,-
 doni,dɔ̃.ni,nom,-,-
 donis,dɔ̃.ni,nom_flexion,-,-
 donnoit,dɔ.nɛ,verbe_flexion,-,-
-doriotiste,dɔ.kʁjɔ.tist,adjectif,-,-
 doriotiste,dɔ.kʁjɔ.tist,nom,-,-
-doughnut,do.nœt,nom,-,-
+doriotiste,dɔ.kʁjɔ.tist,adjectif,-,-
 doughnut,do.nɔt,nom,-,-
+doughnut,do.nœt,nom,-,-
 downbeat,da.ɔn.bit,nom,-,-
 downtempo,da.ɔn.tɛm.po,nom,-,-
 doxxing,dɔk.siŋ,nom,-,-
@@ -1148,7 +1151,6 @@ drehu,dʒe.u,nom,-,-
 drenche,dʁɛntʃ,verbe_flexion,-,-
 drenchent,dʁɛntʃ,verbe_flexion,-,-
 drenches,dʁɛntʃ,verbe_flexion,-,-
-dringue,dʁɛ̃g,nom,err_phonemes,g
 drives,drajv,nom_flexion,err_phonemes,r
 drolles,mf,adj_flexion,-,-
 dromoi,dʁɔ.mɔs,nom_flexion,-,-
@@ -1169,8 +1171,8 @@ dundee,dɛ̃.de,nom,-,-
 dundees,dɛ̃.de,nom_flexion,-,-
 dundée,dɛ̃.de,nom,-,-
 dundées,dɛ̃.de,nom_flexion,-,-
-dvt,də.vɑ̃,préposition,-,-
 dvt,də.vɑ̃,nom,-,-
+dvt,də.vɑ̃,préposition,-,-
 dvt,də.vɑ̃,adverbe,-,-
 dysdiadococinésie,dis.dja.ko.si.ne.zi,nom,-,-
 dysdiadococinésies,dis.dja.ko.si.ne.zi,nom_flexion,-,-
@@ -1327,12 +1329,11 @@ déformement,de.fɔ̃ʁ.mə.mɑ̃,nom,-,-
 déformements,de.fɔ̃ʁ.mə.mɑ̃,nom_flexion,-,-
 défourni,e.fuʁ.ni,nom,-,-
 défunction,de.fœ̃.sjɔ̃,nom,-,-
-défunctions,de.fœ(k).sjɔ̃,nom_flexion,-,-
 défunctions,de.fœ(k).tjɔ̃,verbe_flexion,-,-
+défunctions,de.fœ(k).sjɔ̃,nom_flexion,-,-
 déglaciation,ɡla.sja.sjɔ̃,nom,-,-
 dégluements,de.ɡɛl.mɑ̃,nom_flexion,-,-
 dégustatrice,de.ɡys.ta.tœʁ,nom_flexion,-,-
-dégustatrices,de.ɡys.ta.tœʁ,nom_flexion,-,-
 déharnachemens,de.ʔaʁ.naʃ.mɑ̃,nom_flexion,err_phonemes,ʔ
 déharnachements,de.ʔaʁ.naʃ.mɑ̃,nom_flexion,err_phonemes,ʔ
 déhiscence,de.ʔi.sɑ̃s,nom,err_phonemes,ʔ
@@ -1391,7 +1392,6 @@ dépensable,de.pɑ̃.sablᵊ,adjectif,err_phonemes,ᵊ
 dépècemens,de.pə.sə.mɑ̃,nom_flexion,-,-
 dépècement,de.pəs.mɑ̃,nom,-,-
 déracineuse,de.ʁa.si.nœʁ,nom_flexion,-,-
-déracineuses,de.ʁa.si.nœʁ,nom_flexion,-,-
 dératiseurs,de.ʁa.ti.zœ̃ʁ,nom_flexion,-,-
 désalignemens,de.zali.əɲ.mɑ̃,nom_flexion,-,-
 désalignements,de.zali.əɲ.mɑ̃,nom_flexion,-,-
@@ -1431,7 +1431,6 @@ désoxyhémoglobines,de.zɔk.si.e.mɔ.ɡlɔ.bin ʁe.dɥit,nom_flexion,-,-
 déstalinisation,des.tal.li.ni.za.sjɔ̃,nom,-,-
 déstalinisations,des.tal.li.ni.za.sjɔ̃,nom_flexion,-,-
 désysoperont,si.zɔ.pə.ʁɔ̃,verbe_flexion,-,-
-détacheuses,de.ta.ʃœʁ,nom_flexion,-,-
 déturbateurs,de.tyʁ.ba.t,adjectif_flexion,-,-
 dévanâgarîs,de.va.na.ɡa.ʁi,nom_flexion,-,-
 dévoiser,de.wva.ze,verbe,-,-
@@ -1506,12 +1505,12 @@ engargoussée,ɑ̃.ɡaʁ.ɡuʁ.se,verbe_flexion,-,-
 engargoussées,ɑ̃.ɡaʁ.ɡuʁ.se,verbe_flexion,-,-
 engargoussés,ɑ̃.ɡaʁ.ɡuʁ.se,verbe_flexion,-,-
 engsvanyáli,ɛŋ.ɡzva.nja.li,nom,err_letters,á
-engsvanyálie,ɛŋ.ɡzva.nja.li,adjectif_flexion,err_letters,á
 engsvanyálie,eŋ.svɑn.ˈjɑ.li,adjectif_flexion,err_letters,á
-engsvanyálies,eŋ.svɑn.ˈjɑ.li,adjectif_flexion,err_letters,á
+engsvanyálie,ɛŋ.ɡzva.nja.li,adjectif_flexion,err_letters,á
 engsvanyálies,ɛŋ.ɡzva.nja.li,adjectif_flexion,err_letters,á
-engsvanyális,eŋ.svɑn.ˈjɑ.li,adjectif_flexion,err_letters,á
+engsvanyálies,eŋ.svɑn.ˈjɑ.li,adjectif_flexion,err_letters,á
 engsvanyális,ɛŋ.ɡzva.nja.li,adjectif_flexion,err_letters,á
+engsvanyális,eŋ.svɑn.ˈjɑ.li,adjectif_flexion,err_letters,á
 enhardé,ɑ̃.ʔaʁ.de,adjectif,err_phonemes,ʔ
 enharnachai,ɑ̃.(h)aʁ.na.ʃe,verbe_flexion,err_phonemes,h
 enharnache,ɑ̃.(h)aʁ.naʃ,verbe_flexion,err_phonemes,h
@@ -1531,45 +1530,6 @@ enniôliez,ɑ̃.njo.je,verbe_flexion,-,-
 enniôlions,ɑ̃.njo.jɔ̃,verbe_flexion,-,-
 ennéahexaèdre,ɛ.ne.a.ɛɡ.sa.ɛdʁ,adjectif,-,-
 ennéahexaèdres,ɛ.ne.a.ɛɡ.sa.ɛdʁ,adjectif_flexion,-,-
-enquébécisa,ɑ̃.ke.be.ci.za,verbe_flexion,err_phonemes,c
-enquébécisai,ɑ̃.ke.be.ci.ze,verbe_flexion,err_phonemes,c
-enquébécisaient,ɑ̃.ke.be.ci.zɛ,verbe_flexion,err_phonemes,c
-enquébécisais,ɑ̃.ke.be.ci.zɛ,verbe_flexion,err_phonemes,c
-enquébécisait,ɑ̃.ke.be.ci.zɛ,verbe_flexion,err_phonemes,c
-enquébécisant,ɑ̃.ke.be.ci.zɑ̃,verbe_flexion,err_phonemes,c
-enquébécisas,ɑ̃.ke.be.ci.za,verbe_flexion,err_phonemes,c
-enquébécisasse,ɑ̃.ke.be.ci.zas,verbe_flexion,err_phonemes,c
-enquébécisassent,ɑ̃.ke.be.ci.zas,verbe_flexion,err_phonemes,c
-enquébécisasses,ɑ̃.ke.be.ci.zas,verbe_flexion,err_phonemes,c
-enquébécisassiez,ɑ̃.ke.be.ci.za.sje,verbe_flexion,err_phonemes,c
-enquébécisassions,ɑ̃.ke.be.ci.za.sjɔ̃,verbe_flexion,err_phonemes,c
-enquébécise,ɑ̃.ke.be.ciz,verbe_flexion,err_phonemes,c
-enquébécisent,ɑ̃.ke.be.ciz,verbe_flexion,err_phonemes,c
-enquébéciser,ɑ̃.ke.be.ci.ze,verbe,err_phonemes,c
-enquébécisera,ɑ̃.ke.be.ci.zə.ʁa,verbe_flexion,err_phonemes,c
-enquébéciserai,ɑ̃.ke.be.ci.zə.ʁe,verbe_flexion,err_phonemes,c
-enquébéciseraient,ɑ̃.ke.be.ci.zə.ʁɛ,verbe_flexion,err_phonemes,c
-enquébéciserais,ɑ̃.ke.be.ci.zə.ʁɛ,verbe_flexion,err_phonemes,c
-enquébéciserait,ɑ̃.ke.be.ci.zə.ʁɛ,verbe_flexion,err_phonemes,c
-enquébéciseras,ɑ̃.ke.be.ci.zə.ʁa,verbe_flexion,err_phonemes,c
-enquébéciserez,ɑ̃.ke.be.ci.zə.ʁe,verbe_flexion,err_phonemes,c
-enquébéciseriez,ɑ̃.ke.be.ci.zə.ʁje,verbe_flexion,err_phonemes,c
-enquébéciserions,ɑ̃.ke.be.ci.zə.ʁjɔ̃,verbe_flexion,err_phonemes,c
-enquébéciserons,ɑ̃.ke.be.ci.zə.ʁɔ̃,verbe_flexion,err_phonemes,c
-enquébéciseront,ɑ̃.ke.be.ci.zə.ʁɔ̃,verbe_flexion,err_phonemes,c
-enquébécises,ɑ̃.ke.be.ciz,verbe_flexion,err_phonemes,c
-enquébécisez,ɑ̃.ke.be.ci.ze,verbe_flexion,err_phonemes,c
-enquébécisiez,ɑ̃.ke.be.ci.zje,verbe_flexion,err_phonemes,c
-enquébécisions,ɑ̃.ke.be.ci.zjɔ̃,verbe_flexion,err_phonemes,c
-enquébécisons,ɑ̃.ke.be.ci.zɔ̃,verbe_flexion,err_phonemes,c
-enquébécisâmes,ɑ̃.ke.be.ci.zam,verbe_flexion,err_phonemes,c
-enquébécisât,ɑ̃.ke.be.ci.za,verbe_flexion,err_phonemes,c
-enquébécisâtes,ɑ̃.ke.be.ci.zat,verbe_flexion,err_phonemes,c
-enquébécisèrent,ɑ̃.ke.be.ci.zɛʁ,verbe_flexion,err_phonemes,c
-enquébécisé,ɑ̃.ke.be.ci.ze,verbe_flexion,err_phonemes,c
-enquébécisée,ɑ̃.ke.be.ci.ze,verbe_flexion,err_phonemes,c
-enquébécisées,ɑ̃.ke.be.ci.ze,verbe_flexion,err_phonemes,c
-enquébécisés,ɑ̃.ke.be.ci.ze,verbe_flexion,err_phonemes,c
 enraiemens,ɑ̃.ʁe.mɑ̃,nom_flexion,-,-
 enroidissemens,ɑ̃.ʁɛ.dis.mɑ̃,nom_flexion,-,-
 enroidissement,ɑ̃.ʁɛ.dis.mɑ̃,nom,-,-
@@ -1606,8 +1566,8 @@ enuigs,e.nɥitʃ,nom_flexion,-,-
 epǘ,e.py,nom,err_letters,ǘ
 ep’s,ɛps,nom,-,-
 ergolières,ɛʁ.ɡɔ.lje,nom_flexion,-,-
-esclaves,ɛs.klaːv,adjectif_flexion,err_phonemes,ː
 esclaves,ɛs.klaːv,nom_flexion,err_phonemes,ː
+esclaves,ɛs.klaːv,adjectif_flexion,err_phonemes,ː
 esquiveur,ski.vœʁ,nom,-,-
 essenoise,z,adjectif_flexion,-,-
 essenoises,z,adjectif_flexion,-,-
@@ -1651,15 +1611,15 @@ exténuements,ɛk.ste.nu.mɑ̃,nom_flexion,-,-
 extéroceptifs,ɛk.ste.ʁɔ.ʁe.sɛp.tif,adjectif_flexion,-,-
 extéroceptive,ɛk.ste.ʁɔ.ʁe.sɛp.tiv,adjectif_flexion,-,-
 extéroceptives,ɛk.ste.ʁɔ.ʁe.sɛp.tiv,adjectif_flexion,-,-
-eʋe,e.we,nom,err_letters,ʋ
 eʋe,e.we,adjectif,err_letters,ʋ
+eʋe,e.we,nom,err_letters,ʋ
 face,fɛjs,nom_num=2,-,-
 facebookien,fɛjs.bu.kjɛ̃,nom,-,-
 facebookienne,fɛjs.bu.kjɛn,nom,-,-
-facebookiennes,fɛjs.bu.kjɛn,nom_flexion,-,-
 facebookiennes,fɛjs.bu.kjɛn,adjectif_flexion,-,-
-facebookiens,fɛjs.bu.kjɛ̃,nom_flexion,-,-
+facebookiennes,fɛjs.bu.kjɛn,nom_flexion,-,-
 facebookiens,fɛjs.bu.kjɛ̃,adjectif_flexion,-,-
+facebookiens,fɛjs.bu.kjɛ̃,nom_flexion,-,-
 factorialités,fak.to.ʁʁja.li.te,nom_flexion,-,-
 fadade,faˈdad,adjectif_flexion,-,-
 fadades,faˈdad,adjectif_flexion,-,-
@@ -1676,16 +1636,16 @@ fakelores,fɛjk.lɔʁ,nom_flexion,-,-
 falucharde,fa.ly.ʃaʁ,nom,-,-
 falzard,fal.zaːʁ,nom,err_phonemes,ː
 fantastiquerèrent,fɑ̃.ta.sti.kɛʁ,verbe_flexion,-,-
-fantômnal,fɑ̃.tɔ.mal,adjectif,-,-
 fantômnal,fɑ̃.to.mal,adjectif,-,-
+fantômnal,fɑ̃.tɔ.mal,adjectif,-,-
 fashionable,fa.ʃɔ.nabl,nom,-,-
 fashionable,fa.ʃɔ.nabl,adjectif,-,-
-fashionables,fa.ʃɔ.nabl,adjectif_flexion,-,-
 fashionables,fa.ʃɔ.nabl,nom_flexion,-,-
+fashionables,fa.ʃɔ.nabl,adjectif_flexion,-,-
 faséient,fa.zɛj,verbe_flexion,-,-
 faséies,fa.zɛj,verbe_flexion,-,-
 fatigables,a.ti.ɡabl,adjectif_flexion,-,-
-fausse,fo:s,verbe_flexion,err_phonemes,:
+fausse,foːs,verbe_flexion,err_phonemes,ː
 fauxbourgs,fɔ.buʁ,nom_flexion,-,-
 favélas,fa.vla,nom_flexion,-,-
 fayol,fa.jo,nom,-,-
@@ -1703,11 +1663,14 @@ fendillemens,fɑ̃.diʎ.mɑ̃,nom_flexion,err_phonemes,ʎ
 fenestrations,fə.nεs.tʁa.sjɔ̃,nom_flexion,err_phonemes,ε
 ferblanquiers,fɛʁ.blɑ̃.tje,nom_flexion,-,-
 feroit,fə.ʁwɛ,verbe_flexion,-,-
-ferronne,fɛ.ʁɔ̃ɔn,nom,-,-
+ferromagnétaux,fɛ.ʁɔ.ma.ɲe.tal,nom_flexion,-,-
+ferromanganèses,fɛ.ʁɔ.mɑ̃.ga.nɛz,nom_flexion,err_phonemes,g
 ferrugineux,fɛ.ʁy.ʒi.n,adjectif,-,-
+feumeu,fə.mə,nom,-,-
 feumeus,fə.mə,nom_flexion,-,-
 ficellarde,fi.sɛ.laʁ,adjectif_flexion,-,-
 ficellardes,fi.sɛ.laʁ,adjectif_flexion,-,-
+fideuàs,fi.de.wa,nom_flexion,-,-
 fielleuse,fjé.løz,adjectif_flexion,err_phonemes,é
 fielleuses,fjé.løz,adjectif_flexion,err_phonemes,é
 financeur,fi.nɑ̃.sœʁœʁ,nom,-,-
@@ -1742,6 +1705,8 @@ formatter,ɔʁ.ma.te,verbe,-,-
 formidable,fɔʁ.mi.dabl̥,adjectif,err_phonemes,̥
 fortuitome,fɔʁ.tuɥ.tom,nom,-,-
 fougade,fy.ɡad,nom,-,-
+fourmigril,fuʁ.mi.gʁil,nom,err_phonemes,g
+fourmigrils,fuʁ.mi.gʁil,nom_flexion,err_phonemes,g
 fouée,fwɛ,nom,-,-
 fouées,fwɛ,nom_flexion,-,-
 fovéolé,fɔ.ve.ɔ.e,adjectif,-,-
@@ -1765,8 +1730,8 @@ frankensteinisation,fʁɑ̃.kœn.ʃteɲ.ni.za.sjɔ̃,nom,-,-
 frankensteinisations,fʁɑ̃.kœn.ʃteɲ.ni.za.sjɔ̃,nom_flexion,-,-
 franks,fʁɑ̃,nom_flexion,-,-
 frarachaux,faʁa.ʃo,nom,-,-
-freaker,fʁiːke,verbe,err_phonemes,ː
 freaker,friːke,verbe,err_phonemes,r
+freaker,fʁiːke,verbe,err_phonemes,ː
 frigorigènes,ʁi.ɡɔ.ʁi.ʒɛn,adjectif_flexion,-,-
 frigorigènes,ʁi.ɡɔ.ʁi.ʒɛn,nom_flexion,-,-
 friquenelles,fʁi.,nom_flexion,-,-
@@ -1814,10 +1779,13 @@ gersdorffite,ɡɛs.dɔʁ.fit,nom,-,-
 ghomala’,ɡo.ma.la,adjectif,-,-
 gianduja,dʒanˈduː.ja,nom,err_phonemes,ː
 gifts,ʒif,nom_flexion,-,-
-ginkgo,ʒiŋ.ko,nom,-,-
 ginkgo,ʒɛ̃.ko,nom,-,-
+ginkgo,ʒiŋ.ko,nom,-,-
 ginkgos,ʒɛ̃.ko,nom_flexion,-,-
 giorno,dʒoʁ.no,nom,-,-
+glaineuses,gle.nøz,nom_flexion,err_phonemes,g
+glandues,glɑ̃.dy,nom_flexion,err_phonemes,g
+glandues,glɑ̃.dy,adjectif_flexion,err_phonemes,g
 glauye,ɡloːj,nom,err_phonemes,ː
 glauyes,ɡloːj,nom_flexion,err_phonemes,ː
 gliome,ɡli.joːm,nom,err_phonemes,ː
@@ -1864,12 +1832,10 @@ gllaffés,ɡʎa.fe,verbe_flexion,err_phonemes,ʎ
 glorioleux,ɡlɔ.ʁjɔ.l,adjectif_num=1,-,-
 glosso-,ɡlɔs,préfixe,-,-
 glotto-,glɔ.to,préfixe,err_phonemes,g
-glottophagie,glɔ.to.fa.ʒi,nom,err_phonemes,g
-gloyant,ɡlo:.jɑ̃,verbe_flexion,err_phonemes,:
-gloye,ɡlo:j,nom,err_phonemes,:
+gloyant,ɡloː.jɑ̃,verbe_flexion,err_phonemes,ː
+gloye,ɡloːj,nom,err_phonemes,ː
 gloyer,ɡloːje,verbe,err_phonemes,ː
 gloyeuse,ɡloːjøz,nom_flexion,err_phonemes,ː
-gloyeuses,ɡloːjøz,nom_flexion,err_phonemes,ː
 gloyeux,ɡloːjø,nom,err_phonemes,ː
 glycosamine,ɡly.ko.za.min,nom,-,-
 glycosamines,ɡly.ko.za.min,nom_flexion,-,-
@@ -1877,6 +1843,7 @@ glôye,ɡloːj,nom,err_phonemes,ː
 glôyes,ɡloːj,nom_flexion,err_phonemes,ː
 gniaf,njaf,nom,-,-
 gniards,njaʁ,nom_flexion,-,-
+gobeletières,gɔb.lε.tjɛʁ,nom_flexion,err_phonemes,g
 gobelotage,ɡɔ.blɛ.taʒ,nom,-,-
 gobelotages,ɡɔ.blɛ.taʒ,nom_flexion,-,-
 gonorrhœe,ɡɔ.nɔ.ʁe,nom,-,-
@@ -1884,6 +1851,8 @@ gonorrhœes,ɡɔ.nɔ.ʁe,nom_flexion,-,-
 googleliser,ɡu.ɡœ.li.ze,verbe,-,-
 gorani,ɡo.ʁa.niː,nom,err_phonemes,ː
 gottâs,ɡɔ.ta,nom_flexion,-,-
+gouer,gu.ɛʁ,nom,err_phonemes,g
+gouers,gu.ɛʁ,nom_flexion,err_phonemes,g
 gouillate,ɡu.ja,nom_flexion,-,-
 gouillates,ɡu.ja,nom_flexion,-,-
 gourdement,ɡyʁ.də.mɑ̃,adverbe,-,-
@@ -1924,22 +1893,16 @@ guarayú,ɡwa.ʁɑ.ju,nom,err_letters,ú
 gubernateurs,ɡy.bɛʁ.na.tʁis,adjectif_flexion,-,-
 guignard,ɡi.ɲaːʁ,adjectif,err_phonemes,ː
 guignard,ɡi.ɲaːʁ,nom,err_phonemes,ː
-guignoleuses,gi.ɲɔ.løz,adjectif_flexion,err_phonemes,g
-guignoleuses,gi.ɲɔ.løz,nom_flexion,err_phonemes,g
 guillement,ɡij.mɛ,erreur,-,-
 guimpières,ɡɛ̃.pje,nom_flexion,-,-
-gunophobe,gu.no.fob,nom,err_phonemes,g
-gurmukhī,ɡuʁ.mu.ki,adjectif,err_letters,ī
 gurmukhī,ɡuʁ.mu.ki,nom,err_letters,ī
-gustanais,gys.ta.nɛ,adjectif,err_phonemes,g
-gustanaise,gys.ta.nɛz,adjectif_flexion,err_phonemes,g
+gurmukhī,ɡuʁ.mu.ki,adjectif,err_letters,ī
 guzhangien,ɡu.ʒɑ̃.ɡjɛ̃,adjectif,-,-
 gwich’in,ɡwi.tʃin,nom,-,-
 gwich’in,ɡwi.tʃin,adjectif,-,-
 gym,ˈdʒɪm,nom_num=2,err_phonemes,ɪ
 gzhélien,ɡʒe.ljɛ̃,adjectif,-,-
 gâté,ɡɑˈte,nom,-,-
-géhennas,ge.ɛ.na,verbe_flexion,err_phonemes,g
 géminivirus,ʒe.mi.vi.ʁys,nom,-,-
 géoréférencements,ʁe.ɔ.fe.ʁɑ̃.sə.mɑ̃,nom_flexion,-,-
 géosynonyme,ʒe.ɔ.si.nɔ.nym,nom,-,-
@@ -1976,6 +1939,7 @@ hahnemannienne,an.ma.njɛn,adjectif_flexion,-,-
 hahnemanniennes,an.ma.njɛn,adjectif_flexion,-,-
 hahnemanniens,an.ma.njɛ̃,adjectif_flexion,-,-
 haient,ɛ,verbe_flexion,-,-
+haillon,ɑ.jɔ̃,nom,-,-
 haillons,ha.jɔ̃,nom_flexion,err_phonemes,h
 hainamorations,e.na.mo.ʁa.sjɔ̃,nom_flexion,-,-
 haines,hɛn,nom_flexion,err_phonemes,h
@@ -1983,8 +1947,8 @@ haineuse,hɛ.nøz,adjectif_flexion,err_phonemes,h
 haineuses,hɛ.nøz,adjectif_flexion,err_phonemes,h
 hajime,ha.dʒi.me,nom,err_phonemes,h
 halages,ha.laʒ,nom_flexion,err_phonemes,h
-haler,ɑ.le,verbe_num=2,-,-
 haler,ɑ.le,verbe_num=1,-,-
+haler,ɑ.le,verbe_num=2,-,-
 haletante,hal.tɑ̃t,adjectif_flexion,err_phonemes,h
 haletantes,hal.tɑ̃t,adjectif_flexion,err_phonemes,h
 haletants,hal.tɑ̃,adjectif_flexion,err_phonemes,h
@@ -2010,11 +1974,11 @@ hanovrien,a.nɔ.vʁi.jjɛ̃,adjectif,-,-
 hantises,hɑ̃.tiz,nom_flexion,err_phonemes,h
 hapiette,ʰa.pjɛt,nom,err_phonemes,ʰ
 hapiettes,ʰa.pjɛt,nom_flexion,err_phonemes,ʰ
-happeurs,ha.pœʁ,nom_flexion,err_phonemes,h
 happeurs,ha.pœʁ,adjectif_flexion,err_phonemes,h
+happeurs,ha.pœʁ,nom_flexion,err_phonemes,h
 harangueur,ha.ʁɑ̃.ɡœʁ,adjectif,err_phonemes,h
-harangueurs,ha.ʁɑ̃.ɡœʁ,adjectif_flexion,err_phonemes,h
 harangueurs,ha.ʁɑ̃.ɡœʁ,nom_flexion,err_phonemes,h
+harangueurs,ha.ʁɑ̃.ɡœʁ,adjectif_flexion,err_phonemes,h
 harassante,ha.ʁa.sɑ̃t,adjectif_flexion,err_phonemes,h
 harassantes,ha.ʁa.sɑ̃t,adjectif_flexion,err_phonemes,h
 harassants,ha.ʁa.sɑ̃,adjectif_flexion,err_phonemes,h
@@ -2056,8 +2020,8 @@ hauturière,hɔ.ty.ʁjɛʁ,adjectif_flexion,err_phonemes,h
 hauturières,hɔ.ty.ʁjɛʁ,adjectif_flexion,err_phonemes,h
 havanes,ha.van,nom_flexion,err_phonemes,h
 haveneaux,hav.no,nom_flexion,err_phonemes,h
-havre,ɑvʁ,nom,-,-
 havre,ɑvʁ,verbe_flexion,-,-
+havre,ɑvʁ,nom,-,-
 havres,havʁ,nom_flexion,err_phonemes,h
 havresacs,ha.vʁə.sak,nom_flexion,err_phonemes,h
 hawaïenne,a.wa.wa.jɛn,adjectif_flexion,-,-
@@ -2078,31 +2042,31 @@ hectathlons,hɛk.ta.tlɔ̃,nom_flexion,err_phonemes,h
 heel,hil,nom,err_phonemes,h
 heels,hil,nom_flexion,err_phonemes,h
 heelys,i.liz,nom,-,-
-heiltsuk,ɛl.tsək,nom,-,-
 heiltsuk,ɛl.tsək,adjectif,-,-
+heiltsuk,ɛl.tsək,nom,-,-
 hello,(h)ɛ.lo,interjection,err_phonemes,h
-hendécagone,ɛ̃.de.ka.ɡɔn,nom,-,-
 hendécagone,ɛ̃.de.ka.ɡɔn,adjectif,-,-
+hendécagone,ɛ̃.de.ka.ɡɔn,nom,-,-
 hendécagone,ɛ̃.de.ka.ɡon,nom,-,-
 hendécagone,ɛ̃.de.ka.ɡon,adjectif,-,-
+hendécagones,ɛ̃.de.ka.ɡon,adjectif_flexion,-,-
+hendécagones,ɛ̃.de.ka.ɡɔn,adjectif_flexion,-,-
 hendécagones,ɛ̃.de.ka.ɡɔn,nom_flexion,-,-
 hendécagones,ɛ̃.de.ka.ɡon,nom_flexion,-,-
-hendécagones,ɛ̃.de.ka.ɡɔn,adjectif_flexion,-,-
-hendécagones,ɛ̃.de.ka.ɡon,adjectif_flexion,-,-
 hendécagyne,ɛ̃.de.ka.ʒin,adjectif,-,-
 hendécandre,ɛ̃.de.kɑ̃dʁ,adjectif,-,-
 hendécandrie,ɛ̃.de.kɑ̃.dʁi,nom,-,-
 hendécandriques,ɛ̃.de.kɑ̃.dʁik,adjectif_flexion,-,-
 hendécaphylle,ɛ̃.de.ka.fil,adjectif,-,-
 hendécaphylles,ɛ̃.de.ka.fil,adjectif_flexion,-,-
-hendécasyllabe,ɛ̃.de.ka.si.lab,adjectif,-,-
 hendécasyllabe,ɛ̃.de.ka.si.lab,nom,-,-
-hendécasyllabes,ɛ̃.de.ka.si.lab,nom_flexion,-,-
+hendécasyllabe,ɛ̃.de.ka.si.lab,adjectif,-,-
 hendécasyllabes,ɛ̃.de.ka.si.lab,adjectif_flexion,-,-
+hendécasyllabes,ɛ̃.de.ka.si.lab,nom_flexion,-,-
 hendécasyllabique,ɛ̃.de.ka.si.la.bik,adjectif,-,-
 hendécasyllabiques,ɛ̃.de.ka.si.la.bik,adjectif_flexion,-,-
-hendécuple,ɛ̃.de.kypl,nom,-,-
 hendécuple,ɛ̃.de.kypl,adjectif,-,-
+hendécuple,ɛ̃.de.kypl,nom,-,-
 hennebanne,an.ban,nom,-,-
 hennebannes,an.ban,nom_flexion,-,-
 herdérite,ʁ.de.ʁit,nom,-,-
@@ -2112,11 +2076,15 @@ herrena,eˈʁena,nom,-,-
 herscheuses,ɛʁ.ʃœʁ,nom_flexion,-,-
 heshvan,ɛs.van,nom,-,-
 hess,hɛs,nom,err_phonemes,h
-heu,ʰø,nom,err_phonemes,ʰ
 heu,ʰø,interjection,err_phonemes,ʰ
+heu,ʰø,nom,err_phonemes,ʰ
 heurs,hœʁ,nom_flexion,err_phonemes,h
 heurtoirs,hœʁ.twaʁ,nom_flexion,err_phonemes,h
 heux,ʰø,nom_flexion,err_phonemes,ʰ
+hexastique,ɛg.zas.tik,adj,err_phonemes,g
+hexastique,ɛg.zas.tik,nom,err_phonemes,g
+hexastiques,ɛg.zas.tik,adjectif_flexion,err_phonemes,g
+hexastiques,ɛg.zas.tik,nom_flexion,err_phonemes,g
 hiatale,hi.a.tal,adjectif_flexion,err_phonemes,h
 hiatales,hi.a.tal,adjectif_flexion,err_phonemes,h
 hiataux,hi.a.to,adjectif_flexion,err_phonemes,h
@@ -2147,8 +2115,8 @@ hockeyeurs,hɔ.kɛ.jœʁ,nom_flexion,err_phonemes,h
 hodomètre,o-,nom,-,-
 hohous,ɔ.u,nom_flexion,-,-
 holantartiques,o.lɑ̃.taʁk.tik,adjectif_flexion,-,-
-hollandaises,hɔ.lɑ̃.dɛz,nom_flexion,err_phonemes,h
 hollandaises,hɔ.lɑ̃.dɛz,adjectif_flexion,err_phonemes,h
+hollandaises,hɔ.lɑ̃.dɛz,nom_flexion,err_phonemes,h
 hollywoodienne,hɔ.li.wu.djɛn,adjectif_flexion,err_phonemes,h
 hollywoodiennes,hɔ.li.wu.djɛn,adjectif_flexion,err_phonemes,h
 hollywoodiens,hɔ.li.wu.djɛ̃,adjectif_flexion,err_phonemes,h
@@ -2248,10 +2216,10 @@ hági,ha.ɡi,nom,err_phonemes,h
 hâbleries,ha.blə.ʁi,nom_flexion,err_phonemes,h
 hâbleurs,hɑ.blœʁ,adjectif_flexion,err_phonemes,h
 hâbleurs,hɑ.blœʁ,nom_flexion,err_phonemes,h
-hâbleuse,hɑ.bløz,adjectif_flexion,err_phonemes,h
 hâbleuse,hɑ.bløz,nom,err_phonemes,h
-hâbleuses,hɑ.bløz,nom_flexion,err_phonemes,h
+hâbleuse,hɑ.bløz,adjectif_flexion,err_phonemes,h
 hâbleuses,hɑ.bløz,adjectif_flexion,err_phonemes,h
+hâbleuses,hɑ.bløz,nom_flexion,err_phonemes,h
 hâtaient,ha.tɛ,verbe_flexion,err_phonemes,h
 hâtifs,ha.tif,adjectif_flexion,err_phonemes,h
 hâtive,ha.tiv,adjectif_flexion,err_phonemes,h
@@ -2264,8 +2232,8 @@ hégenheimois,(h)e.ɡən.(h)aj.mwa,adjectif,err_phonemes,h
 hégenheimoise,(h)e.ɡən.(h)aj.mwaz,adjectif_flexion,err_phonemes,h
 hégenheimoises,(h)e.ɡən.(h)aj.mwaz,adjectif_flexion,err_phonemes,h
 hématozoaires,e.ma.tɔ.ʒɔ.ɛʁ,nom_flexion,-,-
-hémichordés,e.mi.kɔʁ.dɛ,nom_flexion,-,-
 hémichordés,e.mi.kɔʁ.dɛ,nom,-,-
+hémichordés,e.mi.kɔʁ.dɛ,nom_flexion,-,-
 hérissements,ˈe.ʁis.mɑ̃,nom_flexion,-,-
 hétérocerque,e.tə.ʁɔ.sɛʁk,adjectif,-,-
 hétérocerques,e.tə.ʁɔ.sɛʁk,adjectif_flexion,-,-
@@ -2305,13 +2273,13 @@ ikáner,i.ka.nɛʁ,nom,err_letters,á
 ikáners,i.ka.nɛʁ,nom_flexion,err_letters,á
 iléums,i.le.ɔ̃,nom_flexion,-,-
 imbitable,ɛ̃.bi.tablᵊ,adjectif,err_phonemes,ᵊ
-immangeable,ɛ̃.mɑ̃.ʒabl̥,adjectif,err_phonemes,̥
 immangeable,i(m).mɑ̃.ʒabl̥,adjectif,err_phonemes,̥
+immangeable,ɛ̃.mɑ̃.ʒabl̥,adjectif,err_phonemes,̥
 immarcescible,im.maʁ.sɛ.sibl̥,adjectif,err_phonemes,̥
 immarcescible,i.maʁ.sɛ.sibl̥,adjectif,err_phonemes,̥
 immarcescibles,i(m).maʁ.sɛ.sibl̥,adjectif_flexion,err_phonemes,̥
-immixtion,i.mik.sjɔ̃,nom,-,-
 immixtion,im.mik.sjɔ̃,nom,-,-
+immixtion,i.mik.sjɔ̃,nom,-,-
 immixtions,i.mik.sjɔ̃,nom_flexion,-,-
 immoralisante,mɔ.ʁa.li.zɑ̃t,adjectif_flexion,-,-
 impeache,im.pitʃ,verbe_flexion,-,-
@@ -2344,14 +2312,14 @@ indigotières,ɛ̃.di.ɡɔ.tjeʁ,nom_flexion,-,-
 indigotières,ɛ̃.di.ɡɔ.tjeʁ,adjectif_flexion,-,-
 indigérable,ɛ̃.di.ʒe.ʁabl̥,adjectif,err_phonemes,̥
 indigérables,ɛ̃.di.ʒe.ʁabl̥,adjectif_flexion,err_phonemes,̥
-indoeuropéenne,ɛ̃.dø.ʁɔ.pe.ɛn,nom_flexion,-,-
 indoeuropéenne,ɛ̃.dø.ʁɔ.pe.ɛn,adjectif_flexion,-,-
-indoeuropéennes,ɛ̃.dø.ʁɔ.pe.ɛn,adjectif_flexion,-,-
+indoeuropéenne,ɛ̃.dø.ʁɔ.pe.ɛn,nom_flexion,-,-
 indoeuropéennes,ɛ̃.dø.ʁɔ.pe.ɛn,nom_flexion,-,-
+indoeuropéennes,ɛ̃.dø.ʁɔ.pe.ɛn,adjectif_flexion,-,-
 indomalaise,ɛ̃.do.ma.lɛːz,adjectif_flexion,err_phonemes,ː
 indomalaises,ɛ̃.do.ma.lɛːz,adjectif_flexion,err_phonemes,ː
-indépendantistes,ɔ̃.de.pɑ̃.dɑ̃.tist,adjectif_flexion,-,-
 indépendantistes,ɔ̃.de.pɑ̃.dɑ̃.tist,nom_flexion,-,-
+indépendantistes,ɔ̃.de.pɑ̃.dɑ̃.tist,adjectif_flexion,-,-
 indéplaçables,de.pla.sabl,nom_flexion,-,-
 indésinstallable,ɛ̃.de.zɛ̃s.ta.labl̥,adjectif,err_phonemes,̥
 indésinstallables,ɛ̃.de.zɛ̃s.ta.labl̥,adjectif_flexion,err_phonemes,̥
@@ -2382,7 +2350,6 @@ insolvable,ɛ̃.sɔl.vabl̥,adjectif,err_phonemes,̥
 insupportables,ɛ̃.sy.pɔʁ.tabl̥,adjectif_flexion,err_phonemes,̥
 insurrectionnalisme,œ̃.sy.ʁɛk.sjɔ.na.lism,nom,-,-
 insurrectionnellement,ɛ̃.sy.ʁɛ.ksjɔ̃ɛ.lə.mɑ̃,adverbe,-,-
-insusceptible,ɜ̃.sy.sɜp.tibl,adjectif,err_phonemes,ɜ̃
 interarmées,ɛ̃.tɛʁ.ʁaʁ.me,adjectif,-,-
 intergiciels,ɛ̃.tɛʁ.sjɛl,nom_flexion,-,-
 interinstitutionnelle,ɛ̃.tɛ.ʁɛ̃s.ti.ty.sjɔ.nɛlɛl,adjectif_flexion,-,-
@@ -2390,8 +2357,8 @@ interinstitutionnelles,ɛ̃.tɛ.ʁɛ̃s.ti.ty.sjɔ.nɛlɛl,adjectif_flexion,-,-
 interinstitutionnels,ɛ̃.tɛ.ʁɛ̃s.ti.ty.sjɔ.nɛlɛl,adjectif_flexion,-,-
 interpolateurs,ɛ̃.tɛʁ.pɔ.lœʁ,nom_flexion,-,-
 interpuissants,t,adjectif_flexion,-,-
-interromps,ɛ̃.te.ʁɔ̃,verbe_flexion,-,-
 interromps,ɛ̃.tɛ.ʁɔ̃,verbe_flexion,-,-
+interromps,ɛ̃.te.ʁɔ̃,verbe_flexion,-,-
 intersigne,ɛ.tɛʁ.siɲ,nom,-,-
 intolérables,ɛ̃.tɔ.le.ʁabl̥,adjectif_flexion,err_phonemes,̥
 intracellulaires,ɛ̃.tʁa.se.ly.lɛ̃ʁ,adjectif_flexion,-,-
@@ -2404,7 +2371,7 @@ intéressantissime,ɛ.te.ʁe.sɑ̃.ti.sim,adjectif,-,-
 intéressantissimes,ɛ.te.ʁe.sɑ̃.ti.sim,adjectif_flexion,-,-
 intéroception,œ̃.te.ʁo.sɛp.sjɔ̃,nom,-,-
 intéroceptions,œ̃.te.ʁo.sɛp.sjɔ̃,nom_flexion,-,-
-inuinnaqtun,inuin:aqtun,nom,err_phonemes,:
+inuinnaqtun,inuinːaqtun,nom,err_phonemes,ː
 invapotable,ɛ̃.va.pɔ.tabl̥,adjectif,err_phonemes,̥
 invapotables,ɛ̃.va.pɔ.tabl̥,adjectif_flexion,err_phonemes,̥
 ippon,i.pɔ̃n,nom,-,-
@@ -2441,18 +2408,18 @@ javierano,ʁa.vjɛ.ʁa.no,nom,-,-
 jerez,kse.ʁɛs,nom,-,-
 jerez,ke.ʁɛs,nom,-,-
 jiber,d͡ʒi.be,verbe,-,-
-jicarilla,xi.ka.ʁi.ja,adjectif,err_phonemes,x
 jicarilla,xi.ka.ʁi.ja,nom,err_phonemes,x
+jicarilla,xi.ka.ʁi.ja,adjectif,err_phonemes,x
 jicarillas,xi.ka.ʁi.ja,adjectif_flexion,err_phonemes,x
 jobbers,bʁi.ɡad nɔ.tik,nom_flexion,-,-
-johnnycashien,ʒɔ.ni.ka.ʃjɛ̃,adjectif,-,-
 johnnycashien,dʒɔ.ni.ka.ʃjɛ̃,adjectif,-,-
-johnnycashienne,ʒɔ.ni.ka.ʃjɛn,adjectif_flexion,-,-
+johnnycashien,ʒɔ.ni.ka.ʃjɛ̃,adjectif,-,-
 johnnycashienne,dʒɔ.ni.ka.ʃjɛn,adjectif_flexion,-,-
-johnnycashiennes,ʒɔ.ni.ka.ʃjɛn,adjectif_flexion,-,-
+johnnycashienne,ʒɔ.ni.ka.ʃjɛn,adjectif_flexion,-,-
 johnnycashiennes,dʒɔ.ni.ka.ʃjɛn,adjectif_flexion,-,-
-johnnycashiens,dʒɔ.ni.ka.ʃjɛ̃,adjectif_flexion,-,-
+johnnycashiennes,ʒɔ.ni.ka.ʃjɛn,adjectif_flexion,-,-
 johnnycashiens,ʒɔ.ni.ka.ʃjɛ̃,adjectif_flexion,-,-
+johnnycashiens,dʒɔ.ni.ka.ʃjɛ̃,adjectif_flexion,-,-
 joigneuses,ʒwa.ɲœʁ,nom_flexion,-,-
 joker,dʒoʊ̯.ke,verbe,err_phonemes,ʊ
 jonaz,ʁo.naz,adjectif,-,-
@@ -2482,6 +2449,7 @@ kaishus,kayʃu,nom_flexion,-,-
 kalévaliens,ka.le.va.ljɛ,adjectif_flexion,-,-
 kalévaléenne,ka.le.va.le.ɛñ,adjectif_flexion,err_phonemes,ñ
 kalévaléennes,ka.le.va.le.ɛñ,adjectif_flexion,err_phonemes,ñ
+kamtchatkal,kam.ʃat.kal,adjectif,-,-
 kandahariser,kɑ̃.da.(h)a.ʁi.ze,verbe,err_phonemes,h
 kap's,kap,nom_flexion,err_letters,'
 karamajong,ka.ʁa.ma.ʒɔ̃ɲ,nom,-,-
@@ -2554,16 +2522,13 @@ kāf,kaf,nom,err_letters,ā
 kɔnni,kɔ.ni,nom,err_letters,ɔ
 kṣatriya,kʃa.tʁi.ja,nom,err_letters,ṣ
 kṣatriyas,kʃa.tʁi.ja,nom_flexion,err_letters,ṣ
-k€,ki.lo.ø.ʁo,symbole,err_letters,€
 k€,kɑ.œ,symbole,err_letters,€
-lactification,ak.ti.fi.ca.sjɔ̃,nom,err_phonemes,c
+k€,ki.lo.ø.ʁo,symbole,err_letters,€
 laggs,laɡ,nom_flexion,-,-
 lait,le,nom,-,-
 lakh,lax,nom_num=1,err_phonemes,x
 lamer,lej.mœʁ,nom,-,-
 lamers,lej.mœʁ,nom_flexion,-,-
-languetouze,lɑ̃g.tuz,nom,err_phonemes,g
-languetouzes,lɑ̃g.tuz,nom_flexion,err_phonemes,g
 laotien,la.ɔ.sj,adjectif,-,-
 lapacho,la.ˈpa.t͡ʃo,nom,-,-
 lardoir,laʁ.dwaːʁ,nom,err_phonemes,ː
@@ -2577,10 +2542,9 @@ laxmannite,lax.ma.nit,nom,err_phonemes,x
 leak,ˈlik,nom,-,-
 leffs,lɛf,nom_flexion,-,-
 legs,lɛ,nom,-,-
-leptosome,lɛptɔzoːm,nom,err_phonemes,ː
 leptosome,lɛptɔzoːm,adjectif,err_phonemes,ː
+leptosome,lɛptɔzoːm,nom,err_phonemes,ː
 leptospiroses,lɛp.ti.ʁoz,nom_flexion,-,-
-leucitite,lø.sit,nom,-,-
 lexovien,lɛk.zɔ.vjɛ̃,adjectif,-,-
 lez,lɛ,préposition,-,-
 lgt,lɔ.ʒə.mɑ̃,nom,-,-
@@ -2596,8 +2560,8 @@ lipizzans,li.pi.d͡zɑ̃,nom_flexion,-,-
 lipopexies,i.pɔ.pɛk.si,nom_flexion,-,-
 lithostatique,li.tɔs.sta.tik,adjectif,-,-
 lithostatiques,li.tɔs.sta.tik,adjectif_flexion,-,-
-livonien,li.vɔ.nj,nom,-,-
 livonien,li.vɔ.njjɛ̃,adjectif,-,-
+livonien,li.vɔ.nj,nom,-,-
 livyáni,li.vja.ni,nom,err_letters,á
 lixiviations,lik.si.va.sjɔ̃,nom_flexion,-,-
 llama,ʎa.ma,nom,err_phonemes,ʎ
@@ -2634,8 +2598,8 @@ lysimètres,li.zi.mɛːtʁ,nom_flexion,err_phonemes,ː
 lyso-,li.z,préfixe,-,-
 lâcheuse,lɑː.ʃøz,nom_num=2,err_phonemes,ː
 lâcheuse,lɑː.ʃøz,nom_num=1,err_phonemes,ː
-lâcheuses,lɑː.ʃøz,nom_flexion|num=1,err_phonemes,ː
 lâcheuses,lɑː.ʃøz,nom_flexion|num=2,err_phonemes,ː
+lâcheuses,lɑː.ʃøz,nom_flexion|num=1,err_phonemes,ː
 lâcheux,lɑːʃø,nom,err_phonemes,ː
 lémonol,le.nɔ.nɔl,nom,-,-
 léonier,leɔ.njɛ,nom,-,-
@@ -2654,11 +2618,10 @@ maastrichtien,maː.stʁɪʃ.tjɛ̃,adjectif,err_phonemes,ː
 maatjes,ma.tjœ,nom_flexion,-,-
 macrocytique,m,adjectif,-,-
 macronades,ma.kʁo.nʁi,nom_flexion,-,-
+macronistes,me.lɑ̃.ʃɔ.nist,nom_flexion,-,-
 macropodie,ma.kʁ.pɔ.di,nom,-,-
 mademoiselle,mam.mwa.zɛl,nom,-,-
 maelstrom,mal.stʁøm,nom,-,-
-magalogue,ma.ga.lɔg,nom,err_phonemes,g
-magalogues,ma.ga.lɔg,nom_flexion,err_phonemes,g
 magasinières,ma.ɡa.zi.nɛʁ,nom_flexion,-,-
 magnétiseuse,ma.ɲe.ti.zœʁ,nom,-,-
 maintenancien,mɛ̃t(.ə).nɑ̃.sɛ̃,nom,-,-
@@ -2721,8 +2684,9 @@ masourques,ma.zyʁk,nom_flexion,-,-
 matafs,fat.ma,nom_flexion,-,-
 matelassage,ma.tla.saːʒ,nom,err_phonemes,ː
 matlouhs,mat.lu,nom_flexion,-,-
-matois,ma.twɑ,nom,-,-
 matois,ma.twɑ,adjectif,-,-
+matois,ma.twɑ,nom,-,-
+matrues,mɑ.try,nom_flexion,err_phonemes,r
 matrus,mɑ.try,nom_flexion,err_phonemes,r
 maund,man,nom,-,-
 maxite,mak.sitʁ,nom,-,-
@@ -2740,8 +2704,8 @@ mcx,mɔʁ.so,nom_flexion,-,-
 medleys,mɛd.le,nom_flexion,-,-
 megachurchs,me.ɡa.tʃœʁtʃ,nom_flexion,-,-
 meix,mɛ,nom,-,-
-mellifère,mɛ.li.fɛːʁ,adjectif,err_phonemes,ː
 mellifère,me.li.fɛːʁ,adjectif,err_phonemes,ː
+mellifère,mɛ.li.fɛːʁ,adjectif,err_phonemes,ː
 memphite,mɛ̃.fit,adjectif,-,-
 memphites,mɛ̃.fit,adjectif_flexion,-,-
 memphitique,mɛ̃.fi.tik,adjectif,-,-
@@ -2752,10 +2716,9 @@ menthane,mɑ̃,nom,-,-
 menuets,fly.ɛ,adjectif_flexion,-,-
 mercaticien,mɛʁ.ka.ti.sjɛ͂ɛ̃,nom,err_phonemes,͂
 mercaticiens,mɛʁ.ka.ti.sjɛ͂,nom_flexion,err_phonemes,͂
-merdailleuses,mɛʁ.dɑ.j,nom_flexion,-,-
 merdigère,mɛ.di.ʒɛʁ,adjectif,-,-
-mergent,mɛʁdʒ,verbe_flexion,-,-
 mergent,mœʁdʒ,verbe_flexion,-,-
+mergent,mɛʁdʒ,verbe_flexion,-,-
 merges,mɛʁdʒ,verbe_flexion,-,-
 mesdamoiseaux,mɔ̃.da.mwa.zo,nom_flexion,-,-
 messeyaient,sɛ.jɛ,verbe_flexion,-,-
@@ -2781,7 +2744,7 @@ mingongs,miŋ.ɡɔ̃ŋ,nom_flexion,-,-
 minnesinger,mi.nne.sɛ̃.ɡʔɛʁ,nom,err_phonemes,ʔ
 minque,mɛ̃ɡœ,nom,-,-
 minéralités,m.ne.ʁa.li.te,nom_flexion,-,-
-miroir,mi.ʁwɑ:ʁ,nom,err_phonemes,:
+miroir,mi.ʁwɑːʁ,nom,err_phonemes,ː
 miroitières,mi.ʁwa.tje,nom_flexion,-,-
 missaire,kɔ.mi.sɛʁ,nom,-,-
 mittelschaeffolsheimois,mi.təl.ʃɛf.ɔls.(h)aj.mwa,adjectif,err_phonemes,h
@@ -2789,8 +2752,8 @@ mittelschaeffolsheimoise,mi.təl.ʃɛf.ɔls.(h)aj.mwaz,adjectif_flexion,err_phon
 mittelschaeffolsheimoises,mi.təl.ʃɛf.ɔls.(h)aj.mwaz,adjectif_flexion,err_phonemes,h
 mixtionneur,mik.sjɔ.nœʁ,nom,-,-
 mixtionneurs,mik.sjɔ.nœʁ,nom_flexion,-,-
-mixtèque,miʁ.tɛk,adjectif,-,-
 mixtèque,miʁ.tɛk,nom,-,-
+mixtèque,miʁ.tɛk,adjectif,-,-
 mixtèques,miʁ.tɛk,adjectif_flexion,-,-
 modificatrices,mɔ.di.fi.ka.tœʁ,nom_flexion,-,-
 mofongo,mɔ.fɔ̃ŋ.ɡɔ,nom,-,-
@@ -2863,8 +2826,8 @@ multivoque,myl.ti.vɔ,nom,-,-
 multivoques,myl.ti.vɔ,nom_flexion,-,-
 mulâtraille,my.lɑ.traj,nom,err_phonemes,r
 mumétaux,my.me.tal,nom_flexion,-,-
-mundaŋ,mun.dɑ̃ɡ,nom,err_letters,ŋ
 mundaŋ,mun.daŋ,nom,err_letters,ŋ
+mundaŋ,mun.dɑ̃ɡ,nom,err_letters,ŋ
 mundaŋs,mun.dɑ̃ɡ,nom_flexion,err_letters,ŋ
 muppie,mə.pi,nom,-,-
 muppies,mə.pi,nom_flexion,-,-
@@ -2914,8 +2877,8 @@ méthédrines,me.te.dʁ,nom_flexion,-,-
 métopomancie,mə.tɔ.pɔ.mɑ̃.si,nom,-,-
 mêlage,lɛ.laʒ,nom,-,-
 mêlages,lɛ.laʒ,nom_flexion,-,-
-môn,mɔ̃,nom,-,-
 môn,mɔ̃,adjectif,-,-
+môn,mɔ̃,nom,-,-
 mīm,mim,nom,err_letters,ī
 m’moiselle,mwa.zɛl,nom,-,-
 m’moiselles,mwa.zɛl,nom_flexion,-,-
@@ -2928,8 +2891,8 @@ natgadaw,nat.ɡa.dɑʊ,nom,err_phonemes,ʊ
 nationalpopuliste,na.sjɔ.na.list.pɔ.py.list,adjectif,-,-
 nationalpopuliste,na.sjɔ.na.list.pɔ.py.list,nom,-,-
 nationalpopulistes,na.sjɔ.na.list.pɔ.py.list,adjectif_flexion,-,-
-natisoda,na.tif.so.da,nom,-,-
 natisoda,na.tif.sɔ.da,nom,-,-
+natisoda,na.tif.so.da,nom,-,-
 natkadaw,nat.ka.dɑʊ,nom,err_phonemes,ʊ
 natto,nɑ.toː,nom,err_phonemes,ː
 nattos,nɑ.toː,nom_flexion,err_phonemes,ː
@@ -2937,8 +2900,8 @@ naucrare,no.kʁa,nom,-,-
 naucrares,no.kʁa,nom_flexion,-,-
 nauf,noːf,nom,err_phonemes,ː
 naufs,noːf,nom_flexion,err_phonemes,ː
-navajo,na.va.ʁo,adjectif,-,-
 navajo,na.va.ʁo,nom,-,-
+navajo,na.va.ʁo,adjectif,-,-
 navajos,na.va.ʁo,adjectif_flexion,-,-
 nazca,ɛ̃.ka,adjectif,-,-
 nazcas,ɛ̃.ka,adjectif_flexion,-,-
@@ -3030,8 +2993,8 @@ normopathiser,nɔʁ.ma.ni.ze,verbe,-,-
 notifiés,nɔ.ti.fjee,adjectif_flexion,-,-
 nouba,tun.zja,nom_num=2,-,-
 novemvir,nɔ.vɛmə.viʁ,nom,-,-
-novlangue,nɔv.lɑ̃ŋ,nom_num=2,-,-
 novlangue,nɔv.lɑ̃ŋ,nom_num=1,-,-
+novlangue,nɔv.lɑ̃ŋ,nom_num=2,-,-
 noyon,nɛ.jɔ̃,nom,-,-
 noë,nɔ,nom,-,-
 ntcham,n.ʃam,nom,-,-
@@ -3041,8 +3004,8 @@ nude,nuːd,nom,err_phonemes,ː
 nudes,nuːdz,nom_flexion,err_phonemes,ː
 nudes,nuːd,nom_flexion,err_phonemes,ː
 nujazz,nju dʒaz,nom,-,-
-nurage,ny.ʁaɡ,nom,-,-
 nurage,nu.ʁaɡ,nom,-,-
+nurage,ny.ʁaɡ,nom,-,-
 nurages,nu.ʁaɡ,nom_flexion,-,-
 nurages,ny.ʁaɡ,nom_flexion,-,-
 nuraghe,ny.ʁaɡ,nom,-,-
@@ -3056,11 +3019,10 @@ nyckelharpas,ni.kɛl.ar.pa},nom_flexion,err_phonemes,r
 nynorsk,ny.noʁsk,nom,-,-
 nº,ny.me.ʁo,nom,err_letters,º
 nécrophage,ne.kʁo.faːʒ,adjectif,err_phonemes,ː
-nécrophages,ne.kʁo.faːʒ,adjectif_flexion,err_phonemes,ː
 nécrophages,ne.kʁɔ.faːʒ,adjectif_flexion,err_phonemes,ː
+nécrophages,ne.kʁo.faːʒ,adjectif_flexion,err_phonemes,ː
 négligible,ne.ɡli.ʒibl̥,adjectif,err_phonemes,̥
 négligibles,ne.ɡli.ʒibl̥,adjectif_flexion,err_phonemes,̥
-négro-,ne.gʁo,préfixe,err_phonemes,g
 néocanaux,neo.ka.nal,nom_flexion,-,-
 nūn,nun,nom,err_letters,ū
 n’golo,ŋɡo.lo,nom,-,-
@@ -3106,7 +3068,6 @@ obmîtes,ɔ.mit,verbe_flexion,-,-
 observeur,ɔb.sɛʁ.vœʀ,nom,err_phonemes,ʀ
 obédentiel,ɔ.be.dɑ̃.sj,erreur,-,-
 occupatrice,ɔ.ky.pa.tœʁ,nom_flexion,-,-
-occupatrices,ɔ.ky.pa.tœʁ,nom_flexion,-,-
 ochro-,ɔ.kʁο,préfixe,err_phonemes,ο
 octogènes,ɛk.tɔ.ʒɛn,nom_flexion,-,-
 odomètre,o-,nom,-,-
@@ -3154,7 +3115,7 @@ ouït,wi,verbe_flexion,-,-
 oviau,ɔʁ.vjo,nom,-,-
 p****n,py.tɛ̃,nom,err_letters,*
 p****ns,py.tɛ̃,nom_flexion,err_letters,*
-paan,pɑ:n,nom,err_phonemes,:
+paan,pɑːn,nom,err_phonemes,ː
 packagent,pa.kadʒ,verbe_flexion,-,-
 packages,pa.kadʒ,verbe_flexion,-,-
 pacotilleur,pa.kɔ.ti.jœːʁ,nom,err_phonemes,ː
@@ -3169,10 +3130,10 @@ paillarder,pa.jaʁ.dɛ,verbe,-,-
 palinod,pa.li.nɔ,nom,-,-
 palonnier,pa.lɔ.ɲje,nom,-,-
 palonniers,pa.lɔ.ɲje,nom_flexion,-,-
-palud,pa.ly,nom_num=2,-,-
 palud,pa.ly,nom_num=1,-,-
-paluds,pa.ly,nom_flexion|num=2,-,-
+palud,pa.ly,nom_num=2,-,-
 paluds,pa.ly,nom_flexion|num=1,-,-
+paluds,pa.ly,nom_flexion|num=2,-,-
 panarthropodes,taʁ.di.ɡʁad,nom_flexion,-,-
 pancetta,pɑ̃.tʃe.ta,nom,-,-
 pancettas,pɑ̃.tʃe.ta,nom_flexion,-,-
@@ -3192,8 +3153,6 @@ pantigues,pɑ̃.ti.ɡə,nom_flexion,-,-
 pantodontidés,pɑ̃.dɔ.dɔ̃.ti.de,nom,-,-
 papillifère,pa.pii.li.fɛʁ,adjectif,-,-
 paquitos,ppa.ki.to,nom_flexion,-,-
-paragnathide,pa.ʁa.gna.tid,nom,err_phonemes,g
-paragnathides,pa.ʁa.gna.tid,nom_flexion,err_phonemes,g
 parahéraldiques,e.ʁal.dik,nom_flexion,-,-
 parallèlisation,pa.ʁa.le.li.za.sjɔ̃,nom,-,-
 parallèlisations,pa.ʁa.le.li.za.sjɔ̃,nom_flexion,-,-
@@ -3212,14 +3171,13 @@ passages,pɑ.saːʒ,nom_flexion,err_phonemes,ː
 passoit,pa.swɛ,verbe_flexion,-,-
 patanes,pa.ta.nə,nom_flexion,-,-
 patrouilleuses,pat.ʁu.jœʁ,nom_flexion,-,-
-paunaka,pa.o.na.ka,adjectif,-,-
 paunaka,pa.o.na.ka,nom,-,-
+paunaka,pa.o.na.ka,adjectif,-,-
 pauvre,ˈpɔvʁə,interjection,-,-
 pauv’,pov,adjectif,-,-
-paveuses,pa.vœʁ,nom_flexion,-,-
 pavonazzo,pa.vɔ.nat.zo,nom,-,-
-paysagesques,pɛ.i.ʒa.ɛsk,adjectif_flexion,-,-
 paysagesques,pɛj.ʒa.ɛsk,adjectif_flexion,-,-
+paysagesques,pɛ.i.ʒa.ɛsk,adjectif_flexion,-,-
 pa’anga,pa.an.ɡa,nom,-,-
 pb,pʁɔ.blɛm,nom_num=1,-,-
 pc,pus,nom_num=1,-,-
@@ -3294,10 +3252,10 @@ peuh,pə,interjection,-,-
 peyotl,pɛ.iɔt,nom,-,-
 pezhs,pɛz,nom_flexion,-,-
 pff,f,onomatopée,-,-
-pfff,f,onomatopée,-,-
 pfff,pf,onomatopée,-,-
-pfffff,f,onomatopée,-,-
+pfff,f,onomatopée,-,-
 pfffff,pf,onomatopée,-,-
+pfffff,f,onomatopée,-,-
 phalanstérien,fa.lɑ̃.ste.ɛ̃,nom,-,-
 phaléristicien,fa.le.ʁist.sti.sjɛ̃,nom,-,-
 phaléristiciens,fa.le.ʁist.sti.sjɛ̃,nom_flexion,-,-
@@ -3346,6 +3304,8 @@ pipoteuses,pi.pɔ.tœʁ,nom_flexion,-,-
 piquepouille,pik.pul,nom,-,-
 piquepoult,pik.pul,nom,-,-
 piquerie,pik.ri,nom,err_phonemes,r
+pirahã,pi.ʁa.ɑ̃,adjectif,err_letters,ã
+pirahã,pi.ʁa.ɑ̃,nom,err_letters,ã
 pirojki,pi.ʁɔʃ.ki,nom,-,-
 pirojkis,pi.ʁɔʃ.ki,nom_flexion,-,-
 pistier,pis.tjɛ,nom,-,-
@@ -3354,7 +3314,6 @@ pitas,pɛ̃.ta,nom_flexion,-,-
 piètre,pjɛtʁ̥,adjectif,err_phonemes,̥
 piètres,pjɛtʁ̥,adjectif_flexion,err_phonemes,̥
 plafonneuse,pla.føz,nom_flexion,-,-
-plafonneuses,pla.føz,nom_flexion,-,-
 planchéient,plɑ̃.ʃɛj,verbe_flexion,-,-
 planchéies,plɑ̃.ʃɛj,verbe_flexion,-,-
 plexalgies,ne.vʁal.ʒi,nom_flexion,-,-
@@ -3526,13 +3485,13 @@ poëleriez,pwa.lə.ʁje,verbe_flexion,-,-
 poëlerions,pwa.lə.ʁjɔ̃,verbe_flexion,-,-
 poëlerons,pwa.lə.ʁɔ̃,verbe_flexion,-,-
 poëleront,pwa.lə.ʁɔ̃,verbe_flexion,-,-
-poëles,pwal,verbe_flexion,-,-
 poëles,pwal,nom_flexion,-,-
+poëles,pwal,verbe_flexion,-,-
 poëlez,pwa.le,verbe_flexion,-,-
 poëlier,pwa.lje,nom,-,-
 poëlier,pwa.lje,adjectif,-,-
-poëliers,pwa.lje,adjectif_flexion,-,-
 poëliers,pwa.lje,nom_flexion,-,-
+poëliers,pwa.lje,adjectif_flexion,-,-
 poëliez,pwa.lje,verbe_flexion,-,-
 poëlions,pwa.ljɔ̃,verbe_flexion,-,-
 poëlons,pwa.lɔ̃,verbe_flexion,-,-
@@ -3598,8 +3557,8 @@ prétendantes,pʁe.tɔ̃.dɑ̃t,nom_flexion,-,-
 prétendants,pʁe.tɔ̃.dɑ̃,nom_flexion,-,-
 préurbaniser,pʁe.ɛ̃.dys.tʁi.ja.li.ze,verbe,-,-
 prévôts,pʁe.vɔ,nom_flexion,-,-
-prêche,pʁɛːʃ,verbe_flexion,err_phonemes,ː
 prêche,pʁɛːʃ,nom,err_phonemes,ː
+prêche,pʁɛːʃ,verbe_flexion,err_phonemes,ː
 psalmistes,pasl.mist,nom_flexion,-,-
 pseudencéphalie,psən.dɑ̃.se.fa.li,nom,-,-
 pseudomorphose,psə.dɔ.moʁ.foz,nom,-,-
@@ -3612,6 +3571,7 @@ psychométrique,psy.ko.me.tʁik,adjectif,-,-
 psychométriques,psy.ko.me.tʁik,adjectif_flexion,-,-
 psychonaute,psy.kɔ.not,nom,-,-
 psychédélissimes,psi.ke.de.li.ki.sim,adjectif_flexion,-,-
+puffisme,pø.fism,nom,-,-
 puissancer,pɥ.sɑ̃.se,verbe,-,-
 pull,pu.le,verbe,-,-
 pulsionnelle,pyl.sɔ.njɛl,adjectif_flexion,-,-
@@ -3622,10 +3582,10 @@ pupillomètres,py.pi.jɔ.metʁ,nom_flexion,-,-
 pupiniser,py.py.ni.ze,verbe,-,-
 puséyisme,py.ze.ism,nom,-,-
 puséyismes,py.ze.ism,nom_flexion,-,-
-puséyiste,py.ze.ist,adjectif,-,-
 puséyiste,py.ze.ist,nom,-,-
-puséyistes,py.ze.ist,adjectif_flexion,-,-
+puséyiste,py.ze.ist,adjectif,-,-
 puséyistes,py.ze.ist,nom_flexion,-,-
+puséyistes,py.ze.ist,adjectif_flexion,-,-
 putasse,tɑs,verbe_flexion|num=1,-,-
 putréfiable,py.tʁe.fjablᵊ,adjectif,err_phonemes,ᵊ
 puxidiphtéraniepcéophiles,pyk.si.dif.te.ʁa.njɛ.pso.fil,nom_flexion,-,-
@@ -3669,8 +3629,8 @@ qawl,kal,nom,-,-
 qawls,kal,nom_flexion,-,-
 qawwali,ka.wa.li,nom,-,-
 qawwalis,ka.wa.li,nom_flexion,-,-
-qcq,kɛs kə,pronom interrogatif,-,-
 qcq,kɛl.kɔ̃k,adjectif,-,-
+qcq,kɛs kə,pronom interrogatif,-,-
 qi,tʃi,nom,-,-
 qqc,kɛl.kə ʃoz,pronom indéfini,-,-
 qqch,kɛl.kə ʃoz,pronom indéfini,-,-
@@ -3697,14 +3657,13 @@ quarzeux,kwaʁ.tsø,adjectif,-,-
 quas,kvas,nom,-,-
 quattrocento,kwat.ʁɔ.tʃɛn.tɔ,nom,-,-
 quat’z’arts,kat.z‿aʁ,nom,-,-
-quercinois,kɛʁ.si.nwɑ,nom,-,-
 quercinois,kɛʁ.si.nwɑ,adjectif,-,-
+quercinois,kɛʁ.si.nwɑ,nom,-,-
 quercynois,kɛʁ.si.nwɑ,nom,-,-
 quercynois,kɛʁ.si.nwɑ,adjectif,-,-
 queron,keʁɔ,nom,-,-
 querons,keʁɔ,nom_flexion,-,-
 quinquisaïeux,kɛ̃.ki.za.jœl,nom_flexion,-,-
-quinsacoise,kɛ̃.sa.kwaz&lt;!-- kwɛ̃.sa.kwaz ? --&gt;,adjectif_flexion,err_phonemes,&
 quinterol,kɛ̃.tɔl,nom,-,-
 quinterols,kɛ̃.tɔl,nom_flexion,-,-
 québéco-,ke.ke.ko,préfixe,-,-
@@ -3743,10 +3702,10 @@ rangeots,ʁɑ̃d.dʒo,nom_flexion,-,-
 rangique,ʀɑ̃.ɡik,adjectif,err_phonemes,ʀ
 rangiques,ʀɑ̃.ɡik,adjectif_flexion,err_phonemes,ʀ
 ranitidine,ʁa.ni.ti.dʁin,nom,-,-
-ranz,ʁɑ̃,nom,-,-
 ranz,ʁɑ̃ːs,nom,err_phonemes,ː
-rapailler,ʀa.pɑ.je,verbe,err_phonemes,ʀ
+ranz,ʁɑ̃,nom,-,-
 rapailler,ʀa.pa.je,nom,err_phonemes,ʀ
+rapailler,ʀa.pɑ.je,verbe,err_phonemes,ʀ
 rapaillers,ʀa.pa.je,nom_flexion,err_phonemes,ʀ
 rapistolée,ʁa.pis.tɔ.e,verbe_flexion,-,-
 rapistolées,ʁa.pis.tɔ.e,verbe_flexion,-,-
@@ -3847,8 +3806,8 @@ resculptes,ʁə.skylt,verbe_flexion,-,-
 resouhaiter,ʁə.swe.te,verbe,-,-
 responsive,ʁɛs.pɔ̃n.siv,adjectif,-,-
 ressauts,ʁə.sɔ,nom_flexion,-,-
-ressentimenteux,rə.sɑ̃.ti.mɑ̃.tø,adjectif,err_phonemes,r
 ressentimenteux,rə.sɑ̃.ti.mɑ̃.tø,nom,err_phonemes,r
+ressentimenteux,rə.sɑ̃.ti.mɑ̃.tø,adjectif,err_phonemes,r
 restavec,rɛs.ta.vɛk,nom,err_phonemes,r
 restavecs,rɛs.ta.vɛk,nom_flexion,err_phonemes,r
 restavek,rɛs.ta.vɛk,nom,err_phonemes,r
@@ -3856,8 +3815,8 @@ restavèk,rɛs.ta.vɛk,nom,err_phonemes,r
 restreignante,ʁɛs.tʁɛ.ɲɑt,adjectif_flexion,-,-
 restreignantes,ʁɛs.tʁɛ.ɲɑt,adjectif_flexion,-,-
 resérialiser,ʁə.se.ʁja.li.de,verbe,-,-
-retardée,ʁə.taʁə.de,adjectif_flexion,-,-
 retardée,ʁə.taʁə.de,nom_flexion,-,-
+retardée,ʁə.taʁə.de,adjectif_flexion,-,-
 retemporiser,ʁə.tɑ̃.pe.ʁe,verbe,-,-
 retorchage,ʁɔʁ.ʃaʒ,nom,-,-
 retorchages,ʁɔʁ.ʃaʒ,nom_flexion,-,-
@@ -3882,8 +3841,8 @@ rewritassions,ʁə.ʁaj.ta.sjɔ̃,verbe_flexion,-,-
 rewrite,ʁə.ʁajt,verbe_flexion,-,-
 rewrite,ʁə.ʁajt,nom,-,-
 rewritent,ʁə.ʁajt,verbe_flexion,-,-
-rewriter,ʁə.ʁaj.tɛʁ,nom,-,-
 rewriter,ʁə.ʁaj.te,verbe,-,-
+rewriter,ʁə.ʁaj.tɛʁ,nom,-,-
 rewritera,ʁə.ʁaj.tə.ʁa,verbe_flexion,-,-
 rewriterai,ʁə.ʁaj.tə.ʁe,verbe_flexion,-,-
 rewriteraient,ʁə.ʁaj.tə.ʁɛ,verbe_flexion,-,-
@@ -3919,8 +3878,8 @@ re’em,ʁe.ɛm,nom,-,-
 re’ems,ʁe.ɛm,nom_flexion,-,-
 rhinotillexomane,ʁi.no.ti.yɛk.so.man,nom,-,-
 rhinotillexomanes,ʁi.no.ti.yɛk.so.man,nom_flexion,-,-
-rhinotillexomanie,ʁi.no.ti.yɛk.so.ma.ni,nom,-,-
 rhinotillexomanie,ʁi.no.ti.yɛ.kso.ma.ni,nom,-,-
+rhinotillexomanie,ʁi.no.ti.yɛk.so.ma.ni,nom,-,-
 rhizogénèse,ʁi.zo.ʒe.ɛz,nom,-,-
 ribauds,ʁi.bɔ,nom_flexion,-,-
 riboflavine,ʁi.bɔ.ʁe.fla.vin,nom,-,-
@@ -3929,13 +3888,11 @@ ricœurienne,ʁi.kœʁ.ʁjɛn,adjectif_flexion,-,-
 ricœuriennes,ʁi.kœʁ.ʁjɛn,adjectif_flexion,-,-
 ricœuriens,ʁi.kœʁ.ʁjɛ̃,adjectif_flexion,-,-
 riffs,ʁif,nom_flexion,-,-
-rigoleuses,ʁi.ɡɔ.lœʁ,adjectif_flexion,-,-
-rigoleuses,ʁi.ɡɔ.lœʁ,nom_flexion,-,-
 rimailleuses,ʁi.mɑ.jœʁ,nom_flexion,-,-
 rimbombo,ʁimə.bɔ̃.bo,nom,-,-
 rinforzando,ʁin.fɔʁ.dzan.dɔ,adverbe,-,-
-riniste,ri.nist,nom,err_phonemes,r
 riniste,ri.nist,adjectif,err_phonemes,r
+riniste,ri.nist,nom,err_phonemes,r
 rinistes,ri.nist,adjectif_flexion,err_phonemes,r
 riparial,ʁi.pa.ʁjɛal,adjectif,-,-
 riyal,ʁi.al,nom,-,-
@@ -3943,8 +3900,8 @@ riyals,ʁi.al,nom_flexion,-,-
 robineuse,ʀɔ.bi.nøz,nom,err_phonemes,ʀ
 robineuses,ʀɔ.bi.nøz,nom_flexion,err_phonemes,ʀ
 robineux,ʀɔ.bi.nø,nom,err_phonemes,ʀ
-rock’n’roll,ʁɔ.kɛn.ʁɔl,adjectif,-,-
 rock’n’roll,ʁɔ.kɛn.ʁɔl,nom,-,-
+rock’n’roll,ʁɔ.kɛn.ʁɔl,adjectif,-,-
 rocouient,ʁo.kuj,verbe_flexion,-,-
 rocouies,ʁo.kuj,verbe_flexion,-,-
 roentgen,ʁœ̃nt.ɡɛn,nom,-,-
@@ -3953,8 +3910,8 @@ roestis,ˈrøːʃti,nom_flexion,err_phonemes,r
 rohingya,ʁɔ.in.ɡa,adjectif,-,-
 rohingya,ʁɔ.in.ɡa,nom,-,-
 roide,ʁwed,adjectif,-,-
-roidisseur,ʁɛ.di.sœʁ,adjectif,-,-
 roidisseur,ʁɛ.di.sœʁ,nom,-,-
+roidisseur,ʁɛ.di.sœʁ,adjectif,-,-
 roidisseurs,ʁɛ.di.sœʁ,nom_flexion,-,-
 romagnoles,ɛs.pa.ɲɔl,adjectif_flexion,-,-
 romanaise,ʁɔ.mɑ̃.nɛ,adjectif_flexion,-,-
@@ -3984,15 +3941,15 @@ roupillon,ʁu.piˈjɔ̃,nom,-,-
 roupillons,ʁu.piˈjɔ̃,verbe_flexion,-,-
 roupillons,ʁu.piˈjɔ̃,nom_flexion,-,-
 roys,ʁwa,nom_flexion,-,-
-ruclon,ry.klɔ̃,nom_num=2,err_phonemes,r
 ruclon,ry.klɔ̃,nom_num=1,err_phonemes,r
+ruclon,ry.klɔ̃,nom_num=2,err_phonemes,r
 ruclons,ry.klɔ̃,nom_flexion,err_phonemes,r
 rufiyaa,ʁy.fi.jaː,nom,err_phonemes,ː
 rufiyaas,ʁy.fi.jaː,nom_flexion,err_phonemes,ː
 ruhannais,ʁy.nɛ,adjectif,-,-
 runer,ʁə.ne,verbe_num=1,-,-
-runner,ʁə.nœʁ,nom,-,-
 runner,ʁə.ne,verbe,-,-
+runner,ʁə.nœʁ,nom,-,-
 ruper,ry.pe,verbe,err_phonemes,r
 ruskoffs,ʁys.kɔf,nom_flexion,-,-
 russkoffs,ʁys.kɔf,nom_flexion,-,-
@@ -4002,8 +3959,8 @@ ryes,ʁaj,nom_flexion,-,-
 r°,ʁɛk.to,nom,err_letters,°
 râ’,ra,nom,err_phonemes,r
 réaciduler,ʁe.a.si.di.fje,verbe,-,-
-réacter,ʁe.a.ki.te,verbe_num=2,-,-
 réacter,ʁe.a.ki.te,verbe_num=1,-,-
+réacter,ʁe.a.ki.te,verbe_num=2,-,-
 réadresser,ʁə.a.dʁɛ.se,verbe,-,-
 réagresser,ʁə.a.ɡʁɛ.se,verbe,-,-
 réchauds,ʁe.ʃɔ,nom_flexion,-,-
@@ -4018,6 +3975,8 @@ réencapsuler,ʁə.ɑ̃.kap.sy.le,verbe,-,-
 réentrainer,ʁə.ɑ̃.tʁɛ.ne,verbe,-,-
 réentraîner,ʁə.ɑ̃.tʁɛ.ne,verbe,-,-
 réescompter,ɛs.kɔ̃.te,verbe,-,-
+réestuarisation,ʁe.ɛs.ty.ʁi.za.sjɔ̃,nom,-,-
+réestuarisations,ʁe.ɛs.ty.ʁi.za.sjɔ̃,nom_flexion,-,-
 réfragable,ʁe.fʁa.ɡabl̥,adjectif,err_phonemes,̥
 régalis,ʁə.ɡa.li,nom,-,-
 régayer,ʁə.ɡɛ.je,verbe,-,-
@@ -4039,8 +3998,8 @@ rôts,ʁɔ,nom_flexion,-,-
 römérite,ʁœ.me.ʁit,nom,err_letters,ö
 röntgen,ʁœ̃nt.ɡɛn,nom,err_letters,ö
 röntgens,ʁœnt.ɡɛn,nom_flexion,err_letters,ö
-rösti,ˈrøːʃti,nom,err_phonemes,r
 rösti,røːsti,nom,err_phonemes,r
+rösti,ˈrøːʃti,nom,err_phonemes,r
 röstis,ˈrøːʃti,nom_flexion,err_phonemes,r
 rü’üsá,ʁy.ʔy.sa,nom,err_phonemes,ʔ
 rāʾ,ra,nom,err_phonemes,r
@@ -4075,8 +4034,8 @@ sanjakat,sɑ̃.dja.ka,nom,-,-
 santibelli,sɑ̃tibɛːli,nom,err_phonemes,ː
 sanzisme,sɑ̃ ism,nom,-,-
 sanzismes,sɑ̃ ism,nom_flexion,-,-
-saprotrophe,sa.po.tʁɔf,adjectif,-,-
 saprotrophe,sa.po.tʁɔf,nom,-,-
+saprotrophe,sa.po.tʁɔf,adjectif,-,-
 sardon,aʁdɔ̃,nom,-,-
 sarongs,sa.ʁɔ̃ŋ,nom_flexion,-,-
 sarraus,sa.ʁɔ,nom_flexion,-,-
@@ -4164,6 +4123,7 @@ sculptes,skylt,verbe_flexion,-,-
 scute,tabl,nom,-,-
 seabubble,si.bə.bøl,nom,-,-
 seabubbles,si.bə.bøl,nom_flexion,-,-
+segmentale,sɛg.mɑ̃.tal,adjectif_flexion,err_phonemes,g
 selk’nam,sɛlk.nam,nom,-,-
 selk’nam,sɛlk.nam,adjectif,-,-
 sempiternel,sɛ̃.pi.tɛʁ.nɛl,nom,-,-
@@ -4172,8 +4132,8 @@ semplice,sɛm.pli.tʃe,adverbe,-,-
 senellier,sə.nɛ.ljɛ,nom,-,-
 senelliers,sə.nɛ.ljɛ,nom_flexion,-,-
 senoritas,se.ɲ.ʁi.ta,nom_flexion,-,-
-sensibles,sɑ̃.sibl̥,nom_flexion,err_phonemes,̥
 sensibles,sɑ̃.sibl̥,adjectif_flexion,err_phonemes,̥
+sensibles,sɑ̃.sibl̥,nom_flexion,err_phonemes,̥
 sepoule,ɛ.pul,nom,-,-
 sepoules,ɛ.pul,nom_flexion,-,-
 septaïeux,sɛpt.a.jœl,nom_flexion,-,-
@@ -4217,8 +4177,8 @@ simplexités,sɛ̃.plɛk.si.tɛ,nom_flexion,-,-
 sink,siɲ,nom,-,-
 siù,sju,nom,-,-
 siù,sjy,nom,-,-
-siùs,sju,nom_flexion,-,-
 siùs,sjy,nom_flexion,-,-
+siùs,sju,nom_flexion,-,-
 sjambok,ʃam.bɔk,nom,-,-
 sjamboks,ʃam.bɔk,nom,-,-
 skiffle,ski.føl,nom,-,-
@@ -4279,12 +4239,10 @@ spaghettifiés,spa.ɡɛ.ti.fj,verbe_flexion,-,-
 spatiodrome,spa.sjɔ̃.dʁom,nom,-,-
 spatiodromes,spa.sjɔ̃.dʁom,nom_flexion,-,-
 spectaculaires,spɛk.tak.ky.lɛʁ,adjectif_flexion,-,-
-spioncelle,spjɔ̃.sɛl\,nom,err_phonemes,\
 spliffs,splif,nom_flexion,-,-
 sporophiles,kɔ.ʁi.fa.spiz,nom_flexion,-,-
 sprinteurs,spʁi.tœʁ,nom_flexion,-,-
 sprinteuse,spʁi.tøz,nom,-,-
-sprinteuses,spʁi.tøz,nom_flexion,-,-
 spätzles,ʃpɛt.slə,nom_flexion,err_letters,ä
 spécificiste,spe.si.fi.slst,nom,-,-
 squaw,sqwɑ,nom,err_phonemes,q
@@ -4296,6 +4254,7 @@ staffs,staf,nom_flexion,-,-
 stahlianisme,stɑ.lja.nism,nom,-,-
 stahlianismes,stɑ.lja.nism,nom_flexion,-,-
 stahlien,stɑ.ljɑ̃,nom,-,-
+standalone,stɑ̃.də.lon,nom,-,-
 standalones,stɑ̃.də.lon,nom_flexion,-,-
 starfuckeuse,star.fœ.køz,nom,err_phonemes,r
 starfuckeuses,star.fœ.køz,nom_flexion,err_phonemes,r
@@ -4308,8 +4267,8 @@ stipendiaire,sti.pɑ̃.djɛːʁ,adjectif,err_phonemes,ː
 stipendiaires,sti.pɑ̃.djɛːʁ,adjectif_flexion,err_phonemes,ː
 stoemeling,stuːməliŋ,adverbe,err_phonemes,ː
 stone,stoːn,adjectif,err_phonemes,ː
-stride,strajd,nom,err_phonemes,r
 stride,strajd,adjectif,err_phonemes,r
+stride,strajd,nom,err_phonemes,r
 struthioculture,ˈstɾuː.tʰi.o.kyl.tyʁ,nom,err_phonemes,ɾ
 struthiocultures,ˈstɾuː.tʰi.o.kyl.tyʁ,nom_flexion,err_phonemes,ɾ
 stœchiométriques,sto.kio.me.tʁik,adjectif_flexion,-,-
@@ -4327,10 +4286,11 @@ suiffard,sɥ.faʁ,adjectif,-,-
 sulfhydryle,syl.fi.ʁil,nom,-,-
 sulfhydryles,syl.fi.ʁil,nom_flexion,-,-
 sundaes,sœn.dɛ,nom_flexion,-,-
-supercédure,sy.pɜʁ.se.dyʁ,nom,err_phonemes,ɜ
 superpackages,sy.pɛʁ.pa.kɛdʒ,nom_flexion,-,-
 superpower,su.pœɹ.pɑ.wœɹ,nom,err_phonemes,ɹ
 superréseaux,sy.pɛs.ʁe.zo,nom_flexion,-,-
+supervital,sy.pɜʁ.vi.tal,adjectif,err_phonemes,ɜ
+supervital,sy.pɜʁ.vi.tal,nom,err_phonemes,ɜ
 supervolutives,sy.pɛʁ.vɔ.ly.tif,adjectif_flexion,-,-
 supplicieux,sy.pli.sjœ,adjectif,-,-
 supplétives,sy.ple.tif,adjectif_flexion,-,-
@@ -4376,7 +4336,6 @@ s’émincer,e.mɛ̃.se,verbe,-,-
 tabagn’s,ta.baɲs,nom,-,-
 tabinet,ta.ni.nɛ,nom,-,-
 tabinets,ta.ni.nɛ,nom_flexion,-,-
-taciturnement,ta.si.tyʁ.nə.mɒ̃,adverbe,err_phonemes,ɒ̃
 taffs,taf,nom_flexion,-,-
 tahans,ta.hɑ̃,nom_flexion,err_phonemes,h
 tahin,ta.œ̃,nom,-,-
@@ -4386,12 +4345,12 @@ talkie,to.ki,nom,-,-
 talmudicorabbinique,tal.my.do.ʁa.bi.nik,adjectif,-,-
 talmudicorabbiniques,tal.my.do.ʁa.bi.nik,adjectif_flexion,-,-
 talonide,ta.lɔ̃.nid,nom,-,-
-tamazight,ta.ma.ziʁ,nom,-,-
 tamazight,ta.ma.ziɡ,nom,-,-
 tamazight,ta.ma.ziʁ,adjectif,-,-
 tamazight,ta.ma.ziɡ,adjectif,-,-
-tamaziɣt,ta.ma.ziʁ,adjectif,err_letters,ɣ
+tamazight,ta.ma.ziʁ,nom,-,-
 tamaziɣt,ta.ma.ziʁ,nom,err_letters,ɣ
+tamaziɣt,ta.ma.ziʁ,adjectif,err_letters,ɣ
 tambourineur,tabuʁinœʁ,nom,-,-
 tambourineurs,tabuʁinœʁ,nom_flexion,-,-
 tamponnoir,tɑ̃pɔnwaːʁ,nom,err_phonemes,ː
@@ -4412,8 +4371,6 @@ tchatcher,t͡ʃa.t͡ʃe,verbe,-,-
 tchats,t͡ʃat,nom_flexion,-,-
 tchérokîe,tʃe.ʁɔ.ki,adjectif_flexion,-,-
 tchérokîes,tʃe.ʁɔ.ki,adjectif_flexion,-,-
-techniverrière,tɛk.ni.vɛ.ʁjɛ,nom_flexion,-,-
-techniverrières,tɛk.ni.vɛ.ʁjɛ,nom_flexion,-,-
 tecteur,tɛk.tʁœʁ,adjectif,-,-
 teh,tɛʁ,nom,-,-
 tehs,tɛʁ,nom_flexion,-,-
@@ -4425,16 +4382,16 @@ temporalité,tɛ̃.pɔ.ʁa.li.te,nom,-,-
 tempéreuses,tɑ̃.pe.ʁaʒ,nom_flexion,-,-
 tems,tɑ̃,nom,-,-
 terfez,tɛʁ.fɛ,nom,-,-
-terminaliste,tɛʁ.mi.na.lism,nom,-,-
 terminaliste,tɛʁ.mi.na.lism,adjectif,-,-
-terminalistes,tɛʁ.mi.na.lism,nom_flexion,-,-
+terminaliste,tɛʁ.mi.na.lism,nom,-,-
 terminalistes,tɛʁ.mi.na.lism,adjectif_flexion,-,-
+terminalistes,tɛʁ.mi.na.lism,nom_flexion,-,-
 terzetto,tɛʁ.tsɛ.to,nom,-,-
 terzettos,tɛʁ.tsɛ.to,nom_flexion,-,-
 teubi,tə.bi,nom,-,-
 teubis,tə.bi,nom_flexion,-,-
-teubé,tə.be,adjectif,-,-
 teubé,tə.be,nom,-,-
+teubé,tə.be,adjectif,-,-
 teubés,tə.be,nom_flexion,-,-
 teubés,tə.be,adjectif_flexion,-,-
 teugues,tø.ɡə,nom_flexion,-,-
@@ -4472,10 +4429,6 @@ toenjang,tɔn.zɑ̃ŋ,nom,-,-
 toenjangs,tɔn.zɑ̃ŋ,nom_flexion,-,-
 togeard,tɔ.ʒa,adjectif,-,-
 ton,tɔ̃.n‿,adjectif possessif,-,-
-tontinière,tɔ̃.ti.nje,adjectif_flexion,-,-
-tontinière,tɔ̃.ti.nje,nom_flexion,-,-
-tontinières,tɔ̃.ti.nje,nom_flexion,-,-
-tontinières,tɔ̃.ti.nje,adjectif_flexion,-,-
 toréions,tɔ.ʁej.jɔ̃,verbe_flexion,-,-
 touchpad,tœtʃ.pad,nom,-,-
 tourniole,uʁ.njɔl,nom,-,-
@@ -4485,8 +4438,8 @@ toxicomanogène,tɔ.kis.ko.ma.nɔ.ʒɛn,adjectif,-,-
 toxicomanogènes,tɔ.kis.ko.ma.nɔ.ʒɛn,adjectif_flexion,-,-
 trabécule,tʁa.bi.kyl,nom,-,-
 tractives,tʁak.tif,adjectif_flexion,-,-
-trail,tɹeɪl,nom_num=2,err_phonemes,ɹ
 trail,trɛjl,nom_num=1,err_phonemes,r
+trail,tɹeɪl,nom_num=2,err_phonemes,ɹ
 transailles,tʁɑ̃.zɑ.i,nom,-,-
 transatière,tʁɑ̃.za.tje,adjectif_flexion,-,-
 transbahuta,tʁɑ̃s.ba.y.tam,verbe_flexion,-,-
@@ -4508,8 +4461,8 @@ trantaillassiez,tʁãn.ta.ja.sje,verbe_flexion,err_phonemes,ã
 trantaillassions,tʁãn.ta.ja.sjɔ̃,verbe_flexion,err_phonemes,ã
 trantaille,tʁãn.taj,verbe_flexion,err_phonemes,ã
 trantaillent,tʁãn.taj,verbe_flexion,err_phonemes,ã
-trantailler,tʁãŋ.ta.je,verbe,err_phonemes,ã
 trantailler,tʁãn.ta.je,verbe,err_phonemes,ã
+trantailler,tʁãŋ.ta.je,verbe,err_phonemes,ã
 trantaillera,tʁãn.ta.jə.ʁa,verbe_flexion,err_phonemes,ã
 trantaillerai,tʁãn.ta.jə.ʁe,verbe_flexion,err_phonemes,ã
 trantailleraient,tʁãn.ta.jə.ʁɛ,verbe_flexion,err_phonemes,ã
@@ -4597,17 +4550,17 @@ trutticultures,tʁy.ti.kyl.ty.ʁə,nom_flexion,-,-
 trématode,tʁe.ma.pɔd,nom,-,-
 tréviale,tʁi.tʁe.vj,adjectif_flexion,-,-
 tsar,dzaʁ,nom,-,-
-tsolyáni,tso.ˈljɑ.ni,adjectif,err_letters,á
 tsolyáni,tsɔ.lja.ni,adjectif,err_letters,á
 tsolyáni,tsɔ.lja.ni,nom,err_letters,á
-tsolyánie,tsɔl.ja.ni,adjectif_flexion,err_letters,á
+tsolyáni,tso.ˈljɑ.ni,adjectif,err_letters,á
 tsolyánie,tso.ljˈɑ.ni,adjectif_flexion,err_letters,á
+tsolyánie,tsɔl.ja.ni,adjectif_flexion,err_letters,á
 tsolyánies,tsɔl.ja.ni,adjectif_flexion,err_letters,á
 tsolyánies,tso.ljˈɑ.ni,adjectif_flexion,err_letters,á
-tsolyánis,tso.ljˈɑ.ni,adjectif_flexion,err_letters,á
 tsolyánis,tsɔl.ja.ni,adjectif_flexion,err_letters,á
-tst,ǀ,interjection,err_phonemes,ǀ
+tsolyánis,tso.ljˈɑ.ni,adjectif_flexion,err_letters,á
 tst,t͡s,interjection,-,-
+tst,ǀ,interjection,err_phonemes,ǀ
 tsán,tsan,nom,err_letters,á
 ttakuna,tdʒaˈkuna,nom,-,-
 ttakunas,tdʒaˈkuna,nom_flexion,-,-
@@ -4630,10 +4583,10 @@ txakunas,tdʒaˈkuna,nom_flexion,-,-
 txalaparta,tʃaˈlapaʁta,nom,-,-
 typocœlographie,ti.to.se.lo.ɡʁa.fi,nom,-,-
 typocœlographies,ti.to.se.lo.ɡʁa.fi,nom_flexion,-,-
-tyrannosauroïde,ti.ʁa.zo.no.ʁo.id,adjectif,-,-
 tyrannosauroïde,ti.ʁa.zo.no.ʁo.id,nom,-,-
-tyrannosauroïdes,ti.ʁa.zo.no.ʁo.id,nom_flexion,-,-
+tyrannosauroïde,ti.ʁa.zo.no.ʁo.id,adjectif,-,-
 tyrannosauroïdes,ti.ʁa.zo.no.ʁo.id,adjectif_flexion,-,-
+tyrannosauroïdes,ti.ʁa.zo.no.ʁo.id,nom_flexion,-,-
 tzarismes,dza.ʁism,nom_flexion,-,-
 tz’utujil,tzu.tu.dʒil,nom,-,-
 tébeth,te.vɛt,nom,-,-
@@ -4662,17 +4615,16 @@ unipropriétaires,myl.ti.pʁo.pʁi.je.tɛʁ,nom_flexion,-,-
 unirécidiviste,y.ni.ʁe.di.vist,nom,-,-
 univerbaux,y.ni.vɛʁ.bal,nom_flexion,-,-
 urbexeurs,yʁ.bɛ.kseʁ,nom_flexion,-,-
-urologues,y.ʁɔ.lɔg,nom_flexion,err_phonemes,g
 urushinique,y.ʁy.ʃi.dik,adjectif,-,-
 urushiniques,y.ʁy.ʃi.dik,adjectif_flexion,-,-
 urushiol,y.ʃjɔl,nom,-,-
 userwares,ju.sœʁ.wɛʁ,nom_flexion,-,-
-usinières,y.zi.nje,adjectif_flexion,-,-
 usinières,y.zi.nje,nom_flexion,-,-
-utriculaire,yʁ.ti.ky.lɛʁ,adjectif,-,-
-utriculaire,yʁ.ti.ky.lɛʁ,nom_num=1,-,-
+usinières,y.zi.nje,adjectif_flexion,-,-
 utriculaire,yʁ.ti.ky.lɛʁ,nom_num=3,-,-
 utriculaire,yʁ.ti.ky.lɛʁ,nom_num=2,-,-
+utriculaire,yʁ.ti.ky.lɛʁ,nom_num=1,-,-
+utriculaire,yʁ.ti.ky.lɛʁ,adjectif,-,-
 v,vɛʁ.so,nom,-,-
 vacans,va.jɑ̃,adjectif_flexion,-,-
 vaginateur,va.ʒi.na.t,adjectif,-,-
@@ -4684,16 +4636,16 @@ vanvogtien,van.vɔt.tjɛ̃,adjectif,-,-
 vanvogtienne,van.vɔt.tjɛn,adjectif_flexion,-,-
 vanvogtiennes,van.vɔt.tjɛn,adjectif_flexion,-,-
 vanvogtiens,van.vɔt.tjɛ̃,adjectif_flexion,-,-
-vases,vɑːz,nom_flexion,err_phonemes,ː
 vases,vaːz,nom_flexion,err_phonemes,ː
+vases,vɑːz,nom_flexion,err_phonemes,ː
 vavangue,va.vɑ̃ŋ,nom,-,-
 vavangues,va.vɑ̃ŋ,nom_flexion,-,-
 vazaha,va.za,nom,-,-
 vazâh,va.za,nom,-,-
-vegane,ve.ɡɑ̃,adjectif_flexion,-,-
 vegane,ve.ɡɑ̃,nom_flexion,-,-
-veganes,ve.ɡɑ̃,nom_flexion,-,-
+vegane,ve.ɡɑ̃,adjectif_flexion,-,-
 veganes,ve.ɡɑ̃,adjectif_flexion,-,-
+veganes,ve.ɡɑ̃,nom_flexion,-,-
 velds,vɛlt,nom_flexion,-,-
 veldts,vɛlt,nom_flexion,-,-
 venoit,və.nwɛ,verbe_flexion,-,-
@@ -4740,29 +4692,30 @@ vèvès,fʁ,nom_flexion,-,-
 véligère,̃,adjectif,err_no_pronuciation,only_̃
 véligères,̃,adjectif_flexion,err_no_pronuciation,only_̃
 võro,vo.ʁo,nom,err_letters,õ
-vûe,vy,nom,-,-
 vûe,vy,verbe_flexion,-,-
+vûe,vy,nom,-,-
 vûes,vy,verbe_flexion,-,-
 vûes,vy,nom_flexion,-,-
 v’,v,pronom personnel,-,-
 v’là,vla,verbe,-,-
-v’nu,vny,adjectif,-,-
 v’nu,vny,verbe_flexion,-,-
+v’nu,vny,adjectif,-,-
 v’s,vz,pronom personnel,-,-
+wagonnières,va.ɡɔ.ɲjɛʁ,nom_flexion,-,-
 wahabisme,wa.ha.bism,nom,err_phonemes,h
-wahabite,wa.ha.bit,adjectif,err_phonemes,h
 wahabite,wa.ha.bit,nom,err_phonemes,h
+wahabite,wa.ha.bit,adjectif,err_phonemes,h
 wahabites,wa.ha.bit,nom_flexion,err_phonemes,h
-wahabitisme,va.(h)a.bi.tism,nom,err_phonemes,h
 wahabitisme,wa.(h)a.bi.tism,nom,err_phonemes,h
+wahabitisme,va.(h)a.bi.tism,nom,err_phonemes,h
 wahabitismes,wa.(h)a.bi.tism,nom_flexion,err_phonemes,h
 wahhabisme,wa.ha.bism,nom,err_phonemes,h
 wahhabiste,wa.ha.bist,nom,err_phonemes,h
 wahhabiste,wa.ha.bist,adjectif,err_phonemes,h
-wahhabistes,wa.ha.bist,adjectif_flexion,err_phonemes,h
 wahhabistes,wa.ha.bist,nom_flexion,err_phonemes,h
-wahhabite,wa.ha.bit,nom,err_phonemes,h
+wahhabistes,wa.ha.bist,adjectif_flexion,err_phonemes,h
 wahhabite,wa.ha.bit,adjectif,err_phonemes,h
+wahhabite,wa.ha.bit,nom,err_phonemes,h
 wahhabites,wa.ha.bit,nom_flexion,err_phonemes,h
 waouh,waw,interjection,-,-
 weimarois,wɛ.ma.ʁjwa,adjectif,-,-
@@ -4776,16 +4729,16 @@ whiteheadiens,wajt.hɛ.djɛ̃,adjectif_flexion,err_phonemes,h
 whovien,huː.vjɛ̃,adjectif,err_phonemes,h
 whovien,huː.vjɛ̃,nom,err_phonemes,h
 whoviens,huː.vjɛ̃,nom_flexion,err_phonemes,h
-wichi,wi.t͡ʃi,nom,-,-
 wichi,wi.t͡ʃi,adjectif,-,-
-wichí,wi.ʃi,nom,err_letters,í
+wichi,wi.t͡ʃi,nom,-,-
 wichí,wi.t͡ʃi,nom,err_letters,í
+wichí,wi.ʃi,nom,err_letters,í
 wiki-,wik,préfixe,-,-
 winches,wintʃ,nom_flexion,-,-
 winchs,wintʃ,nom_flexion,-,-
 wingsuit,wiŋ.sjut,nom,-,-
-wingsuiter,wiŋ.sju.te,verbe,-,-
 wingsuiter,wiŋ.sju.tœʁ,nom,-,-
+wingsuiter,wiŋ.sju.te,verbe,-,-
 woluwéens,wɔ.ly.we.ɛɛ̃,adjectif_flexion,-,-
 woorali,u.ʁa.li,nom,-,-
 woorari,u.ʁa.ʁi,nom,-,-
@@ -4816,7 +4769,7 @@ ya’,ja,nom,-,-
 yoghourth,jɔ.ɡuʁ,nom,-,-
 youtubeur,ju.tju.bœʁ,nom,-,-
 youtubeurs,ju.tju.bœʁ,nom_flexion,-,-
-youtubeuse,ju.tju.bøz,nom_flexion,-,-
+youtubeuse,ju.tju.bøz,nom,-,-
 youtubeuses,ju.tju.bøz,nom_flexion,-,-
 yuan,ɥan,nom,-,-
 yuans,ɥan,nom_flexion,-,-
@@ -4825,8 +4778,8 @@ zahato,s̪ahato,nom,err_phonemes,̪
 zanzibarien,zɑ̃.ba.ʁjɛ̃,adjectif,-,-
 zapil’ser,za.pils,verbe,-,-
 zarb’,zaʁb,adjectif,-,-
-zdimoh,zdi muh,nom_num=2,err_phonemes,h
 zdimoh,zdi.muh,nom_num=1,err_phonemes,h
+zdimoh,zdi muh,nom_num=2,err_phonemes,h
 zdimohs,zdi.muh,nom_flexion,err_phonemes,h
 zendrums,zɛn.dʁ,nom_flexion,-,-
 zettahenrys,zɛp.ta.ɑ̃.ʁi,nom_flexion,-,-
@@ -4855,15 +4808,15 @@ zouz,zoz,interjection,-,-
 zoziau,zə.zjo,nom,-,-
 zucchette,zy.ʃɛt,nom,-,-
 zucchettes,zy.ʃɛt,nom_flexion,-,-
-zwanze,zwɑ̃ns,nom,-,-
 zwanze,zwɑ̃s,nom,-,-
+zwanze,zwɑ̃ns,nom,-,-
 zwieback,tsɥi.bak,nom,-,-
 zwieback,tsvi.bak,nom,-,-
 zwiebacks,tsɥi.bak,nom_flexion,-,-
 zwischenzug,tsvi.ʃən.tsuk,nom,-,-
 zyg-,zi.ɡo,préfixe,-,-
-zza’,ðˁa,nom,err_phonemes,ð
 zza’,zˁa,nom,err_phonemes,ˁ
+zza’,ðˁa,nom,err_phonemes,ð
 zzz,z̩ː,onomatopée,err_phonemes,̩
 zzzz,z,onomatopée,-,-
 zzzzz,z,onomatopée,-,-
@@ -4876,8 +4829,8 @@ zéphire,saze.fiʁ,adjectif,-,-
 zêtas,dzɛ.ta,nom_flexion,-,-
 zāy,zaj,nom,err_letters,ā
 zāī,zaj,nom,err_letters,ī
-z’,z,préfixe_num=2,-,-
 z’,z,préfixe_num=1,-,-
+z’,z,préfixe_num=2,-,-
 z’,z,pronom personnel,-,-
 z’en,zɑ̃,pronom personnel_flexion,-,-
 z’y,zi,pronom personnel,-,-
@@ -4966,20 +4919,10 @@ z’yeux,zjø,nom_flexion,-,-
 édingtonites,e.diɲ.tɔ.nit,nom_flexion,-,-
 éditorialement,e.di.tɔ.rjal.mɑ̃,adverbe,err_phonemes,r
 éds,e.di.tœʁ,nom_flexion,-,-
-égagne,ɛ.gaɲ,nom,err_phonemes,g
-égagnes,ɛ.gaɲ,nom_flexion,err_phonemes,g
 égaierions,e.ɡe.ʁjɔ̃,verbe_flexion,-,-
 égaierons,e.ɡe.ʁɔ̃,verbe_flexion,-,-
-égareurs,e.ga.ʁœʁ,nom_flexion,err_phonemes,g
-égareurs,e.ga.ʁœʁ,adjectif_flexion,err_phonemes,g
-égareuse,e.ga.ʁøz,adjectif_flexion,err_phonemes,g
-égareuse,e.ga.ʁøz,nom,err_phonemes,g
-égareuses,e.ga.ʁøz,nom_flexion,err_phonemes,g
-égareuses,e.ga.ʁøz,adjectif_flexion,err_phonemes,g
 égothèle,e.ɡo.thɛl,nom,err_phonemes,h
 égothèles,e.ɡo.thɛl,nom_flexion,err_phonemes,h
-égoton,e.go.tɔ̃,nom,err_phonemes,g
-égotons,e.go.tɔ̃,nom_flexion,err_phonemes,g
 éhontement,e.ʔɔ̃.tə.mɑ̃,nom,err_phonemes,ʔ
 éhontements,e.ʔɔ̃.tə.mɑ̃,nom_flexion,err_phonemes,ʔ
 éhontément,e.ʔɔ̃.te.mɑ̃,adverbe,err_phonemes,ʔ
@@ -4991,8 +4934,8 @@ z’yeux,zjø,nom_flexion,-,-
 émeutières,e.mə.tjɛʁ,adjectif_flexion,-,-
 émeutières,e.mə.tjɛʁ,nom_flexion,-,-
 énergiques,ɛʁ.ʒik,adjectif_flexion,-,-
-éonistes,e.o.ni.st(ə),adjectif_flexion,-,-
 éonistes,e.o.ni.st(ə),nom_flexion,-,-
+éonistes,e.o.ni.st(ə),adjectif_flexion,-,-
 éonites,e.o.nit(ə),nom_flexion,-,-
 épaularde,e.po.laʁ,nom,-,-
 épicières,e.pi.sjeʁ,adjectif_flexion,-,-
@@ -5019,8 +4962,8 @@ z’yeux,zjø,nom_flexion,-,-
 ïambes,jɑ̃ːb,nom_flexion,err_phonemes,ː
 ô,o ak.sɑ̃ siʁ.kɔ̃.flɛks,lettre,-,-
 ġayn,ɣajn,nom,err_lower_case,ġ_as_first_letter
-štokavien,ʃtɔ.ka.vjɛ̃,nom,err_lower_case,š_as_first_letter
 štokavien,ʃtɔ.ka.vjɛ̃,adjectif,err_lower_case,š_as_first_letter
+štokavien,ʃtɔ.ka.vjɛ̃,nom,err_lower_case,š_as_first_letter
 šīn,ʃin,nom,err_lower_case,š_as_first_letter
 ɩkpɔsɔ,i.kpɔ.sɔ,nom,err_lower_case,ɩ_as_first_letter
 ʻokina,ɔ.ki.na,nom,err_lower_case,ʻ_as_first_letter
@@ -5053,14 +4996,15 @@ z’yeux,zjø,nom_flexion,-,-
 ’upa’upa,u.pa.u.pa,nom,-,-
 2CV,dø.ʃə.vo,nom,err_lower_case,2_as_first_letter
 AA+,a a plys,symbole,err_lower_case,A_as_first_letter
-AAA,tri.plə a,symbole,err_lower_case,A_as_first_letter
+AAA,tʁi.plə a,symbole,err_lower_case,A_as_first_letter
 AB,a.se bjɛ̃,adjectif,err_lower_case,A_as_first_letter
 AL,a.sid li.nɔ.le.ik,nom,err_lower_case,A_as_first_letter
-ALAT,aˈlat,nom_num=1,err_lower_case,A_as_first_letter
 ALAT,aˈlat,nom_num=2,err_lower_case,A_as_first_letter
+ALAT,aˈlat,nom_num=1,err_lower_case,A_as_first_letter
 ATER,a.te.ə.ɛr,nom,err_lower_case,A_as_first_letter
 BBA,bi.bi.ɛ,nom,err_lower_case,B_as_first_letter
 BD,bul.vaʁ,nom_num=4,err_lower_case,B_as_first_letter
+BM,bwa mwa.jɛ̃,nom_num=4,err_lower_case,B_as_first_letter
 CB,si.bi,nom_num=2,err_lower_case,C_as_first_letter
 CCITT,se.se.i.tɛ.tɛ,nom propre,err_lower_case,C_as_first_letter
 CNAME,se.nɛjm,nom,err_lower_case,C_as_first_letter
@@ -5069,16 +5013,16 @@ CR80,se.ɛʁ.ka.tʁə.vɛ̃,nom,err_lower_case,C_as_first_letter
 CRISPR,ˈkrɪspəʳ,nom,err_lower_case,C_as_first_letter
 CSE,se.es.œ,nom_num=1,err_lower_case,C_as_first_letter
 CSE,se.es.œ,nom_num=2,err_lower_case,C_as_first_letter
-CSM,se.ɛs.em,nom_num=2,err_lower_case,C_as_first_letter
 CSM,se.es.em,nom_num=1,err_lower_case,C_as_first_letter
+CSM,se.ɛs.em,nom_num=2,err_lower_case,C_as_first_letter
 CSO,se.es.o,nom,err_lower_case,C_as_first_letter
 CSP+,se.ɛs.pe.plys,nom,err_lower_case,C_as_first_letter
 CSP++,se.ɛs.pe.plys.plys,nom,err_lower_case,C_as_first_letter
 CSP-,se.ɛs.pe.mwɛ̃,nom,err_lower_case,C_as_first_letter
 CSSCT,se.dø.zɛs.se.te,nom,err_lower_case,C_as_first_letter
 DIY,di.aj.waj,nom_num=2,err_lower_case,D_as_first_letter
-DIY,di.aj.waj,nom_num=1,err_lower_case,D_as_first_letter
 DIY,di.aj.waj,adjectif,err_lower_case,D_as_first_letter
+DIY,di.aj.waj,nom_num=1,err_lower_case,D_as_first_letter
 DJ,di.dʒe,nom,err_lower_case,D_as_first_letter
 DL50,de.ɛl sɛ̃.kɑ̃t,nom,err_lower_case,D_as_first_letter
 DVDD,disk vi.de.o a dy.ʁe de.tɛʁ.mi.ne,nom,err_lower_case,D_as_first_letter
@@ -5091,6 +5035,7 @@ ET,i.ti,nom_num=1,err_lower_case,E_as_first_letter
 E¼NE,ɛst kaʁ nɔ.ʁ‿ɛst,nom,err_lower_case,E_as_first_letter
 E¼SE,ɛst kaʁ sy.d‿ɛst,nom,err_lower_case,E_as_first_letter
 FBI,ɛf.bi.aj,nom propre,err_lower_case,F_as_first_letter
+GB,ɡʁo bwa,nom,err_lower_case,G_as_first_letter
 GI,dʒi.aj,nom,err_lower_case,G_as_first_letter
 J2EE,ʒi.dø.ø,nom,err_lower_case,J_as_first_letter
 JSON,dʒej.sɔn,nom,err_lower_case,J_as_first_letter
@@ -5099,7 +5044,6 @@ MBA,ɛm.bi.eɪ,nom,err_lower_case,M_as_first_letter
 MCCC,ɛm.tʁwa.se,nom,err_lower_case,M_as_first_letter
 MP*,ɛm.pe.e.twal,nom,err_lower_case,M_as_first_letter
 MT,mø.tø,nom_num=1,err_lower_case,M_as_first_letter
-NAG,nag,nom,err_lower_case,N_as_first_letter
 NBA,ɛn.bi.e,nom propre,err_lower_case,N_as_first_letter
 NE¼E,nɔ.ʁ‿ɛst ka.ʁ‿ɛst,nom,err_lower_case,N_as_first_letter
 NE¼N,nɔ.ʁ‿ɛst kaʁ nɔʁ,nom,err_lower_case,N_as_first_letter
@@ -5126,6 +5070,7 @@ OSO½O,wɛst sy.d‿wɛst də.mi wɛst,nom,err_lower_case,O_as_first_letter
 OSO½S,wɛst sy.d‿wɛst də.mi syd,nom,err_lower_case,O_as_first_letter
 O¼NO,wɛst kaʁ nɔ.ʁ‿wɛst,nom,err_lower_case,O_as_first_letter
 O¼SO,wɛst kaʁ sy.d‿wɛst,nom,err_lower_case,O_as_first_letter
+PB,pə.ti bwa,nom,err_lower_case,P_as_first_letter
 PC*,pe.se.e.twal,nom,err_lower_case,P_as_first_letter
 PSI*,pe.ɛs.i.e.twal,nom,err_lower_case,P_as_first_letter
 RJ45,ɛʁ.ʒi.kaʁ.ɑ̃t.sɛ̃k,nom,err_lower_case,R_as_first_letter
@@ -5153,6 +5098,8 @@ SVP,sil.vu.plɛ,interjection,err_lower_case,S_as_first_letter
 S¼SE,syd kaʁ sy.d‿ɛst,nom,err_lower_case,S_as_first_letter
 S¼SO,syd kaʁ sy.d‿wɛst,nom,err_lower_case,S_as_first_letter
 TFAI,te.ɛf.a.i ou tfaj,nom propre,err_lower_case,T_as_first_letter
+TFT,te ɜf te,nom,err_lower_case,T_as_first_letter
+TGB,tʁɜ ɡʁo bwa,nom,err_lower_case,T_as_first_letter
 TPIY,te.pe.i.ɡʁɛk,nom,err_lower_case,T_as_first_letter
 UKG,ju.ke.ʒe,nom,err_lower_case,U_as_first_letter
 VIP,vi.aj.pi,nom,err_lower_case,V_as_first_letter
@@ -5165,22 +5112,22 @@ WEI,ˈwaj ou ˈwɛj,nom,err_lower_case,W_as_first_letter
 (2S),dø.zjɛm sɛk.sjɔ̃,nom,err_lower_case,(_as_first_letter
 "2,5D",dø viʁ.ɡyl sɛ̃k de,nom,err_lower_case,2_as_first_letter
 4D,tʁwa.de,adjectif,err_lower_case,4_as_first_letter
-4X4,kat.kat,adjectif,err_lower_case,4_as_first_letter
-4X4,kat.kat,nom,err_lower_case,4_as_first_letter
 4X4,katʁ.katʁ,adjectif,err_lower_case,4_as_first_letter
 4X4,katʁ.katʁ,nom,err_lower_case,4_as_first_letter
+4X4,kat.kat,adjectif,err_lower_case,4_as_first_letter
+4X4,kat.kat,nom,err_lower_case,4_as_first_letter
 8K,ɥi.ka,nom,err_lower_case,8_as_first_letter
 A2C,ɛj tu si,nom,err_lower_case,A_as_first_letter
 A380,a.tʁwa.sɑ̃.katʁə.vɛ̃,nom,err_lower_case,A_as_first_letter
 A48,a ka.ʁɑ̃.tɥit,nom propre,err_lower_case,A_as_first_letter
 Aa,aː,nom propre,err_lower_case,A_as_first_letter
-Aadorf,a:.doʁf,nom propre,err_lower_case,A_as_first_letter
-Aalandais,oː.lɑ̃.dɛ,nom,err_lower_case,A_as_first_letter
+Aadorf,aː.doʁf,nom propre,err_lower_case,A_as_first_letter
 Aalandais,aː.lɑ̃.dɛ,nom,err_lower_case,A_as_first_letter
+Aalandais,oː.lɑ̃.dɛ,nom,err_lower_case,A_as_first_letter
 Aalandaise,oː.lɑ̃.dɛz,nom,err_lower_case,A_as_first_letter
 Aalandaise,aː.lɑ̃.dɛz,nom,err_lower_case,A_as_first_letter
-Aalandaises,aː.lɑ̃.dɛz,nom_flexion,err_lower_case,A_as_first_letter
 Aalandaises,oː.lɑ̃.dɛz,nom_flexion,err_lower_case,A_as_first_letter
+Aalandaises,aː.lɑ̃.dɛz,nom_flexion,err_lower_case,A_as_first_letter
 Aalborg,ɔl.bɔʁɡ,nom propre,err_lower_case,A_as_first_letter
 Aalen,aː.lən,nom propre,err_lower_case,A_as_first_letter
 Aarburg,aːʁ.buʁɡ,nom propre,err_lower_case,A_as_first_letter
@@ -5234,7 +5181,6 @@ Alongs,a.lɔ̃ŋ,nom_flexion,err_lower_case,A_as_first_letter
 Altenheim,al.tən.(h)ajm,nom propre,err_lower_case,A_as_first_letter
 Aluur,a.luʁ,nom,err_lower_case,A_as_first_letter
 Amadourienne,a.ma.du.ʁjɛnɛ̃ɛn,nom,err_lower_case,A_as_first_letter
-Amalfitaine,a.mal.fi.tɛ̃n,nom_flexion,err_lower_case,A_as_first_letter
 Amalfitaines,a.mal.fi.tɛ̃n,nom_flexion,err_lower_case,A_as_first_letter
 Ambleville,ɛ̃.blə.vil,nom propre,err_lower_case,A_as_first_letter
 Amifontaine,a.mi.fɔ̃.tɛ̃n,nom propre,err_lower_case,A_as_first_letter
@@ -5276,13 +5222,14 @@ Artolsheimoise,aʁ.tɔls.(h)aj.mwaz,nom,err_lower_case,A_as_first_letter
 Artolsheimoises,aʁ.tɔls.(h)aj.mwaz,nom_flexion,err_lower_case,A_as_first_letter
 Artzenheim,aʁ.tsən.(h)ajm,nom propre,err_lower_case,A_as_first_letter
 Ascéennes,s.se.ɛn,nom_flexion,err_lower_case,A_as_first_letter
-Ashleigh,aʃ.li,prénom_genre=mf,err_lower_case,A_as_first_letter
 Ashleigh,aʃ.li,nom propre,err_lower_case,A_as_first_letter
 Ashleigh,aʃ.li,nom de famille,err_lower_case,A_as_first_letter
+Ashleigh,aʃ.li,prénom_genre=mf,err_lower_case,A_as_first_letter
 Aspriéroise,z,nom,err_lower_case,A_as_first_letter
 Asunción,a.sun.sjɔn,nom propre,err_lower_case,A_as_first_letter
 Auenheim,aw.ən.(h)ajm,nom propre,err_lower_case,A_as_first_letter
 Auray,o.ʁɛ],nom propre,err_lower_case,A_as_first_letter
+Aurèle,o.ʁel,prénom_genre=m,err_lower_case,A_as_first_letter
 Authumes,ɑ̃.tym,nom propre,err_lower_case,A_as_first_letter
 Autrechêne,otχəʃɛːn,nom propre,err_lower_case,A_as_first_letter
 Avenheim,a.vən.(h)ajm,nom propre,err_lower_case,A_as_first_letter
@@ -5354,8 +5301,8 @@ Bischoffsheim,bi.ʃofs.(h)ajm,nom propre,err_lower_case,B_as_first_letter
 Bissau,bi.sa.o,nom propre,err_lower_case,B_as_first_letter
 Bitoliens,bi.tɔ.lj,nom_flexion,err_lower_case,B_as_first_letter
 Bjorn,bjøʁn,prénom_genre=m,err_lower_case,B_as_first_letter
-Bjørn,bjɔʁn,prénom_genre=m,err_lower_case,B_as_first_letter
 Bjørn,bjøʁn,prénom_genre=m,err_lower_case,B_as_first_letter
+Bjørn,bjɔʁn,prénom_genre=m,err_lower_case,B_as_first_letter
 Blaesheim,blɛs.(h)ajm,nom propre,err_lower_case,B_as_first_letter
 Blaesheimois,blɛs.(h)aj.mwa,nom,err_lower_case,B_as_first_letter
 Blaesheimoise,blɛs.(h)aj.mwaz,nom,err_lower_case,B_as_first_letter
@@ -5431,8 +5378,8 @@ Cagliaritaine,ka.ɡlja.ʁi.tɛ̃nɛn,nom,err_lower_case,C_as_first_letter
 Cagliaritaines,ka.ɡlja.ʁi.tɛ̃n,nom_flexion,err_lower_case,C_as_first_letter
 Caissarguaises,kaʁ.ɡɛz,nom_flexion,err_lower_case,C_as_first_letter
 Callengevillaises,ka.lɑ̃.ʒə.vi.lz,nom_flexion,err_lower_case,C_as_first_letter
-Cambaie,kɑ̃.be,nom propre_num=1,err_lower_case,C_as_first_letter
 Cambaie,kɑ̃.be,nom propre_num=2,err_lower_case,C_as_first_letter
+Cambaie,kɑ̃.be,nom propre_num=1,err_lower_case,C_as_first_letter
 Cambodgienne,kɑ̃.bɔd.ʒjɛ̃ɛn,nom,err_lower_case,C_as_first_letter
 Cambonais,kɑ̃.bʁɔ.nɛ,nom_num=1,err_lower_case,C_as_first_letter
 Cambonais,kɑ̃.bʁɔ.nɛ,nom_num=2,err_lower_case,C_as_first_letter
@@ -5447,8 +5394,8 @@ Cantonnières,kɑ̃.tɔ.njeʁ,nom_flexion,err_lower_case,C_as_first_letter
 Capvern,ka.vɛʁ,nom propre,err_lower_case,C_as_first_letter
 Caritas,ˈkaʁitas,nom propre,err_lower_case,C_as_first_letter
 Carnatique,kaʁ.nat,nom propre_num=1,err_lower_case,C_as_first_letter
-Carolane,ka.rɔ.lan,prénom_genre=f,err_lower_case,C_as_first_letter
 Carolane,ka.rɔ.lan,nom,err_lower_case,C_as_first_letter
+Carolane,ka.rɔ.lan,prénom_genre=f,err_lower_case,C_as_first_letter
 Carolanes,ka.rɔ.lan,nom_flexion,err_lower_case,C_as_first_letter
 Carolans,ka.rɔ.lɑ̃,nom_flexion,err_lower_case,C_as_first_letter
 Catilina,ka.ti.lin.na,nom propre,err_lower_case,C_as_first_letter
@@ -5527,10 +5474,10 @@ Côtedeneigiens,kot.dɛ.nɛ.ʒj,nom_flexion,err_lower_case,C_as_first_letter
 D100,de sɑ̃,nom,err_lower_case,D_as_first_letter
 Dahlenheim,da.lən.(h)ajm,nom propre,err_lower_case,D_as_first_letter
 Dakhla,daʁ.la,nom propre,err_lower_case,D_as_first_letter
-Damprichard,dɑ̃ʁiʃaːʁ,nom propre,err_lower_case,D_as_first_letter
 Damprichard,dɑ̃pʁiʃaːʁ,nom,err_lower_case,D_as_first_letter
 Damprichard,dɑ̃ʁiʃaːʁ,nom,err_lower_case,D_as_first_letter
 Damprichard,dɑ̃pʁiʃaːʁ,nom propre,err_lower_case,D_as_first_letter
+Damprichard,dɑ̃ʁiʃaːʁ,nom propre,err_lower_case,D_as_first_letter
 Dangolsheim,daɲ.(ɡ)ɔls.(h)ajm,nom propre,err_lower_case,D_as_first_letter
 Daniels,ˈda.nils,nom propre_num=2,err_lower_case,D_as_first_letter
 Daniels,ˈda.njɛls,nom propre_num=1,err_lower_case,D_as_first_letter
@@ -5564,8 +5511,8 @@ Dumontes,dy.mɔ̃,nom_flexion,err_lower_case,D_as_first_letter
 Duntzenheim,dun.tsən.(h)ajm,nom propre,err_lower_case,D_as_first_letter
 Duppigheim,dy.pik.(h)ajm,nom propre,err_lower_case,D_as_first_letter
 Duttlenheim,dy.tlən.(h)ajm,nom propre,err_lower_case,D_as_first_letter
-E101,e sɑ̃.œ̃,nom propre,err_lower_case,E_as_first_letter
 E101,e sɑ̃.œ̃,nom,err_lower_case,E_as_first_letter
+E101,e sɑ̃.œ̃,nom propre,err_lower_case,E_as_first_letter
 E200,ø.dø.sɑ̃,nom,err_lower_case,E_as_first_letter
 Ebersheim,e.bəʁs.(h)ajm,nom propre,err_lower_case,E_as_first_letter
 Eckbolsheim,ɛk.bɔls.(h)ajm,nom propre,err_lower_case,E_as_first_letter
@@ -5585,8 +5532,8 @@ Ensisheim,ɛn.sis.(h)ajm,nom propre,err_lower_case,E_as_first_letter
 Enstone,ɛn.stoːn,nom propre,err_lower_case,E_as_first_letter
 Entrammaise,pz,nom,err_lower_case,E_as_first_letter
 Entzheim,ɛns.(h)ajm,nom propre,err_lower_case,E_as_first_letter
-Erdoğan,ɛʁ.dɔ.ɡan,prénom_genre=m,err_lower_case,E_as_first_letter
 Erdoğan,ɛʁ.dɔ.an,prénom_genre=m,err_lower_case,E_as_first_letter
+Erdoğan,ɛʁ.dɔ.ɡan,prénom_genre=m,err_lower_case,E_as_first_letter
 Erdoğan,ɛʁ.dɔ.an,nom de famille,err_lower_case,E_as_first_letter
 Erdoğan,ɛʁ.dɔ.ɡan,nom de famille,err_lower_case,E_as_first_letter
 Ergersheim,ɛʁ.ɡəʁs.(h)ajm,nom propre,err_lower_case,E_as_first_letter
@@ -5599,8 +5546,8 @@ E½S,ɛst də.mi syd,nom,err_lower_case,E_as_first_letter
 Eʋe,e.we,nom,err_lower_case,E_as_first_letter
 F,fʁɑ̃,nom,err_lower_case,F_as_first_letter
 F2M,ɛf.tu.ɛm,nom,err_lower_case,F_as_first_letter
-Facebook,fɛjs.buk,nom propre,err_lower_case,F_as_first_letter
 Facebook,feɪs.bʊk,nom propre,err_lower_case,F_as_first_letter
+Facebook,fɛjs.buk,nom propre,err_lower_case,F_as_first_letter
 Faidherbia,fɛ.dɛʁ.dja,nom,err_lower_case,F_as_first_letter
 Faidherbias,fɛ.dɛʁ.dja,nom_flexion,err_lower_case,F_as_first_letter
 Fanch,ˈfɑ̃ʃ,prénom_genre=m,err_lower_case,F_as_first_letter
@@ -5617,8 +5564,8 @@ Fomalhautains,fɔ.mal.(h)o.tɛ̃,nom_flexion,err_lower_case,F_as_first_letter
 Forez,fɔ.ʁɛ,nom propre,err_lower_case,F_as_first_letter
 Forstheim,fɔʁst.(h)ajm,nom propre,err_lower_case,F_as_first_letter
 Fossambaugeois,fɔ.sɑ̃.ʒwa,nom,err_lower_case,F_as_first_letter
-Foucault,fu.kɔ,nom de famille,err_lower_case,F_as_first_letter
 Foucault,fu.kɔ,prénom_genre=m,err_lower_case,F_as_first_letter
+Foucault,fu.kɔ,nom de famille,err_lower_case,F_as_first_letter
 Fouzon,fu.zɔ̱,nom propre,err_lower_case,F_as_first_letter
 Fowey,fɔj,nom propre,err_lower_case,F_as_first_letter
 Francillon,fʁɑ̃.si.jɔ̃ɔ̃,nom_num=2,err_lower_case,F_as_first_letter
@@ -5650,12 +5597,10 @@ Gagniérois,ɡa.ɲe.,nom,err_lower_case,G_as_first_letter
 Gaillonnais,p,nom,err_lower_case,G_as_first_letter
 Galanais,p,nom,err_lower_case,G_as_first_letter
 Gambsheim,ɡams.(h)ajm,nom propre,err_lower_case,G_as_first_letter
-Gaselle,ga.zɛl,nom propre,err_lower_case,G_as_first_letter
 Gaspésienne,ɡas.pe.zjɛ̃ɛn,nom,err_lower_case,G_as_first_letter
 Gateshead,ɡets.hɛd,nom propre,err_lower_case,G_as_first_letter
 Gaétane,ɡe.tan,prénom_genre=f,err_lower_case,G_as_first_letter
 Gbadolite,ɡ͡badolite,nom propre,err_lower_case,G_as_first_letter
-Geens,gens,nom de famille,err_lower_case,G_as_first_letter
 Geispolsheim,ɡajs.pɔls.(h)ajm,nom propre,err_lower_case,G_as_first_letter
 Gengoult,ʒɑ̃.ɡul,prénom_genre=m,err_lower_case,G_as_first_letter
 Genod,ʒə.no,nom propre,err_lower_case,G_as_first_letter
@@ -5665,8 +5610,8 @@ Gerstheim,ɡeʁst.(h)ajm,nom propre,err_lower_case,G_as_first_letter
 Geudertheim,ɡœj.dəʁt.(h)ajm,nom propre,err_lower_case,G_as_first_letter
 Gianna,dʒan.na,nom de famille,err_lower_case,G_as_first_letter
 Gianna,dʒan.na,prénom_genre=f,err_lower_case,G_as_first_letter
-Gianni,dʒan.ni,nom de famille,err_lower_case,G_as_first_letter
 Gianni,dʒan.ni,prénom_genre=m,err_lower_case,G_as_first_letter
+Gianni,dʒan.ni,nom de famille,err_lower_case,G_as_first_letter
 Gignoux,ʒi.nuks,nom propre,err_lower_case,G_as_first_letter
 Gingsheim,ɡiŋs.(h)ajm,nom propre,err_lower_case,G_as_first_letter
 Golan,ɡo.lɑ,nom propre,err_lower_case,G_as_first_letter
@@ -5683,8 +5628,8 @@ Grand’Mérois,ɡʁɑ̃.me.ʁwa,nom,err_lower_case,G_as_first_letter
 Graziella,ɡʁa.(d)zjɛ.la,prénom_genre=f,err_lower_case,G_as_first_letter
 Greenlayen,ɡʁiːn.le.jɛ̃,nom,err_lower_case,G_as_first_letter
 Greenlayens,ɡʁiːn.le.jɛ̃,nom_flexion,err_lower_case,G_as_first_letter
-Greenwich,ɡʁɛ.nitʃ,nom propre,err_lower_case,G_as_first_letter
 Greenwich,ɡʁi.nitʃ,nom propre,err_lower_case,G_as_first_letter
+Greenwich,ɡʁɛ.nitʃ,nom propre,err_lower_case,G_as_first_letter
 Griesheim,ɡʁis.(h)ajm,nom propre,err_lower_case,G_as_first_letter
 Grignolain,ɡʁi.nɔ.lɛ̃,nom,err_lower_case,G_as_first_letter
 Grignolains,ɡʁi.nɔ.lɛ̃,nom_flexion,err_lower_case,G_as_first_letter
@@ -5786,8 +5731,8 @@ Huttenheim,(h)y.tən.(h)ajm,nom propre,err_lower_case,H_as_first_letter
 Huttenheimois,(h)y.tən.(h)aj.mwa,nom,err_lower_case,H_as_first_letter
 Huttenheimoise,(h)y.tən.(h)aj.mwaz,nom,err_lower_case,H_as_first_letter
 Huttenheimoises,(h)y.tən.(h)aj.mwaz,nom_flexion,err_lower_case,H_as_first_letter
-Hwang,hwaŋ,nom de famille,err_lower_case,H_as_first_letter
 Hwang,wɑ̃ɡ,nom de famille,err_lower_case,H_as_first_letter
+Hwang,hwaŋ,nom de famille,err_lower_case,H_as_first_letter
 Hégenheim,(h)e.ɡən.(h)ajm,nom propre,err_lower_case,H_as_first_letter
 Hégenheimois,(h)e.ɡən.(h)aj.mwa,nom,err_lower_case,H_as_first_letter
 Hégenheimoise,(h)e.ɡən.(h)aj.mwaz,nom,err_lower_case,H_as_first_letter
@@ -5802,8 +5747,8 @@ Illhaeusern,il.(h)œj.zəʁn,nom propre,err_lower_case,I_as_first_letter
 Imbsheim,ims.(h)ajm,nom propre,err_lower_case,I_as_first_letter
 Impériaux,ɛ̃.pe.ʁjal,nom_flexion,err_lower_case,I_as_first_letter
 Ingenheim,i.ŋən.(h)ajm,nom propre,err_lower_case,I_as_first_letter
-Ingersheim,i.ŋəʁs.(h)ajm,nom propre_num=2,err_lower_case,I_as_first_letter
 Ingersheim,i.ŋəʁs.(h)ajm,nom propre_num=1,err_lower_case,I_as_first_letter
+Ingersheim,i.ŋəʁs.(h)ajm,nom propre_num=2,err_lower_case,I_as_first_letter
 Ingolsheim,iŋ(ɡ)ɔls.(h)ajm,nom propre,err_lower_case,I_as_first_letter
 Ingrandais,p,nom,err_lower_case,I_as_first_letter
 Inn,ɪn,nom propre_num=1,err_lower_case,I_as_first_letter
@@ -5818,16 +5763,16 @@ Issenheim,i.sən.(h)ajm,nom propre,err_lower_case,I_as_first_letter
 Issoudun,i.su.dɛ̃,nom propre,err_lower_case,I_as_first_letter
 Isséen,iseɛnɛ̃,nom,err_lower_case,I_as_first_letter
 Ittenheim,i.tən.(h)ajm,nom propre,err_lower_case,I_as_first_letter
-Jalón,xa.lɔn,nom propre,err_lower_case,J_as_first_letter
 Jalón,ʁa.lɔn,nom propre,err_lower_case,J_as_first_letter
+Jalón,xa.lɔn,nom propre,err_lower_case,J_as_first_letter
 Jandun,ʒɑ̃.dɛ̃,nom propre,err_lower_case,J_as_first_letter
 Jaynet,ʒa.nɛt,prénom_genre=f,err_lower_case,J_as_first_letter
 Jebsheim,jɛps.(h)ajm,nom propre,err_lower_case,J_as_first_letter
-Jiangxi,dʒɑ̃ŋ.ʃi,nom propre,err_lower_case,J_as_first_letter
 Jiangxi,tʒɑ̃ŋ.ʃi,nom propre,err_lower_case,J_as_first_letter
+Jiangxi,dʒɑ̃ŋ.ʃi,nom propre,err_lower_case,J_as_first_letter
 Jihène,ʒi.hɛn,prénom_genre=f,err_lower_case,J_as_first_letter
-Jingzhou,tsiŋ.tʃu,nom propre,err_lower_case,J_as_first_letter
 Jingzhou,dʒiŋ.ʒu,nom propre,err_lower_case,J_as_first_letter
+Jingzhou,tsiŋ.tʃu,nom propre,err_lower_case,J_as_first_letter
 Johannesbourg,jo.ˈha.nəs.buʁ,nom propre,err_lower_case,J_as_first_letter
 Johnnies,dʒɔ.ni,nom_flexion,err_lower_case,J_as_first_letter
 Joker,d͡ʒo.kœʁ,nom propre,err_lower_case,J_as_first_letter
@@ -5858,8 +5803,8 @@ Kienheim,kin.(h)ajm,nom propre,err_lower_case,K_as_first_letter
 Kientzheim,kints.(h)ajm,nom propre,err_lower_case,K_as_first_letter
 Kingersheim,ki.ŋəʁs.(h)ajm,nom propre,err_lower_case,K_as_first_letter
 Kintzheim,kints.(h)ajm,nom propre,err_lower_case,K_as_first_letter
-Kira,ˈki.ʁa,prénom_num=2|genre=f,err_lower_case,K_as_first_letter
 Kira,ˈki.ʁa,prénom_num=1|genre=f,err_lower_case,K_as_first_letter
+Kira,ˈki.ʁa,prénom_num=2|genre=f,err_lower_case,K_as_first_letter
 Kirchheim,kiʁc.(h)ajm,nom propre,err_lower_case,K_as_first_letter
 Kiribati,ki.ʁi.bas,nom propre,err_lower_case,K_as_first_letter
 Kleinfrankenheim,klajn.fʁaŋ.kən.(h)ajm,nom propre,err_lower_case,K_as_first_letter
@@ -5890,10 +5835,10 @@ Kuujjuaraapimmiut,ku.u.dʒu.wa.ʁa.pi.mjut,nom_flexion,err_lower_case,K_as_first
 Káshi,ka.ʃi,nom propre,err_lower_case,K_as_first_letter
 Kâmasûtra,ka.ma.su.tʁa,nom propre,err_lower_case,K_as_first_letter
 Künheim,kyn.(h)ajm,nom propre,err_lower_case,K_as_first_letter
+Künßberg,kyns.bɛʁɡ,nom propre,err_lower_case,K_as_first_letter
 Küttolsheim,ky.tɔls.(h)ajm,nom propre,err_lower_case,K_as_first_letter
 Labradorienne,la.bʁa.dɔ.ʁjɛ̃nɛn,nom,err_lower_case,L_as_first_letter
 Lakshadweep,lak.ʃa.dwiːp,nom propre,err_lower_case,L_as_first_letter
-Lambertienne,lɑ̃.bɛʁ.tjɛ̃ɛn,nom,err_lower_case,L_as_first_letter
 Lampertheim,lam.pəʁt.(h)ajm,nom propre_num=2,err_lower_case,L_as_first_letter
 Lampertheim,lam.pəʁt.(h)ajm,nom propre_num=1,err_lower_case,L_as_first_letter
 Landersheim,lan.dəʁs.(h)ajm,nom propre,err_lower_case,L_as_first_letter
@@ -5913,6 +5858,7 @@ Levice,le.vi.tse,nom propre_num=1,err_lower_case,L_as_first_letter
 Levoča,le.vo.tʃa,nom propre,err_lower_case,L_as_first_letter
 Lewandowski,levɑ̃dɔfski,nom de famille,err_lower_case,L_as_first_letter
 Lexovien,lɛk.zɔ.vjɛ̃,nom,err_lower_case,L_as_first_letter
+Leysen,lɛj.sɛns,nom propre,err_lower_case,L_as_first_letter
 Lezghe,lɛzɡ,nom,err_lower_case,L_as_first_letter
 Lezghes,lɛzɡ,nom_flexion,err_lower_case,L_as_first_letter
 Lialienka,lja.lja,prénom_genre=f,err_lower_case,L_as_first_letter
@@ -5922,8 +5868,8 @@ Lingolsheim,liŋ.ɡɔls.(h)ajm,nom propre,err_lower_case,L_as_first_letter
 Lipsheim,lips.(h)ajm,nom propre,err_lower_case,L_as_first_letter
 Littenheim,li.tən.(h)ajm,nom propre,err_lower_case,L_as_first_letter
 Livernonois,li.vɛʁ.nwa,nom,err_lower_case,L_as_first_letter
-Livyáni,li.vjˈɑ.ni,nom,err_lower_case,L_as_first_letter
 Livyáni,li.vja.ni,nom,err_lower_case,L_as_first_letter
+Livyáni,li.vjˈɑ.ni,nom,err_lower_case,L_as_first_letter
 Livyánis,li.vjˈɑ.ni,nom_flexion,err_lower_case,L_as_first_letter
 Lodz,wutʃ,nom propre,err_lower_case,L_as_first_letter
 Logelheim,lo.ɡəl.(h)ajm,nom propre,err_lower_case,L_as_first_letter
@@ -5938,8 +5884,8 @@ Louhansk,lu.hɑ̃nsk,nom propre,err_lower_case,L_as_first_letter
 Louvières,lɔ̃.vi.lje,nom propre,err_lower_case,L_as_first_letter
 Louxoriennes,lu.iks.ɔ.ʁjɛnɛn,nom_flexion,err_lower_case,L_as_first_letter
 Luganville,ly.ɡɑ.vil,nom propre,err_lower_case,L_as_first_letter
-Luingne,lwiɲ,nom propre,err_lower_case,L_as_first_letter
 Luingne,lɥiɲ,nom propre,err_lower_case,L_as_first_letter
+Luingne,lwiɲ,nom propre,err_lower_case,L_as_first_letter
 Léaz,le.a,nom propre,err_lower_case,L_as_first_letter
 Léopold,le.ɔ.pɔl,prénom_genre=m,err_lower_case,L_as_first_letter
 Léopoldville,le.ɔ.pɔl.vil,nom propre,err_lower_case,L_as_first_letter
@@ -5956,8 +5902,8 @@ Macabée,ma.ka.bɛ,nom propre,err_lower_case,M_as_first_letter
 Macabées,ma.ka.bɛ,nom propre_flexion,err_lower_case,M_as_first_letter
 Maccabée,ma.ka.bɛ,nom propre,err_lower_case,M_as_first_letter
 Macchabée,ma.ka.bɛ,nom propre,err_lower_case,M_as_first_letter
-Macchabées,ma.ka.bɛ,nom propre,err_lower_case,M_as_first_letter
 Macchabées,ma.ka.bɛ,nom_flexion,err_lower_case,M_as_first_letter
+Macchabées,ma.ka.bɛ,nom propre,err_lower_case,M_as_first_letter
 Machabées,ma.ka.bɛ,nom propre,err_lower_case,M_as_first_letter
 Machecoul,mɑʃ.ku,nom propre,err_lower_case,M_as_first_letter
 Mackenheim,ma.kən.(h)ajm,nom propre,err_lower_case,M_as_first_letter
@@ -5994,8 +5940,8 @@ Melessien,pɛ̃,nom,err_lower_case,M_as_first_letter
 Melgven,mɛl.vɛ̃,nom propre,err_lower_case,M_as_first_letter
 Melsheim,mɛls.(h)ajm,nom propre,err_lower_case,M_as_first_letter
 Melz,mɛlts,nom propre,err_lower_case,M_as_first_letter
-Mermoz,mɛʁ.mɔ,nom propre,err_lower_case,M_as_first_letter
 Mermoz,mɛʁ.mɔ,nom de famille,err_lower_case,M_as_first_letter
+Mermoz,mɛʁ.mɔ,nom propre,err_lower_case,M_as_first_letter
 Merxheim,mɛʁks.(h)ajm,nom propre_num=2,err_lower_case,M_as_first_letter
 Merxheim,mɛʁks.(h)ajm,nom propre_num=1,err_lower_case,M_as_first_letter
 Meschers,me.ʃɛ,nom propre,err_lower_case,M_as_first_letter
@@ -6023,8 +5969,8 @@ Mle,mɔ.dɛl,nom,err_lower_case,M_as_first_letter
 Mles,mɔ.dɛl,nom_flexion,err_lower_case,M_as_first_letter
 Moine,mixant,nom propre,err_lower_case,M_as_first_letter
 Molsheim,mɔls.(h)ajm,nom propre,err_lower_case,M_as_first_letter
-Mommenheim,mɔ.mən.(h)ajm,nom propre_num=1,err_lower_case,M_as_first_letter
 Mommenheim,mɔ.mən.(h)ajm,nom propre_num=2,err_lower_case,M_as_first_letter
+Mommenheim,mɔ.mən.(h)ajm,nom propre_num=1,err_lower_case,M_as_first_letter
 Mongs,mɔ̃ŋ,nom_flexion,err_lower_case,M_as_first_letter
 Mononk,mɔ̃.nɔ̃k,nom propre,err_lower_case,M_as_first_letter
 Montcuq,mɔ̃.ky,nom propre,err_lower_case,M_as_first_letter
@@ -6043,8 +5989,8 @@ Mourmansk,muʁ.mɑsk,nom propre,err_lower_case,M_as_first_letter
 Moëns,mo.ɛ̃s,nom propre,err_lower_case,M_as_first_letter
 Mrs,mi.siz,nom,err_lower_case,M_as_first_letter
 Muguruza,mu.ɡu.ʁu.dza,nom de famille,err_lower_case,M_as_first_letter
-Mundaŋ,mun.daŋ,nom,err_lower_case,M_as_first_letter
 Mundaŋ,mun.dɑ̃ɡ,nom,err_lower_case,M_as_first_letter
+Mundaŋ,mun.daŋ,nom,err_lower_case,M_as_first_letter
 Mundolsheim,mun.dɔls.(h)ajm,nom propre,err_lower_case,M_as_first_letter
 Muntzenheim,mun.tsən.(h)ajm,nom propre,err_lower_case,M_as_first_letter
 Murray,swan,nom propre,err_lower_case,M_as_first_letter
@@ -6053,11 +5999,11 @@ Mélinée,mɛ.li.nɛ,prénom_genre=f,err_lower_case,M_as_first_letter
 Ménomini,i.nu,nom,err_lower_case,M_as_first_letter
 Métropolitaine,me.tʁo.pɔ.li.tɛ̃ɛn,nom,err_lower_case,M_as_first_letter
 Mézériat,me.ze.ʁj,nom propre,err_lower_case,M_as_first_letter
-M€,ɛm.ø,symbole,err_lower_case,M_as_first_letter
 M€,me.ɡa.ø.ʁo,symbole,err_lower_case,M_as_first_letter
+M€,ɛm.ø,symbole,err_lower_case,M_as_first_letter
+N+1,a.ne ɛn ply.z‿œ̃,nom_num=2,err_lower_case,N_as_first_letter
 N+1,ɛn ply.z‿œ̃,nom_num=2,err_lower_case,N_as_first_letter
 N+1,ɛn ply.z‿œ̃,nom_num=1,err_lower_case,N_as_first_letter
-N+1,a.ne ɛn ply.z‿œ̃,nom_num=2,err_lower_case,N_as_first_letter
 Nairobi,nai.ro.bi,nom propre,err_lower_case,N_as_first_letter
 Nambsheim,nambs.(h)ajm,nom propre,err_lower_case,N_as_first_letter
 Naxiennes,nak.sjɛn/,nom_flexion,err_lower_case,N_as_first_letter
@@ -6089,14 +6035,14 @@ Nuuk,nuk,nom propre,err_lower_case,N_as_first_letter
 N½E,nɔʁ də.mi ɛst,nom,err_lower_case,N_as_first_letter
 N½O,nɔʁ də.mi wɛst,nom,err_lower_case,N_as_first_letter
 N’Golo,ŋɡo.lo,prénom_genre=m,err_lower_case,N_as_first_letter
-N’Guessan,ŋe.sɑ̃,prénom_genre=mf,err_lower_case,N_as_first_letter
 N’Guessan,ŋe.sɑ̃,nom de famille,err_lower_case,N_as_first_letter
+N’Guessan,ŋe.sɑ̃,prénom_genre=mf,err_lower_case,N_as_first_letter
 N’Guyen,nɥi.jɛn,nom de famille,err_lower_case,N_as_first_letter
 N−1,ɛn mwɛ̃.z‿œ̃,nom_num=1,err_lower_case,N_as_first_letter
 N−1,a.ne ɛn mwɛ̃.z‿œ̃,nom_num=2,err_lower_case,N_as_first_letter
 N−1,ɛn mwɛ̃.z‿œ̃,nom_num=2,err_lower_case,N_as_first_letter
-Oaxaca,wa.ʁa.ka,nom propre,err_lower_case,O_as_first_letter
 Oaxaca,wa.ha.ka,nom propre,err_lower_case,O_as_first_letter
+Oaxaca,wa.ʁa.ka,nom propre,err_lower_case,O_as_first_letter
 Obenheim,o.bən.(h)ajm,nom propre,err_lower_case,O_as_first_letter
 Oberhergheim,o.bəʁ.(h)ɛʁk.(h)ajm,nom propre,err_lower_case,O_as_first_letter
 Obersaasheim,o.bəʁ.sas.(h)ajm,nom propre,err_lower_case,O_as_first_letter
@@ -6191,15 +6137,15 @@ Raedersheim,ʁɛ.dəʁs.(h)ajm,nom propre,err_lower_case,R_as_first_letter
 Raes,ʁaːs,nom de famille,err_lower_case,R_as_first_letter
 Rameaux,ra.mo,nom propre,err_lower_case,R_as_first_letter
 Raoult,ʁa.u,nom de famille,err_lower_case,R_as_first_letter
-Raynard,rɛ.naʁ,prénom_genre=m,err_lower_case,R_as_first_letter
 Raynard,rɛ.naʁ,nom de famille,err_lower_case,R_as_first_letter
+Raynard,rɛ.naʁ,prénom_genre=m,err_lower_case,R_as_first_letter
 Reading,ʁɛ.diɲ,nom propre,err_lower_case,R_as_first_letter
 Reguisheim,ʁe.ɡis.(h)ajm,nom propre,err_lower_case,R_as_first_letter
 Reichshoffen,ʁaiʃçofən,nom propre,err_lower_case,R_as_first_letter
 Remy,re.mi,nom de famille,err_lower_case,R_as_first_letter
 Retz,ʁɛ,nom propre_num=1,err_lower_case,R_as_first_letter
-Retz,ʁɛ,nom propre_num=3,err_lower_case,R_as_first_letter
 Retz,ʁɛ,nom propre_num=2,err_lower_case,R_as_first_letter
+Retz,ʁɛ,nom propre_num=3,err_lower_case,R_as_first_letter
 Retz,ʁɛ,nom propre_num=4,err_lower_case,R_as_first_letter
 Rheims,ʁɛ̃s,nom propre,err_lower_case,R_as_first_letter
 Rhodien,ʁɔ.dɛ̃,nom,err_lower_case,R_as_first_letter
@@ -6209,8 +6155,8 @@ Riedisheim,ʁi.dis.(h)ajm,nom propre,err_lower_case,R_as_first_letter
 Ripierrois,ʁi.pjɛ.rwa,nom,err_lower_case,R_as_first_letter
 Riquewihr,ʁi.k(ə).viːʁ,nom propre,err_lower_case,R_as_first_letter
 Rixheim,ʁiks.(h)ajm,nom propre,err_lower_case,R_as_first_letter
-Roberval,ro.bɛʁ.val,nom propre,err_lower_case,R_as_first_letter
 Roberval,ro.bɛʁ.val,nom de famille,err_lower_case,R_as_first_letter
+Roberval,ro.bɛʁ.val,nom propre,err_lower_case,R_as_first_letter
 Rohingya,ʁɔ.in.ɡa,nom,err_lower_case,R_as_first_letter
 Romagnoles,ɛs.pa.ɲɔl,nom_flexion,err_lower_case,R_as_first_letter
 Romanaise,ʁɔ.mɑ̃.nɛ,nom,err_lower_case,R_as_first_letter
@@ -6231,24 +6177,24 @@ Russkoffs,ʁys.kɔf,nom_flexion,err_lower_case,R_as_first_letter
 Russo,ru.so,nom de famille,err_lower_case,R_as_first_letter
 Rzepka,ʒɛp.ka,nom de famille,err_lower_case,R_as_first_letter
 Rán,ʁan,nom propre,err_lower_case,R_as_first_letter
-Rédoine,re.dwan,prénom_genre=?,err_lower_case,R_as_first_letter
+Rédoine,re.dwan,prénom_genre=m,err_lower_case,R_as_first_letter
 Réguisheim,ʁe.ɡis.(h)ajm,nom propre,err_lower_case,R_as_first_letter
 Saale,sɑːl,nom propre,err_lower_case,S_as_first_letter
 Saasenheim,za.zən.(h)ajm,nom propre,err_lower_case,S_as_first_letter
 Saasenheim,sa.zən.(h)ajm,nom propre,err_lower_case,S_as_first_letter
-Saessolsheim,zɛ.sɔls.(h)ajm,nom propre,err_lower_case,S_as_first_letter
 Saessolsheim,sɛ.sɔls.(h)ajm,nom propre,err_lower_case,S_as_first_letter
+Saessolsheim,zɛ.sɔls.(h)ajm,nom propre,err_lower_case,S_as_first_letter
 Sahaiɂa,sa.haj.a,prénom_genre=f,err_lower_case,S_as_first_letter
 Sahraoui,sa.a.ʁa.wi,nom,err_lower_case,S_as_first_letter
-Salarvyáni,sɑ.lɑɾ.vjˈɑ.ni,nom,err_lower_case,S_as_first_letter
 Salarvyáni,sa.laʁ.vja.ni,nom,err_lower_case,S_as_first_letter
+Salarvyáni,sɑ.lɑɾ.vjˈɑ.ni,nom,err_lower_case,S_as_first_letter
 Salarvyánis,sɑ.lɑɾ.vjˈɑ.ni,nom_flexion,err_lower_case,S_as_first_letter
 Samoëns,sa.mwɛ̃,nom propre,err_lower_case,S_as_first_letter
 San,da.ma.ʁa,nom propre_num=1,err_lower_case,S_as_first_letter
+Sankarani,sɑ̃.ka.na.ʁi,nom propre,err_lower_case,S_as_first_letter
 Saqqaq,sa.kak,nom propre,err_lower_case,S_as_first_letter
 Saraxolle,sa.ʁa.ʁɔ.le,nom,err_lower_case,S_as_first_letter
 Sarcelloise,saʁ.sɛl.lwa,nom,err_lower_case,S_as_first_letter
-Sarkoland,saʁ.kɔ.lænd,nom propre,err_lower_case,S_as_first_letter
 Sathonarde,sa.tɔʁ.naʁd,nom,err_lower_case,S_as_first_letter
 Sausheim,swas.(h)ajm,nom propre,err_lower_case,S_as_first_letter
 Sayabec,se.bɛk,nom propre,err_lower_case,S_as_first_letter
@@ -6280,16 +6226,16 @@ Seal,siːl,nom,err_lower_case,S_as_first_letter
 Seals,siːl,nom_flexion,err_lower_case,S_as_first_letter
 Seelow,ˈzeː.lo,nom propre,err_lower_case,S_as_first_letter
 Seillonnaz,se.jo.na,nom propre,err_lower_case,S_as_first_letter
-Sentheim,sɛnt.(h)ajm,nom propre,err_lower_case,S_as_first_letter
 Sentheim,zɛnt.(h)ajm,nom propre,err_lower_case,S_as_first_letter
+Sentheim,sɛnt.(h)ajm,nom propre,err_lower_case,S_as_first_letter
 Seohyeon,sɔ.jɔn,prénom_genre=f,err_lower_case,S_as_first_letter
 Seoyeon,sɔ.yɔn,prénom_genre=f,err_lower_case,S_as_first_letter
 Sepmes,sɛm,nom propre,err_lower_case,S_as_first_letter
 Sequoyah,se.kɔ.ya,nom propre,err_lower_case,S_as_first_letter
 Sermersheim,sɛʁ.məʁs.(h)ajm,nom propre,err_lower_case,S_as_first_letter
 Sermersheim,zɛʁ.məʁs.(h)ajm,nom propre,err_lower_case,S_as_first_letter
-Sessenheim,se.zən.(h)ajm,nom propre,err_lower_case,S_as_first_letter
 Sessenheim,sɛ.sən.(h)ajm,nom propre,err_lower_case,S_as_first_letter
+Sessenheim,se.zən.(h)ajm,nom propre,err_lower_case,S_as_first_letter
 Sestrières,sɛs.tʁjeʁ,nom propre,err_lower_case,S_as_first_letter
 Seveso,ˈse.ve.zo,nom propre_num=2,err_lower_case,S_as_first_letter
 Seveso,ˈse.ve.zo,nom propre_num=1,err_lower_case,S_as_first_letter
@@ -6329,7 +6275,6 @@ Szczerbiec,tʃɛʁ.biɛts,nom propre,err_lower_case,S_as_first_letter
 S½E,syd də.mi ɛst,nom,err_lower_case,S_as_first_letter
 S½O,syd də.mi wɛst,nom,err_lower_case,S_as_first_letter
 Sámi,sa.mi,nom,err_lower_case,S_as_first_letter
-Sébastopolitaine,se.bas.tɔ.pɔ.li.tɛ̃nɛn,nom,err_lower_case,S_as_first_letter
 Sébastopolitaines,se.bas.tɔ.pɔ.li.tɛ̃n,nom_flexion,err_lower_case,S_as_first_letter
 Sédhiou,se.ʒu,nom propre,err_lower_case,S_as_first_letter
 Séez,se,nom propre,err_lower_case,S_as_first_letter
@@ -6356,12 +6301,12 @@ Trent,tɹɛnt,nom propre_num=2,err_lower_case,T_as_first_letter
 Trentemoult,tʁɑ̃t.mu,nom propre,err_lower_case,T_as_first_letter
 Tripolitains,tʁi.pɔ.li.tɛ,nom_flexion,err_lower_case,T_as_first_letter
 Tromelin,tʁo.me.lɛ,nom propre,err_lower_case,T_as_first_letter
-Troyen,tʁwa.jɛnɛ̃,nom_num=2,err_lower_case,T_as_first_letter
 Troyen,tʁwa.jɛnɛ̃,nom_num=1,err_lower_case,T_as_first_letter
+Troyen,tʁwa.jɛnɛ̃,nom_num=2,err_lower_case,T_as_first_letter
 Truchtersheim,tʁuxtəʁsajm,nom propre,err_lower_case,T_as_first_letter
 Trégarvanais,tʁe.vaʁ.ɡa.nɛ,nom,err_lower_case,T_as_first_letter
 Trégarvanaise,tʁe.vaʁ.ɡa.nɛz,nom,err_lower_case,T_as_first_letter
-Trégarvanaises,tʁe.vaʁ.ga.nɛz,nom_flexion,err_lower_case,T_as_first_letter
+Trégarvanaises,tʁe.vaʁ.ɡa.nɛz,nom_flexion,err_lower_case,T_as_first_letter
 Tréhet,tʁe.e,nom propre,err_lower_case,T_as_first_letter
 Tsolyáni,tso.ˈljɑ.ni,nom,err_lower_case,T_as_first_letter
 Tsolyáni,tsɔl.ja.ni,nom,err_lower_case,T_as_first_letter
@@ -6382,8 +6327,8 @@ Usenet,juz.nɛt,nom propre,err_lower_case,U_as_first_letter
 Utoeya,u.tɔ.ja,nom propre,err_lower_case,U_as_first_letter
 Utoya,u.tø.ja,nom propre,err_lower_case,U_as_first_letter
 Uttenheim,u.tən.(h)ajm,nom propre,err_lower_case,U_as_first_letter
-Utøya,u.tø.ja,nom propre,err_lower_case,U_as_first_letter
 Utøya,u.tɔ.ja,nom propre,err_lower_case,U_as_first_letter
+Utøya,u.tø.ja,nom propre,err_lower_case,U_as_first_letter
 Uummannaq,nja.kɔʁ.nat,nom propre,err_lower_case,U_as_first_letter
 Vagney,vaɲeː,nom propre,err_lower_case,V_as_first_letter
 Valentigney,valɑ̃tiɲeː,nom propre,err_lower_case,V_as_first_letter
@@ -6401,8 +6346,8 @@ Vikingue,vi.kiŋ,nom,err_lower_case,V_as_first_letter
 Vikingues,vi.kiŋ,nom_flexion,err_lower_case,V_as_first_letter
 Villegailhenc,vi.lə.ɡa.jɛ̃,nom propre,err_lower_case,V_as_first_letter
 Villeneuve,vil.nœːv,nom de famille,err_lower_case,V_as_first_letter
-Villeneuve,vil.nœːv,nom propre_num=1,err_lower_case,V_as_first_letter
 Villeneuve,vil.nœːv,nom propre_num=2,err_lower_case,V_as_first_letter
+Villeneuve,vil.nœːv,nom propre_num=1,err_lower_case,V_as_first_letter
 Volgelsheim,fɔl.ɡəls.(h)ajm,nom propre,err_lower_case,V_as_first_letter
 Volkswagen,vols.va.ɡən,nom propre,err_lower_case,V_as_first_letter
 Voncq,vɔ̃,nom propre,err_lower_case,V_as_first_letter
@@ -6463,10 +6408,10 @@ Xhignesse,hi.ɲɛs,nom propre,err_lower_case,X_as_first_letter
 Xhignesse,i.ɲɛs,nom propre,err_lower_case,X_as_first_letter
 Xhoffraix,ɔ.fʁɛ,nom propre,err_lower_case,X_as_first_letter
 Xhoffraix,hɔ.fʁɛ,nom propre,err_lower_case,X_as_first_letter
-Xhoris,hɔ.ʁis,nom propre,err_lower_case,X_as_first_letter
 Xhoris,ɔ.ʁis,nom propre,err_lower_case,X_as_first_letter
-Xhovémont,ɔ.ve.mɔ̃,nom propre,err_lower_case,X_as_first_letter
+Xhoris,hɔ.ʁis,nom propre,err_lower_case,X_as_first_letter
 Xhovémont,hɔ.ve.mɔ̃,nom propre,err_lower_case,X_as_first_letter
+Xhovémont,ɔ.ve.mɔ̃,nom propre,err_lower_case,X_as_first_letter
 Xhurdebise,hyʁd.biz,nom propre,err_lower_case,X_as_first_letter
 Xhurdebise,yʁd.biz,nom propre,err_lower_case,X_as_first_letter
 Y,ɡʁɑ̃(t‿) i.ɡʁɛk,nom,err_lower_case,Y_as_first_letter
@@ -6475,10 +6420,10 @@ Yhwh,ja.ve,nom propre,err_lower_case,Y_as_first_letter
 Yolène,jɔ.lɛːn,prénom_genre=f,err_lower_case,Y_as_first_letter
 Yucatán,ju.ka.tan,nom propre,err_lower_case,Y_as_first_letter
 Yézidis,jə.zi.di,nom_flexion,err_lower_case,Y_as_first_letter
-Yıldız,jil.diz,nom de famille,err_lower_case,Y_as_first_letter
 Yıldız,jil.diz,prénom_genre=f,err_lower_case,Y_as_first_letter
-Yılmaz,jil.maz,nom de famille,err_lower_case,Y_as_first_letter
+Yıldız,jil.diz,nom de famille,err_lower_case,Y_as_first_letter
 Yılmaz,jil.maz,prénom_genre=m,err_lower_case,Y_as_first_letter
+Yılmaz,jil.maz,nom de famille,err_lower_case,Y_as_first_letter
 Z,ɡʁɑ̃ zɛd,nom,err_lower_case,Z_as_first_letter
 Zeinheim,tsajn.(h)ajm,nom propre,err_lower_case,Z_as_first_letter
 Zeus,dzøs,nom propre,err_lower_case,Z_as_first_letter
@@ -6502,9 +6447,9 @@ Zuyderzée,zuy.dɛʁ.zɛ,nom propre,err_lower_case,Z_as_first_letter
 Zénobie,ze.nɔ̃.bi,nom propre,err_lower_case,Z_as_first_letter
 Zœbersdorf,tsø.bəʁs.dɔʁf,nom propre,err_lower_case,Z_as_first_letter
 °B,də.ɡʁe bʁiks,symbole_num=3,err_lower_case,°_as_first_letter
+°B,də.ɡʁe bɑ.liŋ,symbole_num=2,err_lower_case,°_as_first_letter
 °B,də.ɡʁe ba.liŋ,symbole_num=2,err_lower_case,°_as_first_letter
 °B,də.ɡʁe bo.me,symbole_num=1,err_lower_case,°_as_first_letter
-°B,də.ɡʁe bɑ.liŋ,symbole_num=2,err_lower_case,°_as_first_letter
 °Be,də.ɡʁe bo.me,symbole,err_lower_case,°_as_first_letter
 °Bé,də.ɡʁe bo.me,symbole,err_lower_case,°_as_first_letter
 °M,də.ɡʁe mis.naʁ,symbole,err_lower_case,°_as_first_letter
@@ -6569,8 +6514,6 @@ G-house,ʒe.a.uz,nom,err_lower_case,G_as_first_letter
 Geiswiller-Zœbersdorf,ɡajs.vi.lɛʁ.tsø.bəʁs.dɔʁf,nom propre,err_lower_case,G_as_first_letter
 Grand Bourgtheroulde,ɡʁɑ̃ buʁ.tʁud,nom propre,err_lower_case,G_as_first_letter
 Grand-Bourgtheroulde,ɡʁɑ̃ buʁ.tʁud,nom propre,err_lower_case,G_as_first_letter
-Grandes-Bretonnes,gʁɑ̃d.bʁə.tɔn,nom_flexion,err_lower_case,G_as_first_letter
-Grands-Bretons,gʁɑ̃.bʁə.tɔ̃,nom_flexion,err_lower_case,G_as_first_letter
 Groslée-Saint-Benoît,ɡʁo.le.sɛ.bə.nwa,nom propre,err_lower_case,G_as_first_letter
 Guinée-Bissau,ɡi.ne bi.sa.o,nom propre,err_lower_case,G_as_first_letter
 Horus l’Ancien,ɔ.ʁys lɑ̃.sj,nom propre,err_lower_case,H_as_first_letter
@@ -6670,6 +6613,7 @@ Plouguenast-Langast,pluɡ.na.lɑ̃.ɡa,nom propre,err_lower_case,P_as_first_lett
 Popol Vuh,pɔ.pɔl vu,nom propre,err_lower_case,P_as_first_letter
 Port-Bouët,pɔʁ.bwɛ,nom propre,err_lower_case,P_as_first_letter
 Rountzenheim-Auenheim,ʁun.tsən.(h)ajm.aw.ən.(h)ajm,nom propre,err_lower_case,R_as_first_letter
+San José,sɑ̃  ʁɔ.se,nom propre,err_lower_case,S_as_first_letter
 San Theodoros,sɑ te.o.do.ʁos,nom propre,err_lower_case,S_as_first_letter
 Saturne L,sa.tyʁn sɛ̃.kɑ̃t,nom propre,err_lower_case,S_as_first_letter
 Saturne LI,sa.tyʁn sɛ̃.kɑ̃t‿e œ̃,nom propre,err_lower_case,S_as_first_letter
@@ -6728,8 +6672,8 @@ Valle Gran Rey,ba.je ɡʁɑ̃n.ʁɛj,nom propre,err_lower_case,V_as_first_letter
 Van Dyck,van.dɛjk,nom de famille,err_lower_case,V_as_first_letter
 dolce vita,dɔl.tʃe vi.ta,nom,err_too_many_spaces,1_spaces
 endodésoxyribonucléase 9,ɑ̃.do.de.zo.ɡsi.ʁi.bo.ny.kle.az nœf,nom,err_too_many_spaces,1_spaces
-ha-ha,a.ʔa,nom,err_phonemes,ʔ
 ha-ha,ɑ.ʔɑ,nom,err_phonemes,ʔ
+ha-ha,a.ʔa,nom,err_phonemes,ʔ
 ha-has,a.ʔa,nom_flexion,err_phonemes,ʔ
 ha-has,ɑ.ʔɑ,nom_flexion,err_phonemes,ʔ
 house music,aws mju.zik,nom,err_too_many_spaces,1_spaces
@@ -6759,14 +6703,15 @@ witch house,witʃ a.uz,nom,err_too_many_spaces,1_spaces
 -zoaire,ʒɔ.ɛʁ,nom,-,-
 2CV,dø.ʃə.vo,nom,err_lower_case,2_as_first_letter
 AA+,a a plys,symbole,err_lower_case,A_as_first_letter
-AAA,tri.plə a,symbole,err_lower_case,A_as_first_letter
+AAA,tʁi.plə a,symbole,err_lower_case,A_as_first_letter
 AB,a.se bjɛ̃,adjectif,err_lower_case,A_as_first_letter
 AL,a.sid li.nɔ.le.ik,nom,err_lower_case,A_as_first_letter
-ALAT,aˈlat,nom_num=1,err_lower_case,A_as_first_letter
 ALAT,aˈlat,nom_num=2,err_lower_case,A_as_first_letter
+ALAT,aˈlat,nom_num=1,err_lower_case,A_as_first_letter
 ATER,a.te.ə.ɛr,nom,err_lower_case,A_as_first_letter
 BBA,bi.bi.ɛ,nom,err_lower_case,B_as_first_letter
 BD,bul.vaʁ,nom_num=4,err_lower_case,B_as_first_letter
+BM,bwa mwa.jɛ̃,nom_num=4,err_lower_case,B_as_first_letter
 CB,si.bi,nom_num=2,err_lower_case,C_as_first_letter
 CCITT,se.se.i.tɛ.tɛ,nom propre,err_lower_case,C_as_first_letter
 CNAME,se.nɛjm,nom,err_lower_case,C_as_first_letter
@@ -6775,16 +6720,16 @@ CR80,se.ɛʁ.ka.tʁə.vɛ̃,nom,err_lower_case,C_as_first_letter
 CRISPR,ˈkrɪspəʳ,nom,err_lower_case,C_as_first_letter
 CSE,se.es.œ,nom_num=1,err_lower_case,C_as_first_letter
 CSE,se.es.œ,nom_num=2,err_lower_case,C_as_first_letter
-CSM,se.ɛs.em,nom_num=2,err_lower_case,C_as_first_letter
 CSM,se.es.em,nom_num=1,err_lower_case,C_as_first_letter
+CSM,se.ɛs.em,nom_num=2,err_lower_case,C_as_first_letter
 CSO,se.es.o,nom,err_lower_case,C_as_first_letter
 CSP+,se.ɛs.pe.plys,nom,err_lower_case,C_as_first_letter
 CSP++,se.ɛs.pe.plys.plys,nom,err_lower_case,C_as_first_letter
 CSP-,se.ɛs.pe.mwɛ̃,nom,err_lower_case,C_as_first_letter
 CSSCT,se.dø.zɛs.se.te,nom,err_lower_case,C_as_first_letter
 DIY,di.aj.waj,nom_num=2,err_lower_case,D_as_first_letter
-DIY,di.aj.waj,nom_num=1,err_lower_case,D_as_first_letter
 DIY,di.aj.waj,adjectif,err_lower_case,D_as_first_letter
+DIY,di.aj.waj,nom_num=1,err_lower_case,D_as_first_letter
 DJ,di.dʒe,nom,err_lower_case,D_as_first_letter
 DL50,de.ɛl sɛ̃.kɑ̃t,nom,err_lower_case,D_as_first_letter
 DVDD,disk vi.de.o a dy.ʁe de.tɛʁ.mi.ne,nom,err_lower_case,D_as_first_letter
@@ -6797,6 +6742,7 @@ ET,i.ti,nom_num=1,err_lower_case,E_as_first_letter
 E¼NE,ɛst kaʁ nɔ.ʁ‿ɛst,nom,err_lower_case,E_as_first_letter
 E¼SE,ɛst kaʁ sy.d‿ɛst,nom,err_lower_case,E_as_first_letter
 FBI,ɛf.bi.aj,nom propre,err_lower_case,F_as_first_letter
+GB,ɡʁo bwa,nom,err_lower_case,G_as_first_letter
 GI,dʒi.aj,nom,err_lower_case,G_as_first_letter
 J2EE,ʒi.dø.ø,nom,err_lower_case,J_as_first_letter
 JSON,dʒej.sɔn,nom,err_lower_case,J_as_first_letter
@@ -6805,7 +6751,6 @@ MBA,ɛm.bi.eɪ,nom,err_lower_case,M_as_first_letter
 MCCC,ɛm.tʁwa.se,nom,err_lower_case,M_as_first_letter
 MP*,ɛm.pe.e.twal,nom,err_lower_case,M_as_first_letter
 MT,mø.tø,nom_num=1,err_lower_case,M_as_first_letter
-NAG,nag,nom,err_lower_case,N_as_first_letter
 NBA,ɛn.bi.e,nom propre,err_lower_case,N_as_first_letter
 NE¼E,nɔ.ʁ‿ɛst ka.ʁ‿ɛst,nom,err_lower_case,N_as_first_letter
 NE¼N,nɔ.ʁ‿ɛst kaʁ nɔʁ,nom,err_lower_case,N_as_first_letter
@@ -6832,6 +6777,7 @@ OSO½O,wɛst sy.d‿wɛst də.mi wɛst,nom,err_lower_case,O_as_first_letter
 OSO½S,wɛst sy.d‿wɛst də.mi syd,nom,err_lower_case,O_as_first_letter
 O¼NO,wɛst kaʁ nɔ.ʁ‿wɛst,nom,err_lower_case,O_as_first_letter
 O¼SO,wɛst kaʁ sy.d‿wɛst,nom,err_lower_case,O_as_first_letter
+PB,pə.ti bwa,nom,err_lower_case,P_as_first_letter
 PC*,pe.se.e.twal,nom,err_lower_case,P_as_first_letter
 PSI*,pe.ɛs.i.e.twal,nom,err_lower_case,P_as_first_letter
 RJ45,ɛʁ.ʒi.kaʁ.ɑ̃t.sɛ̃k,nom,err_lower_case,R_as_first_letter
@@ -6859,6 +6805,8 @@ SVP,sil.vu.plɛ,interjection,err_lower_case,S_as_first_letter
 S¼SE,syd kaʁ sy.d‿ɛst,nom,err_lower_case,S_as_first_letter
 S¼SO,syd kaʁ sy.d‿wɛst,nom,err_lower_case,S_as_first_letter
 TFAI,te.ɛf.a.i ou tfaj,nom propre,err_lower_case,T_as_first_letter
+TFT,te ɜf te,nom,err_lower_case,T_as_first_letter
+TGB,tʁɜ ɡʁo bwa,nom,err_lower_case,T_as_first_letter
 TPIY,te.pe.i.ɡʁɛk,nom,err_lower_case,T_as_first_letter
 UKG,ju.ke.ʒe,nom,err_lower_case,U_as_first_letter
 VIP,vi.aj.pi,nom,err_lower_case,V_as_first_letter
@@ -6909,23 +6857,23 @@ WEI,ˈwaj ou ˈwɛj,nom,err_lower_case,W_as_first_letter
 421,kat.sɑ̃.vɛ̃.t‿e.œ̃,nom,err_lower_case,4_as_first_letter
 43,ka.ʁɑ̃.tə.tʁwa,nom,err_lower_case,4_as_first_letter
 46,ka.ʁɑ̃t.sis,nom,err_lower_case,4_as_first_letter
+4×4,kat.kat,adjectif,err_lower_case,4_as_first_letter
 4×4,kat.kat,nom,err_lower_case,4_as_first_letter
 4×4,katʁ.katʁ,nom,err_lower_case,4_as_first_letter
-4×4,kat.kat,adjectif,err_lower_case,4_as_first_letter
 4×4,katʁ.katʁ,adjectif,err_lower_case,4_as_first_letter
 60,swa.sɑ̃t,nom propre,err_lower_case,6_as_first_letter
 63,swa.sɑ̃.tə.tʁwa,nom,err_lower_case,6_as_first_letter
 65,swa.sɑ̃t.sɛ̃k,nom,err_lower_case,6_as_first_letter
 666,si.sɑ̃.swa.sɑ̃t.sis,nom,err_lower_case,6_as_first_letter
 666,si.sɑ̃.swa.sɑ̃t.sis,adjectif numéral,err_lower_case,6_as_first_letter
-69,swa.sɑ̃t.nœf,nom propre,err_lower_case,6_as_first_letter
 69,swa.sɑ̃t.nœf,nom,err_lower_case,6_as_first_letter
-73,swa.sɑ̃t.tʁɛz,nom propre,err_lower_case,7_as_first_letter
+69,swa.sɑ̃t.nœf,nom propre,err_lower_case,6_as_first_letter
 73,swa.sɑ̃t.tʁɛz,nom,err_lower_case,7_as_first_letter
+73,swa.sɑ̃t.tʁɛz,nom propre,err_lower_case,7_as_first_letter
 74,swa.sɑ̃t.ka.tɔʁz,nom,err_lower_case,7_as_first_letter
 75,swa.sɑ̃t.kɛ̃z,nom,err_lower_case,7_as_first_letter
-76,swa.sɑ̃t.sɛz,nom_num=1,err_lower_case,7_as_first_letter
 76,swa.sɑ̃t.sɛz,nom_num=2,err_lower_case,7_as_first_letter
+76,swa.sɑ̃t.sɛz,nom_num=1,err_lower_case,7_as_first_letter
 77,swa.sɑ̃t.di.sɛt,nom,err_lower_case,7_as_first_letter
 78,swa.sɔ̃t.di.z‿ɥit,nom,err_lower_case,7_as_first_letter
 81,ka.tʁə.vɛ̃.œ̃,nom,err_lower_case,8_as_first_letter
@@ -6959,13 +6907,13 @@ HTMLs,aʃ.te.ɛm.ɛl,nom_flexion,err_lower_case,H_as_first_letter
 IdN,i.de.ɛ̃n,nom,err_lower_case,I_as_first_letter
 Juǀʼhoansi,ʒut.ho.an.si,nom propre,err_lower_case,J_as_first_letter
 Juǀʼhoansis,ʒut.ho.an.si,nom_flexion,err_lower_case,J_as_first_letter
-LaTeX,la.tɛk,nom propre,err_lower_case,L_as_first_letter
 LaTeX,la.tɛx,nom propre,err_lower_case,L_as_first_letter
+LaTeX,la.tɛk,nom propre,err_lower_case,L_as_first_letter
 McAdam,ma.ka.dam,nom de famille,err_lower_case,M_as_first_letter
 McDo,mak.do,nom propre,err_lower_case,M_as_first_letter
 McDo,mak.do,nom,err_lower_case,M_as_first_letter
-McDonald’s,mak.dɔ.naldz,nom propre,err_lower_case,M_as_first_letter
 McDonald’s,mak.dɔ.nald,nom propre,err_lower_case,M_as_first_letter
+McDonald’s,mak.dɔ.naldz,nom propre,err_lower_case,M_as_first_letter
 McGuffin,mak.ɡœ.fin,nom,err_lower_case,M_as_first_letter
 McGuffins,mak.ɡœ.fin,nom_flexion,err_lower_case,M_as_first_letter
 McJob,mɛk.dʒɔb,nom,err_lower_case,M_as_first_letter
@@ -6974,6 +6922,7 @@ McJobs,mak.dʒɔb,nom_flexion,err_lower_case,M_as_first_letter
 McJobs,mɛk.dʒɔb,nom_flexion,err_lower_case,M_as_first_letter
 McMastervillois,mɛk.mas.tœʁ.vi.lwa,nom,err_lower_case,M_as_first_letter
 Nevi’im,ne.vi.im,nom propre,err_lower_case,N_as_first_letter
+Nuku’alofa,nu.ku.a.lo.fa,nom propre,err_lower_case,N_as_first_letter
 N’dorola,ɛn.dɔ.ʁɔ.la,nom propre,err_lower_case,N_as_first_letter
 PBDEs,pe.be.de.ə,nom_flexion,err_lower_case,P_as_first_letter
 Pessa’h,pɛ.saʁ,nom,err_lower_case,P_as_first_letter
@@ -6995,8 +6944,8 @@ Vosg’patt,voʒ.pat,nom,err_lower_case,V_as_first_letter
 WEIs,ˈwaj ou ˈwɛj,nom_flexion,err_lower_case,W_as_first_letter
 Wuchiaping’ien,wu.tʃja.piŋ.jɛ̃,nom,err_lower_case,W_as_first_letter
 XPs,iks.pe,nom_flexion,err_lower_case,X_as_first_letter
-Xi’an,sjan,nom propre,err_lower_case,X_as_first_letter
 Xi’an,ʃi.an,nom propre,err_lower_case,X_as_first_letter
+Xi’an,sjan,nom propre,err_lower_case,X_as_first_letter
 YouTubeur,ju.tju.bœʁ,nom,err_lower_case,Y_as_first_letter
 YouTubeurs,ju.tju.bœʁ,nom_flexion,err_lower_case,Y_as_first_letter
 YouTubeuse,ju.tju.bøz,nom_flexion,err_lower_case,Y_as_first_letter
